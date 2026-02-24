@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const csvData = fs.readFileSync('/Users/haina/Documents/antigravity/GDG Members Count - Sheet2.csv', 'utf8');
+const csvData = fs.readFileSync('./chapters.csv', 'utf8');
 const lines = csvData.trim().split('\n');
 
 const chapters = [];

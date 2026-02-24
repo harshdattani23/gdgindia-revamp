@@ -1,0 +1,619 @@
+Program,ChapterCity,ChapterTitle,ChapterUrl
+GDG,Salem,GDG Salem,https://gdg.community.dev/gdg-salem/
+GDG,Patna,GDG Patna,https://gdg.community.dev/gdg-patna/
+GDG,Gwalior,GDG Gwalior,https://gdg.community.dev/gdg-gwalior/
+GDG,Jaipur,GDG Cloud Jaipur,https://gdg.community.dev/gdg-cloud-jaipur/
+GDG,Bhopal,GDG Bhopal,https://gdg.community.dev/gdg-bhopal/
+GDG,Nagpur,GDG Nagpur,https://gdg.community.dev/gdg-nagpur/
+GDG,Jodhpur,GDG Jodhpur,https://gdg.community.dev/gdg-jodhpur/
+GDG,Siliguri,GDG Siliguri,https://gdg.community.dev/gdg-siliguri/
+GDG,Nashik,GDG Nashik,https://gdg.community.dev/gdg-nashik/
+GDG,Ahmedabad,GDG Cloud Ahmedabad,https://gdg.community.dev/gdg-cloud-ahmedabad/
+GDG,Ranchi,GDG Ranchi,https://gdg.community.dev/gdg-ranchi/
+GDG,Mumbai,GDG MAD,https://gdg.community.dev/gdg-mad/
+GDG,Surat,GDG Surat,https://gdg.community.dev/gdg-surat/
+GDG,Chandigarh,GDG Chandigarh,https://gdg.community.dev/gdg-chandigarh/
+GDG,Mysuru,GDG Mysuru,https://gdg.community.dev/gdg-mysuru/
+GDG,Coimbatore,GDG Cloud Coimbatore,https://gdg.community.dev/gdg-cloud-coimbatore/
+GDG,Hubballi,GDG Hubli,https://gdg.community.dev/gdg-hubli/
+GDG,Indore,GDG Cloud Indore,https://gdg.community.dev/gdg-cloud-indore/
+GDG,Kolkata,GDG Cloud Kolkata,https://gdg.community.dev/gdg-cloud-kolkata/
+GDG,Hyderabad,GDG Cloud Hyderabad,https://gdg.community.dev/gdg-cloud-hyderabad/
+GDG,Visakhapatnam,GDG Vizag,https://gdg.community.dev/gdg-vizag/
+GDG,Mumbai,GDG Cloud Mumbai,https://gdg.community.dev/gdg-cloud-mumbai/
+GDG,Bangalore,GDG Cloud Bengaluru,https://gdg.community.dev/gdg-cloud-bengaluru/
+GDG,Chennai,GDG Cloud Chennai,https://gdg.community.dev/gdg-cloud-chennai/
+GDG,Delhi,GDG Cloud New Delhi,https://gdg.community.dev/gdg-cloud-new-delhi/
+GDG,Pune,GDG Cloud Pune,https://gdg.community.dev/gdg-cloud-pune/
+GDG,Kolkata,GDG Kolkata,https://gdg.community.dev/gdg-kolkata/
+GDG,Madurai,GDG Madurai,https://gdg.community.dev/gdg-madurai/
+GDG,Jaipur,GDG Jaipur,https://gdg.community.dev/gdg-jaipur/
+GDG,Indore,GDG Indore,https://gdg.community.dev/gdg-indore/
+GDG,Rajkot,GDG Rajkot,https://gdg.community.dev/gdg-rajkot/
+GDG,Panaji,GDG Goa,https://gdg.community.dev/gdg-goa/
+GDG,Gandhinagar,GDG Gandhinagar,https://gdg.community.dev/gdg-gandhinagar/
+GDG,Pune,GDG Pune,https://gdg.community.dev/gdg-pune/
+GDG,Hyderabad,GDG Hyderabad,https://gdg.community.dev/gdg-hyderabad/
+GDG,Chennai,GDG Chennai,https://gdg.community.dev/gdg-chennai/
+GDG,Kozhikode,GDG Kozhikode,https://gdg.community.dev/gdg-kozhikode/
+GDG,Udaipur,GDG Udaipur,https://gdg.community.dev/gdg-udaipur/
+GDG,Thiruvananthapuram,GDG Thiruvananthapuram,https://gdg.community.dev/gdg-thiruvananthapuram/
+GDG,Kochi,GDG Cochin,https://gdg.community.dev/gdg-cochin/
+GDG,Jalandhar,GDG Jalandhar,https://gdg.community.dev/gdg-jalandhar/
+GDG,Ahmedabad,GDG Ahmedabad,https://gdg.community.dev/gdg-ahmedabad/
+GDG,Bangalore,GDG Bangalore,https://gdg.community.dev/gdg-bangalore/
+GDG,Bhubaneswar,GDG Bhubaneswar,https://gdg.community.dev/gdg-bhubaneswar/
+GDG,Coimbatore,GDG Coimbatore,https://gdg.community.dev/gdg-coimbatore/
+GDG,Delhi,GDG New Delhi,https://gdg.community.dev/gdg-new-delhi/
+GDG,Vadodara,GDG Baroda,https://gdg.community.dev/gdg-baroda/
+GDG,Jammu,GDG Jammu,https://gdg.community.dev/gdg-jammu/
+GDG,Lucknow,GDG Lucknow,https://gdg.community.dev/gdg-lucknow/
+GDG,Durgapur,GDG Durgapur,https://gdg.community.dev/gdg-durgapur/
+GDG,Raipur,GDG Raipur,https://gdg.community.dev/gdg-raipur/
+GDG,Noida,GDG Noida,https://gdg.community.dev/gdg-noida/
+GDG,Kanpur,GDG Kanpur,https://gdg.community.dev/gdg-kanpur/
+GDG,Mysuru,GDG Cloud Mysuru,https://gdg.community.dev/gdg-cloud-mysuru/
+GDG,Bhubaneswar,GDG Cloud Bhubaneswar,https://gdg.community.dev/gdg-cloud-bhubaneswar/
+GDG,Bhopal,GDG Cloud Bhopal,https://gdg.community.dev/gdg-cloud-bhopal/
+GDG,Gurugram,GDG Gurugram,https://gdg.community.dev/gdg-gurugram/
+GDG,Kochi,GDG Cloud Kochi,https://gdg.community.dev/gdg-cloud-kochi/
+GDG,Guwahati,GDG Guwahati,https://gdg.community.dev/gdg-guwahati/
+GDG,Dehradun,GDG Dehradun,https://gdg.community.dev/gdg-dehradun/
+GDG,Nagpur,GDG Cloud Nagpur,https://gdg.community.dev/gdg-cloud-nagpur/
+GDG,Madurai,GDG Cloud Madurai,https://gdg.community.dev/gdg-cloud-madurai/
+GDG,Thiruvananthapuram,GDG Cloud Trivandrum,https://gdg.community.dev/gdg-cloud-trivandrum/
+GDG,Ludhiana,GDG Ludhiana,https://gdg.community.dev/gdg-ludhiana/
+GDG,Belagavi,GDG Belgaum,https://gdg.community.dev/gdg-belgaum/
+GDG,Aurangabad,GDG Aurangabad,https://gdg.community.dev/gdg-aurangabad/
+GDG,Chandigarh,GDG Cloud Chandigarh,https://gdg.community.dev/gdg-cloud-chandigarh/
+GDG,Motihari,GDG Cloud Motihari,https://gdg.community.dev/gdg-cloud-motihari/
+GDG,Prayagraj,GDG Prayagraj,https://gdg.community.dev/gdg-prayagraj/
+GDG,Vijayawada,GDG Vijayawada,https://gdg.community.dev/gdg-vijayawada/
+GDG,Noida,GDG Cloud Noida,https://gdg.community.dev/gdg-cloud-noida/
+GDG,Mangaluru,GDG Cloud Mangalore,https://gdg.community.dev/gdg-cloud-mangalore/
+GDG,Gandhinagar,GDG Cloud Gandhinagar,https://gdg.community.dev/gdg-cloud-gandhinagar/
+GDG,Rajkot,GDG Cloud Rajkot,https://gdg.community.dev/gdg-cloud-rajkot/
+GDG,Udaipur,GDG Cloud Udaipur,https://gdg.community.dev/gdg-cloud-udaipur/
+GDGOC,Delhi,"GDG on Campus Delhi Technological University - Delhi, India",https://gdg.community.dev/gdg-on-campus-delhi-technological-university-delhi-india/
+GDGOC,Mumbai,"GDG on Campus Usha Mittal Institute of Technology - Mumbai, India",https://gdg.community.dev/gdg-on-campus-usha-mittal-institute-of-technology-mumbai-india/
+GDGOC,Greater Noida,"GDG on Campus G.L. Bajaj Institute of Technology and Management - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-gl-bajaj-institute-of-technology-and-management-greater-noida-india/
+GDGOC,Delhi,"GDG on Campus Netaji Subhas University of Technology - Delhi, India",https://gdg.community.dev/gdg-on-campus-netaji-subhas-university-of-technology-delhi-india/
+GDGOC,Nagpur,"GDG on Campus RamdeoBaba University - Nagpur, India",https://gdg.community.dev/gdg-on-campus-ramdeobaba-university-nagpur-india/
+GDGOC,Indore,"GDG on Campus Shri Vaishnav Vidyapeeth Vishwavidyalaya - Indore, India",https://gdg.community.dev/gdg-on-campus-shri-vaishnav-vidyapeeth-vishwavidyalaya-indore-india/
+GDGOC,Pune,"GDG on Campus MKSSS's Cummins College of Engineering For Women - Pune, India",https://gdg.community.dev/gdg-on-campus-mkssss-cummins-college-of-engineering-for-women-pune-india/
+GDGOC,Noida,"GDG on Campus JSS Academy of Technical Education - Noida, India",https://gdg.community.dev/gdg-on-campus-jss-academy-of-technical-education-noida-india/
+GDGOC,Kanpur,"GDG on Campus Pranveer Singh Institute of Technology - Kanpur, India",https://gdg.community.dev/gdg-on-campus-pranveer-singh-institute-of-technology-kanpur-india/
+GDGOC,Noida,"GDG on Campus Amity University - Noida, India",https://gdg.community.dev/gdg-on-campus-amity-university-noida-india/
+GDGOC,Pune,"GDG on Campus D.Y. Patil College of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-dy-patil-college-of-engineering-pune-india/
+GDGOC,Trivandrum,"GDG on Campus College of Engineering - Trivandrum, India",https://gdg.community.dev/gdg-on-campus-college-of-engineering-trivandrum-india/
+GDGOC,Navi Mumbai,"GDG on Campus SIES Graduate School of Technology - Navi Mumbai, India",https://gdg.community.dev/gdg-on-campus-sies-graduate-school-of-technology-navi-mumbai-india/
+GDGOC,Delhi,"GDG on Campus University School of Information , Communication & Technology - Delhi, India",https://gdg.community.dev/gdg-on-campus-university-school-of-information-communication-technology-delhi-india/
+GDGOC,Bhilai,"GDG on Campus Indian Institute of Technology - Bhilai, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-technology-bhilai-india/
+GDGOC,Anand,"GDG on Campus Birla Vishvakarma Mahavidyalaya Engineering College - Anand, India",https://gdg.community.dev/gdg-on-campus-birla-vishvakarma-mahavidyalaya-engineering-college-anand-india/
+GDGOC,Gandhinagar,"GDG on Campus Pandit Deendayal Energy University - Gandhinagar, India",https://gdg.community.dev/gdg-on-campus-pandit-deendayal-energy-university-gandhinagar-india/
+GDGOC,Kolkata,"GDG on Campus Heritage Institute of Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-heritage-institute-of-technology-kolkata-india/
+GDGOC,Nadiad,"GDG on Campus Dharmsinh Desai University - Nadiad, India",https://gdg.community.dev/gdg-on-campus-dharmsinh-desai-university-nadiad-india/
+GDGOC,Kolkata,"GDG on Campus Netaji Subhash Engineering College - Kolkata, India",https://gdg.community.dev/gdg-on-campus-netaji-subhash-engineering-college-kolkata-india/
+GDGOC,Pune,"GDG on Campus Pimpri Chinchwad College of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-pimpri-chinchwad-college-of-engineering-pune-india/
+GDGOC,Mangaluru,"GDG on Campus Sahyadri College of Engineering & Management - Mangaluru, India",https://gdg.community.dev/gdg-on-campus-sahyadri-college-of-engineering-management-mangaluru-india/
+GDGOC,Kolkata,"GDG on Campus Techno India University - Kolkata, India",https://gdg.community.dev/gdg-on-campus-techno-india-university-kolkata-india/
+GDGOC,Nagpur,"GDG on Campus Government College of Engineering - Nagpur, India",https://gdg.community.dev/gdg-on-campus-government-college-of-engineering-nagpur-india/
+GDGOC,Pune,"GDG on Campus Modern Education Society's College of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-modern-education-societys-college-of-engineering-pune-india/
+GDGOC,Dehradun,"GDG on Campus Graphic Era - Dehradun, India",https://gdg.community.dev/gdg-on-campus-graphic-era-dehradun-india/
+GDGOC,Jalandhar,"GDG on Campus Dr. B. R. Ambedkar National Institute of Technology - Jalandhar, India",https://gdg.community.dev/gdg-on-campus-dr-b-r-ambedkar-national-institute-of-technology-jalandhar-india/
+GDGOC,Landran,"GDG on Campus Chandigarh Group of Colleges (COE campus) - Landran, India",https://gdg.community.dev/gdg-on-campus-chandigarh-group-of-colleges-coe-campus-landran-india/
+GDGOC,Rourkela,"GDG on Campus National Institute of Technology - Rourkela, India",https://gdg.community.dev/gdg-on-campus-national-institute-of-technology-rourkela-india/
+GDGOC,Chandigarh,"GDG on Campus Chitkara University - Chandigarh, India",https://gdg.community.dev/gdg-on-campus-chitkara-university-chandigarh-india/
+GDGOC,Burla,"GDG on Campus Veer Surendra Sai University of Technology - Burla, India",https://gdg.community.dev/gdg-on-campus-veer-surendra-sai-university-of-technology-burla-india/
+GDGOC,Kolkata,"GDG on Campus Institute of Engineering & Management - Kolkata, India",https://gdg.community.dev/gdg-on-campus-institute-of-engineering-management-kolkata-india/
+GDGOC,Greater Noida,"GDG on Campus Bennett University - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-bennett-university-greater-noida-india/
+GDGOC,Kurukshetra,"GDG on Campus University Institute of Engineering and Technology, Kurukshetra University - Kurukshetra, India",https://gdg.community.dev/gdg-on-campus-university-institute-of-engineering-and-technology-kurukshetra-university-kurukshetra-india/
+GDGOC,Pune,"GDG on Campus MIT Academy of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-mit-academy-of-engineering-pune-india/
+GDGOC,Kanpur,"GDG on Campus Harcourt Butler Technical University - Kanpur, India",https://gdg.community.dev/gdg-on-campus-harcourt-butler-technical-university-kanpur-india/
+GDGOC,Delhi,"GDG on Campus Guru Tegh Bahadur Institute of Technology - Delhi, India",https://gdg.community.dev/gdg-on-campus-guru-tegh-bahadur-institute-of-technology-delhi-india/
+GDGOC,Indore,"GDG on Campus Acropolis Institute of Technology & Research - Indore, India",https://gdg.community.dev/gdg-on-campus-acropolis-institute-of-technology-research-indore-india/
+GDGOC,Ghaziabad,"GDG on Campus ABES Engineering College - Ghaziabad, India",https://gdg.community.dev/gdg-on-campus-abes-engineering-college-ghaziabad-india/
+GDGOC,Chandigarh,"GDG on Campus University Institute of Engineering & Technology, Punjab University - Chandigarh, India",https://gdg.community.dev/gdg-on-campus-university-institute-of-engineering-technology-punjab-university-chandigarh-india/
+GDGOC,Patna,"GDG on Campus Indian Institute of Technology - Patna, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-technology-patna-india/
+GDGOC,Bhubaneswar,"GDG on Campus C. V. Raman Global University - Bhubaneswar, India",https://gdg.community.dev/gdg-on-campus-c-v-raman-global-university-bhubaneswar-india/
+GDGOC,Surat,"GDG on Campus Indian Institute of Information Technology - Surat, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-surat-india/
+GDGOC,Delhi,"GDG on Campus Bhagwan Parshuram Institute of Technology - Delhi, India",https://gdg.community.dev/gdg-on-campus-bhagwan-parshuram-institute-of-technology-delhi-india/
+GDGOC,Pune,"GDG on Campus Army Institute of Technology - Pune, India",https://gdg.community.dev/gdg-on-campus-army-institute-of-technology-pune-india/
+GDGOC,Ghaziabad,"GDG on Campus ABES Institute of Technology - Ghaziabad, India",https://gdg.community.dev/gdg-on-campus-abes-institute-of-technology-ghaziabad-india/
+GDGOC,Mullana,"GDG on Campus Maharishi Markandeshwar (Deemed to be University) - Mullana, India",https://gdg.community.dev/gdg-on-campus-maharishi-markandeshwar-deemed-to-be-university-mullana-india/
+GDGOC,Kolkata,"GDG on Campus B. P. Poddar Institute of Management and Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-b-p-poddar-institute-of-management-and-technology-kolkata-india/
+GDGOC,Bhopal,"GDG on Campus Sagar Institute of Science and Technology - Bhopal, India",https://gdg.community.dev/gdg-on-campus-sagar-institute-of-science-and-technology-bhopal-india/
+GDGOC,Karnataka,"GDG on Campus National Institute of Technology - Karnataka, India",https://gdg.community.dev/gdg-on-campus-national-institute-of-technology-karnataka-india/
+GDGOC,Navi Mumbai,"GDG on Campus Anjuman-I-Islam's Kalsekar Technical Campus - Navi Mumbai, India",https://gdg.community.dev/gdg-on-campus-anjuman-i-islams-kalsekar-technical-campus-navi-mumbai-india/
+GDGOC,Chandigarh,"GDG on Campus Chandigarh University - Chandigarh, India",https://gdg.community.dev/gdg-on-campus-chandigarh-university-chandigarh-india/
+GDGOC,Jammu,"GDG on Campus Model Institute of Engineering and Technology - Jammu, India",https://gdg.community.dev/gdg-on-campus-model-institute-of-engineering-and-technology-jammu-india/
+GDGOC,Kattankulathur,"GDG on Campus SRM Institute of Science & Technology - Kattankulathur, India",https://gdg.community.dev/gdg-on-campus-srm-institute-of-science-technology-kattankulathur-india/
+GDGOC,Roorkee,"GDG on Campus Quantum University - Roorkee, India",https://gdg.community.dev/gdg-on-campus-quantum-university-roorkee-india/
+GDGOC,Kurnool,"GDG on Campus Indian Institute of Information Technology Design & Manufacturing - Kurnool, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-design-manufacturing-kurnool-india/
+GDGOC,Razam,"GDG on Campus GMR Institute of Technology - Razam, India",https://gdg.community.dev/gdg-on-campus-gmr-institute-of-technology-razam-india/
+GDGOC,Bhopal,"GDG on Campus Vellore Institute of Technology - Bhopal, India",https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-bhopal-india/
+GDGOC,Mumbai,"GDG on Campus Thadomal Shahani Engineering College - Mumbai, India",https://gdg.community.dev/gdg-on-campus-thadomal-shahani-engineering-college-mumbai-india/
+GDGOC,Nashik,"GDG on Campus MET Institute of Engineering, Bhujbal Knowledge City - Nashik, India",https://gdg.community.dev/gdg-on-campus-met-institute-of-engineering-bhujbal-knowledge-city-nashik-india/
+GDGOC,Prayagraj,"GDG on Campus Indian Institute of Information Technology Allahabad - Prayagraj, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-allahabad-prayagraj-india/
+GDGOC,Kalyani,"GDG on Campus Indian Institute of Information Technology - Kalyani, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-kalyani-india/
+GDGOC,Delhi,"GDG on Campus Indira Gandhi Delhi Technical University for Women - Delhi, India",https://gdg.community.dev/gdg-on-campus-indira-gandhi-delhi-technical-university-for-women-delhi-india/
+GDGOC,Bengaluru,"GDG on Campus Amrita School of Engineering - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-amrita-school-of-engineering-bengaluru-india/
+GDGOC,Silchar,"GDG on Campus National Institute of Technology - Silchar, India",https://gdg.community.dev/gdg-on-campus-national-institute-of-technology-silchar-india/
+GDGOC,Visakhapatnam,"GDG on Campus Gayatri Vidya Parishad College of Engineering - Visakhapatnam, India",https://gdg.community.dev/gdg-on-campus-gayatri-vidya-parishad-college-of-engineering-visakhapatnam-india/
+GDGOC,Chennai,"GDG on Campus Vellore Institute of Technology - Chennai, India",https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-chennai-india/
+GDGOC,Delhi,"GDG on Campus Maharaja Agrasen Institute of Technology - Delhi, India",https://gdg.community.dev/gdg-on-campus-maharaja-agrasen-institute-of-technology-delhi-india/
+GDGOC,Bengaluru,"GDG on Campus BMS College of Engineering - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-bms-college-of-engineering-bengaluru-india/
+GDGOC,Jodhpur,"GDG on Campus M.B.M. University - Jodhpur, India",https://gdg.community.dev/gdg-on-campus-mbm-university-jodhpur-india/
+GDGOC,Aziznagar,"GDG on Campus Vidya Jyothi Institute of Technology - Aziznagar, India",https://gdg.community.dev/gdg-on-campus-vidya-jyothi-institute-of-technology-aziznagar-india/
+GDGOC,Bengaluru,"GDG on Campus Nitte Meenakshi Institute of Technology - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-nitte-meenakshi-institute-of-technology-bengaluru-india/
+GDGOC,Jaipur,"GDG on Campus The LNM Institute of Information Technology - Jaipur, India",https://gdg.community.dev/gdg-on-campus-the-lnm-institute-of-information-technology-jaipur-india/
+GDGOC,Jaipur,"GDG on Campus Manipal University - Jaipur, India",https://gdg.community.dev/gdg-on-campus-manipal-university-jaipur-india/
+GDGOC,Dehradun,"GDG on Campus University of Petroleum and Energy Studies - Dehradun, India",https://gdg.community.dev/gdg-on-campus-university-of-petroleum-and-energy-studies-dehradun-india/
+GDGOC,Indore,"GDG on Campus Indian Institute of Technology - Indore, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-technology-indore-india/
+GDGOC,Delhi,"GDG on Campus Dr. Akhilesh Das Gupta Institute of Professional Studies - Delhi, India",https://gdg.community.dev/gdg-on-campus-dr-akhilesh-das-gupta-institute-of-professional-studies-delhi-india/
+GDGOC,Bengaluru,"GDG on Campus FET Jain University - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-fet-jain-university-bengaluru-india/
+GDGOC,Gorakhpur,"GDG on Campus Madan Mohan Malaviya University of Technology - Gorakhpur, India",https://gdg.community.dev/gdg-on-campus-madan-mohan-malaviya-university-of-technology-gorakhpur-india/
+GDGOC,Sri City,"GDG on Campus Indian Institute of Information Technology Sri City, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-sri-city-india/
+GDGOC,Bhubaneswar,"GDG on Campus Institute of Technical Education & Research - Bhubaneswar, India",https://gdg.community.dev/gdg-on-campus-institute-of-technical-education-research-bhubaneswar-india/
+GDGOC,Gunupur,"GDG on Campus GIET University - Gunupur, India",https://gdg.community.dev/gdg-on-campus-giet-university-gunupur-india/
+GDGOC,Hyderabad,"GDG on Campus Gandhi Institute of Technology and Management - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-gandhi-institute-of-technology-and-management-hyderabad-india/
+GDGOC,Pune,"GDG on Campus Ajeenkya DY Patil University - Pune, India",https://gdg.community.dev/gdg-on-campus-ajeenkya-dy-patil-university-pune-india/
+GDGOC,Kottayam,"GDG on Campus Indian Institute of Information Technology - Kottayam, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-kottayam-india/
+GDGOC,Pune,"GDG on Campus Trinity College of Engineering and Research - Pune, India",https://gdg.community.dev/gdg-on-campus-trinity-college-of-engineering-and-research-pune-india/
+GDGOC,Chhattisgarh,"GDG on Campus Amity University - Chhattisgarh, India",https://gdg.community.dev/gdg-on-campus-amity-university-chhattisgarh-india/
+GDGOC,Bhubaneswar,"GDG on Campus International Institute of Information Technology - Bhubaneswar, India",https://gdg.community.dev/gdg-on-campus-international-institute-of-information-technology-bhubaneswar-india/
+GDGOC,Howrah,"GDG on Campus Indian Institute of Engineering Science and Technology, Shibpur - Howrah, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-engineering-science-and-technology-shibpur-howrah-india/
+GDGOC,Ahmedabad,"GDG on Campus Nirma University - Ahmedabad, India",https://gdg.community.dev/gdg-on-campus-nirma-university-ahmedabad-india/
+GDGOC,Thiruvananthapuram,"GDG on Campus LBS Institute of Technology for Women - Thiruvananthapuram, India",https://gdg.community.dev/gdg-on-campus-lbs-institute-of-technology-for-women-thiruvananthapuram-india/
+GDGOC,Kanpur,"GDG on Campus Dr. Ambedkar Institute of Technology for Divyangjan - Kanpur, India",https://gdg.community.dev/gdg-on-campus-dr-ambedkar-institute-of-technology-for-divyangjan-kanpur-india/
+GDGOC,Chennai,"GDG on Campus Sri Sairam Engineering College - Chennai, India",https://gdg.community.dev/gdg-on-campus-sri-sairam-engineering-college-chennai-india/
+GDGOC,Pune,"GDG on Campus Marathwada Mitra Mandal's College of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-marathwada-mitra-mandals-college-of-engineering-pune-india/
+GDGOC,Noida,"GDG on Campus Jaypee Institute of Information Technology (Sector-128) - Noida, India",https://gdg.community.dev/gdg-on-campus-jaypee-institute-of-information-technology-sector-128-noida-india/
+GDGOC,Delhi,"GDG on Campus Shaheed Rajguru College of Applied Sciences for Women - Delhi, India",https://gdg.community.dev/gdg-on-campus-shaheed-rajguru-college-of-applied-sciences-for-women-delhi-india/
+GDGOC,Kanjirappally,"GDG on Campus Amal Jyothi College of Engineering - Kanjirappally, India",https://gdg.community.dev/gdg-on-campus-amal-jyothi-college-of-engineering-kanjirappally-india/
+GDGOC,Bengaluru,"GDG on Campus MVJ College of Engineering - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-mvj-college-of-engineering-bengaluru-india/
+GDGOC,Mandi,"GDG on Campus Indian Institute of Technology - Mandi, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-technology-mandi-india/
+GDGOC,Wardha,"GDG on Campus Bajaj Institute of Technology - Wardha, India",https://gdg.community.dev/gdg-on-campus-bajaj-institute-of-technology-wardha-india/
+GDGOC,Mumbai,"GDG on Campus Amity University - Mumbai, India",https://gdg.community.dev/gdg-on-campus-amity-university-mumbai-india/
+GDGOC,Nashik,"GDG on Campus Gokhale Education Society's R. H. Sapat College of Engineering, Management Studies and Research - Nashik, India",https://gdg.community.dev/gdg-on-campus-gokhale-education-societys-r-h-sapat-college-of-engineering-management-studies-and-research-nashik-india/
+GDGOC,Delhi,"GDG on Campus Jamia Millia Islamia - Delhi, India",https://gdg.community.dev/gdg-on-campus-jamia-millia-islamia-delhi-india/
+GDGOC,Hyderabad,"GDG on Campus Methodist College of Engineering & Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-methodist-college-of-engineering-technology-hyderabad-india/
+GDGOC,Aligarh,"GDG on Campus Zakir Husain College of Engineering and Technology - Aligarh, India",https://gdg.community.dev/gdg-on-campus-zakir-husain-college-of-engineering-and-technology-aligarh-india/
+GDGOC,Patna,"GDG on Campus Bakhtiyarpur College of Engineering - Patna, India",https://gdg.community.dev/gdg-on-campus-bakhtiyarpur-college-of-engineering-patna-india/
+GDGOC,Navi Mumbai,"GDG on Campus Pillai HOC College of Engineering and Technology - Navi Mumbai, India",https://gdg.community.dev/gdg-on-campus-pillai-hoc-college-of-engineering-and-technology-navi-mumbai-india/
+GDGOC,Pune,"GDG on Campus International Institute of Information Technology - Pune, India",https://gdg.community.dev/gdg-on-campus-international-institute-of-information-technology-pune-india/
+GDGOC,Ranchi,"GDG on Campus Indian Institute of Information Technology - Ranchi, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-ranchi-india/
+GDGOC,Guwahati,"GDG on Campus Gauhati University - Guwahati, India",https://gdg.community.dev/gdg-on-campus-gauhati-university-guwahati-india/
+GDGOC,Mumbai,"GDG on Campus Dwarkadas J. Sanghvi College of Engineering - Mumbai, India",https://gdg.community.dev/gdg-on-campus-dwarkadas-j-sanghvi-college-of-engineering-mumbai-india/
+GDGOC,Mumbai,"GDG on Campus Vidyalankar Institute of Technology - Mumbai, India",https://gdg.community.dev/gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india/
+GDGOC,Mathura,"GDG on Campus GLA University - Mathura, India",https://gdg.community.dev/gdg-on-campus-gla-university-mathura-india/
+GDGOC,Durgapur,"GDG on Campus Dr. B.C. Roy Engineering College - Durgapur, India",https://gdg.community.dev/gdg-on-campus-dr-bc-roy-engineering-college-durgapur-india/
+GDGOC,Bhubaneswar,"GDG on Campus Kalinga Institute of Industrial Technology - Bhubaneswar, India",https://gdg.community.dev/gdg-on-campus-kalinga-institute-of-industrial-technology-bhubaneswar-india/
+GDGOC,Kolhapur,"GDG on Campus D Y Patil College of Engineering & Technology - Kolhapur, India",https://gdg.community.dev/gdg-on-campus-d-y-patil-college-of-engineering-technology-kolhapur-india/
+GDGOC,Jalpaiguri,"GDG on Campus Jalpaiguri Government Engineering College - Jalpaiguri, India",https://gdg.community.dev/gdg-on-campus-jalpaiguri-government-engineering-college-jalpaiguri-india/
+GDGOC,Murthal,"GDG on Campus Deenbandhu Chhotu Ram University of Science & Technology - Murthal, India",https://gdg.community.dev/gdg-on-campus-deenbandhu-chhotu-ram-university-of-science-technology-murthal-india/
+GDGOC,Berhampur,"GDG on Campus National Institute of Science and Technology - Berhampur, India",https://gdg.community.dev/gdg-on-campus-national-institute-of-science-and-technology-berhampur-india/
+GDGOC,Bhimavaram,"GDG on Campus Shri Vishnu Engineering College For Women - Bhimavaram, India",https://gdg.community.dev/gdg-on-campus-shri-vishnu-engineering-college-for-women-bhimavaram-india/
+GDGOC,Lucknow,"GDG on Campus Babu Banarasi Das Institute of Technology and Management - Lucknow, India",https://gdg.community.dev/gdg-on-campus-babu-banarasi-das-institute-of-technology-and-management-lucknow-india/
+GDGOC,Gurugram,"GDG on Campus The NorthCap University - Gurugram, India",https://gdg.community.dev/gdg-on-campus-the-northcap-university-gurugram-india/
+GDGOC,Indore,"GDG on Campus Medi-Caps University - Indore, India",https://gdg.community.dev/gdg-on-campus-medi-caps-university-indore-india/
+GDGOC,Bengaluru,"GDG on Campus Cambridge Institute of Technology - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-cambridge-institute-of-technology-bengaluru-india/
+GDGOC,Sangli,"GDG on Campus Walchand College of Engineering - Sangli, India",https://gdg.community.dev/gdg-on-campus-walchand-college-of-engineering-sangli-india/
+GDGOC,Bangalore,"GDG on Campus University Visvesvaraya College of Engineering - Bangalore, India",https://gdg.community.dev/gdg-on-campus-university-visvesvaraya-college-of-engineering-bangalore-india/
+GDGOC,Allahabad,"GDG on Campus Motilal Nehru National Institute of Technology - Allahabad, India",https://gdg.community.dev/gdg-on-campus-motilal-nehru-national-institute-of-technology-allahabad-india/
+GDGOC,Chennai,"GDG on Campus Alpha Arts and Science College - Chennai, India",https://gdg.community.dev/gdg-on-campus-alpha-arts-and-science-college-chennai-india/
+GDGOC,Kolkata,"GDG on Campus RCC Institute of Information Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-rcc-institute-of-information-technology-kolkata-india/
+GDGOC,Gurugram,"GDG on Campus Dronacharya College of Engineering - Gurugram, India",https://gdg.community.dev/gdg-on-campus-dronacharya-college-of-engineering-gurugram-india/
+GDGOC,Bhilai,"GDG on Campus Shri Shankaracharya Technical Campus - Bhilai, India",https://gdg.community.dev/gdg-on-campus-shri-shankaracharya-technical-campus-bhilai-india/
+GDGOC,Pune,"GDG on Campus Dr. D. Y. Patil Institute of Technology - Pune, India",https://gdg.community.dev/gdg-on-campus-dr-d-y-patil-institute-of-technology-pune-india/
+GDGOC,Nagpur,"GDG on Campus Cummins College of Engineering for Women - Nagpur, India",https://gdg.community.dev/gdg-on-campus-cummins-college-of-engineering-for-women-nagpur-india/
+GDGOC,Jaipur,"GDG on Campus Birla Institute of Technology, Mesra - Jaipur, India",https://gdg.community.dev/gdg-on-campus-birla-institute-of-technology-mesra-jaipur-india/
+GDGOC,Bilaspur,"GDG on Campus Government Engineering College - Bilaspur, India",https://gdg.community.dev/gdg-on-campus-government-engineering-college-bilaspur-india/
+GDGOC,Palakkad,"GDG on Campus Government Engineering College - Palakkad, India",https://gdg.community.dev/gdg-on-campus-government-engineering-college-palakkad-india/
+GDGOC,Ahmedabad,"GDG on Campus Ahmedabad Institute of Technology - Ahmedabad, India",https://gdg.community.dev/gdg-on-campus-ahmedabad-institute-of-technology-ahmedabad-india/
+GDGOC,Jaipur,"GDG on Campus Arya College of Engineering & IT - Jaipur, India",https://gdg.community.dev/gdg-on-campus-arya-college-of-engineering-it-jaipur-india/
+GDGOC,Asansol,"GDG on Campus Asansol Engineering College - Asansol, India",https://gdg.community.dev/gdg-on-campus-asansol-engineering-college-asansol-india/
+GDGOC,Gwalior,"GDG on Campus Atal Bihari Vajpayee Indian Institute of Information Technology and Management - Gwalior, India",https://gdg.community.dev/gdg-on-campus-atal-bihari-vajpayee-indian-institute-of-information-technology-and-management-gwalior-india/
+GDGOC,Mumbai,"GDG on Campus Atharva College of Engineering - Mumbai, India",https://gdg.community.dev/gdg-on-campus-atharva-college-of-engineering-mumbai-india/
+GDGOC,Thrikkakara,"GDG on Campus Bharata Mata College - Thrikkakara, India",https://gdg.community.dev/gdg-on-campus-bharata-mata-college-thrikkakara-india/
+GDGOC,Mahendergarh,"GDG on Campus Central University of Haryana - Mahendergarh, India",https://gdg.community.dev/gdg-on-campus-central-university-of-haryana-mahendergarh-india/
+GDGOC,Indore,"GDG on Campus Chameli Devi Group of Institutions - Indore, India",https://gdg.community.dev/gdg-on-campus-chameli-devi-group-of-institutions-indore-india/
+GDGOC,Kollam,"GDG on Campus College Of Engineering Karunagappally - Kollam, India",https://gdg.community.dev/gdg-on-campus-college-of-engineering-karunagappally-kollam-india/
+GDGOC,Greater Noida,"GDG on Campus Dronacharya Group of Institutions - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-dronacharya-group-of-institutions-greater-noida-india/
+GDGOC,Pune,"GDG on Campus G H Raisoni College of Engineering and Management - Pune, India",https://gdg.community.dev/gdg-on-campus-g-h-raisoni-college-of-engineering-and-management-pune-india/
+GDGOC,Greater Noida,"GDG on Campus Galgotias College of Engineering & Technology - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-galgotias-college-of-engineering-technology-greater-noida-india/
+GDGOC,Visakhapatnam,"GDG on Campus Gayatri Vidya Parishad College of Engineering for Women - Visakhapatnam, India",https://gdg.community.dev/gdg-on-campus-gayatri-vidya-parishad-college-of-engineering-for-women-visakhapatnam-india/
+GDGOC,Udaipur,"GDG on Campus Geetanjali Institute of Technical Studies - Udaipur, India",https://gdg.community.dev/gdg-on-campus-geetanjali-institute-of-technical-studies-udaipur-india/
+GDGOC,Patan,"GDG on Campus Government Engineering College - Patan, India",https://gdg.community.dev/gdg-on-campus-government-engineering-college-patan-india/
+GDGOC,Greater Noida,"GDG on Campus Greater Noida Institute of Technology - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-greater-noida-institute-of-technology-greater-noida-india/
+GDGOC,Bilaspur,"GDG on Campus Guru Ghasidas Vishwavidyalaya - Bilaspur, India",https://gdg.community.dev/gdg-on-campus-guru-ghasidas-vishwavidyalaya-bilaspur-india/
+GDGOC,Kolkata,"GDG on Campus Guru Nanak Institute of Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-guru-nanak-institute-of-technology-kolkata-india/
+GDGOC,Hyderabad,"GDG on Campus Hyderabad Institute of Technology and Management - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-hyderabad-institute-of-technology-and-management-hyderabad-india/
+GDGOC,Dharwad,"GDG on Campus Indian Institute of Information Technology - Dharwad, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-dharwad-india/
+GDGOC,Nagpur,"GDG on Campus Indian Institute of Information Technology - Nagpur, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-nagpur-india/
+GDGOC,Indore,"GDG on Campus Institute of Engineering and Technology, DAVV - Indore, India",https://gdg.community.dev/gdg-on-campus-institute-of-engineering-and-technology-davv-indore-india/
+GDGOC,Gwalior,"GDG on Campus Institute of Technology and Management - Gwalior, India",https://gdg.community.dev/gdg-on-campus-institute-of-technology-and-management-gwalior-india/
+GDGOC,Indore,"GDG on Campus IPS Academy - Indore, India",https://gdg.community.dev/gdg-on-campus-ips-academy-indore-india/
+GDGOC,Coimbatore,"GDG on Campus Jansons Institute of Technology - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-jansons-institute-of-technology-coimbatore-india/
+GDGOC,Nagpur,"GDG on Campus JD College of Engineering & Management - Nagpur, India",https://gdg.community.dev/gdg-on-campus-jd-college-of-engineering-management-nagpur-india/
+GDGOC,Chennai,"GDG on Campus Jeppiaar Engineering College - Chennai, India",https://gdg.community.dev/gdg-on-campus-jeppiaar-engineering-college-chennai-india/
+GDGOC,Kolkata,"GDG on Campus JIS University - Kolkata, India",https://gdg.community.dev/gdg-on-campus-jis-university-kolkata-india/
+GDGOC,Jorhat,"GDG on Campus Jorhat Engineering College - Jorhat, India",https://gdg.community.dev/gdg-on-campus-jorhat-engineering-college-jorhat-india/
+GDGOC,Vijayawada,"GDG on Campus K L Deemed to be University - Vijayawada, India",https://gdg.community.dev/gdg-on-campus-k-l-deemed-to-be-university-vijayawada-india/
+GDGOC,Mumbai,"GDG on Campus K. J. Somaiya College of Engineering - Mumbai, India",https://gdg.community.dev/gdg-on-campus-k-j-somaiya-college-of-engineering-mumbai-india/
+GDGOC,Meerut,"GDG on Campus Meerut Institute of Engineering and Technology - Meerut, India",https://gdg.community.dev/gdg-on-campus-meerut-institute-of-engineering-and-technology-meerut-india/
+GDGOC,Varikoli,"GDG on Campus Muthoot Institute of Technology and Science - Varikoli, India",https://gdg.community.dev/gdg-on-campus-muthoot-institute-of-technology-and-science-varikoli-india/
+GDGOC,Sangli,"GDG on Campus Nanasaheb Mahadik College of Engineering - Sangli, India",https://gdg.community.dev/gdg-on-campus-nanasaheb-mahadik-college-of-engineering-sangli-india/
+GDGOC,Gandhinagar,"GDG on Campus National Forensic Sciences University - Gandhinagar, India",https://gdg.community.dev/gdg-on-campus-national-forensic-sciences-university-gandhinagar-india/
+GDGOC,Calicut,"GDG on Campus National Institute of Technology - Calicut, India",https://gdg.community.dev/gdg-on-campus-national-institute-of-technology-calicut-india/
+GDGOC,Goa,"GDG on Campus National Institute of Technology - Goa, India",https://gdg.community.dev/gdg-on-campus-national-institute-of-technology-goa-india/
+GDGOC,Pune,"GDG on Campus NBN Sinhgad School Of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-nbn-sinhgad-school-of-engineering-pune-india/
+GDGOC,Navi Mumbai,"GDG on Campus Narsee Monjee Institute of Management Studies - Navi Mumbai, India",https://gdg.community.dev/gdg-on-campus-narsee-monjee-institute-of-management-studies-navi-mumbai-india/
+GDGOC,Bhopal,"GDG on Campus Oriental Institute of Science & Technology - Bhopal, India",https://gdg.community.dev/gdg-on-campus-oriental-institute-of-science-technology-bhopal-india/
+GDGOC,Surat,"GDG on Campus P P Savani University - Surat, India",https://gdg.community.dev/gdg-on-campus-p-p-savani-university-surat-india/
+GDGOC,Navi Mumbai,"GDG on Campus Pillai College of Engineering - Navi Mumbai, India",https://gdg.community.dev/gdg-on-campus-pillai-college-of-engineering-navi-mumbai-india/
+GDGOC,Kakinada,"GDG on Campus Pragati Engineering College - Kakinada, India",https://gdg.community.dev/gdg-on-campus-pragati-engineering-college-kakinada-india/
+GDGOC,Chengannur,"GDG on Campus Providence College of Engineering & School of Business - Chengannur, India",https://gdg.community.dev/gdg-on-campus-providence-college-of-engineering-school-of-business-chengannur-india/
+GDGOC,Coimbatore,"GDG on Campus PSG Institute of Technology and Applied Research - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-psg-institute-of-technology-and-applied-research-coimbatore-india/
+GDGOC,Dindigul,"GDG on Campus PSNA College of Engineering and Technology - Dindigul, India",https://gdg.community.dev/gdg-on-campus-psna-college-of-engineering-and-technology-dindigul-india/
+GDGOC,Rajapalayam,"GDG on Campus Ramco Institute of Technology - Rajapalayam, India",https://gdg.community.dev/gdg-on-campus-ramco-institute-of-technology-rajapalayam-india/
+GDGOC,Gwalior,"GDG on Campus Rustamji Institute of Technology - Gwalior, India",https://gdg.community.dev/gdg-on-campus-rustamji-institute-of-technology-gwalior-india/
+GDGOC,Bengaluru,"GDG on Campus RV Institute of Technology and Management - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-rv-institute-of-technology-and-management-bengaluru-india/
+GDGOC,Surat,"GDG on Campus Sardar Vallabhbhai National Institute of Technology - Surat, India",https://gdg.community.dev/gdg-on-campus-sardar-vallabhbhai-national-institute-of-technology-surat-india/
+GDGOC,Thandalam,"GDG on Campus Saveetha School of Engineering - Thandalam, India",https://gdg.community.dev/gdg-on-campus-saveetha-school-of-engineering-thandalam-india/
+GDGOC,Indore,"GDG on Campus School of Data Science and Forecasting - Indore, India",https://gdg.community.dev/gdg-on-campus-school-of-data-science-and-forecasting-indore-india/
+GDGOC,Gandhinagar,"GDG on Campus Shree Swaminarayan Institute of Technology - Gandhinagar, India",https://gdg.community.dev/gdg-on-campus-shree-swaminarayan-institute-of-technology-gandhinagar-india/
+GDGOC,Lucknow,"GDG on Campus Shri Ramswaroop Memorial College of Engineering and Management - Lucknow, India",https://gdg.community.dev/gdg-on-campus-shri-ramswaroop-memorial-college-of-engineering-and-management-lucknow-india/
+GDGOC,Ahmedabad,"GDG on Campus Silver Oak University - Ahmedabad, India",https://gdg.community.dev/gdg-on-campus-silver-oak-university-ahmedabad-india/
+GDGOC,Jhansi,"GDG on Campus SR Group of Institutions - Jhansi, India",https://gdg.community.dev/gdg-on-campus-sr-group-of-institutions-jhansi-india/
+GDGOC,Coimbatore,"GDG on Campus Sri Krishna Arts & Science College - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-sri-krishna-arts-science-college-coimbatore-india/
+GDGOC,Mangaluru,"GDG on Campus St Joseph Engineering College - Mangaluru, India",https://gdg.community.dev/gdg-on-campus-st-joseph-engineering-college-mangaluru-india/
+GDGOC,Indore,"GDG on Campus SVKM's NMIMS - Indore, India",https://gdg.community.dev/gdg-on-campus-svkms-nmims-indore-india/
+GDGOC,Kolkata,"GDG on Campus Techno Main Salt Lake - Kolkata, India",https://gdg.community.dev/gdg-on-campus-techno-main-salt-lake-kolkata-india/
+GDGOC,Pune,"GDG on Campus Trinity Academy of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-trinity-academy-of-engineering-pune-india/
+GDGOC,Jaipur,"GDG on Campus University of Engineering & Management - Jaipur, India",https://gdg.community.dev/gdg-on-campus-university-of-engineering-management-jaipur-india/
+GDGOC,Kolkata,"GDG on Campus University of Engineering & Management - Kolkata, India",https://gdg.community.dev/gdg-on-campus-university-of-engineering-management-kolkata-india/
+GDGOC,Rajkot,"GDG on Campus V.V.P. Engineering College - Rajkot, India",https://gdg.community.dev/gdg-on-campus-vvp-engineering-college-rajkot-india/
+GDGOC,Hyderabad,"GDG on Campus Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-vallurupalli-nageswara-rao-vignana-jyothi-institute-of-engineering-and-technology-hyderabad-india/
+GDGOC,Vijayawada,"GDG on Campus Velagapudi Ramakrishna Siddhartha Engineering College - Vijayawada, India",https://gdg.community.dev/gdg-on-campus-velagapudi-ramakrishna-siddhartha-engineering-college-vijayawada-india/
+GDGOC,Mysuru,"GDG on Campus Vidyavardhaka College of Engineering - Mysuru, India",https://gdg.community.dev/gdg-on-campus-vidyavardhaka-college-of-engineering-mysuru-india/
+GDGOC,Visakhapatnam,"GDG on Campus Vignan's Institute of Engineering for Women - Visakhapatnam, India",https://gdg.community.dev/gdg-on-campus-vignans-institute-of-engineering-for-women-visakhapatnam-india/
+GDGOC,Visakhapatnam,"GDG on Campus Vignan's Institute of Information Technology - Visakhapatnam, India",https://gdg.community.dev/gdg-on-campus-vignans-institute-of-information-technology-visakhapatnam-india/
+GDGOC,Khalapur,"GDG on Campus Vishwaniketan's Institute of Management Entrepreneurship and Engineering Technology - Khalapur, India",https://gdg.community.dev/gdg-on-campus-vishwaniketans-institute-of-management-entrepreneurship-and-engineering-technology-khalapur-india/
+GDGOC,Nagpur,"GDG on Campus Yeshwantrao Chavan College of Engineering - Nagpur, India",https://gdg.community.dev/gdg-on-campus-yeshwantrao-chavan-college-of-engineering-nagpur-india/
+GDGOC,Ropar,"GDG on Campus Indian Institute of Technology - Ropar, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-technology-ropar-india/
+GDGOC,Lucknow,"GDG on Campus Integral University - Lucknow, India",https://gdg.community.dev/gdg-on-campus-integral-university-lucknow-india/
+GDGOC,New Delhi,"GDG on Campus Jamia Hamdard University - New Delhi, India",https://gdg.community.dev/gdg-on-campus-jamia-hamdard-university-new-delhi-india/
+GDGOC,Pune,"GDG on Campus JSPM's Rajarshi Shahu College of Engineering, Tathawade - Pune, India",https://gdg.community.dev/gdg-on-campus-jspms-rajarshi-shahu-college-of-engineering-tathawade-pune-india/
+GDGOC,Hyderabad,"GDG on Campus Lords Institute of Engineering & Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-lords-institute-of-engineering-technology-hyderabad-india/
+GDGOC,Chandigarh,"GDG on Campus Punjab Engineering College - Chandigarh, India",https://gdg.community.dev/gdg-on-campus-punjab-engineering-college-chandigarh-india/
+GDGOC,Kollam,"GDG on Campus TKM College of Engineering - Kollam, India",https://gdg.community.dev/gdg-on-campus-tkm-college-of-engineering-kollam-india/
+GDGOC,Hyderabad,"GDG on Campus Institute of Aeronautical Engineering - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-institute-of-aeronautical-engineering-hyderabad-india/
+GDGOC,Patiala,"GDG on Campus Punjabi University - Patiala, India",https://gdg.community.dev/gdg-on-campus-punjabi-university-patiala-india/
+GDGOC,Wardha,"GDG on Campus Datta Meghe Institute of Higher Education & Research - Wardha, India",https://gdg.community.dev/gdg-on-campus-datta-meghe-institute-of-higher-education-research-wardha-india/
+GDGOC,Sonbhadra,"GDG on Campus Rajkiya Engineering College - Sonbhadra, India",https://gdg.community.dev/gdg-on-campus-rajkiya-engineering-college-sonbhadra-india/
+GDGOC,Pune,"GDG on Campus Zeal College of Engineering & Research - Pune, India",https://gdg.community.dev/gdg-on-campus-zeal-college-of-engineering-research-pune-india/
+GDGOC,Sambalpur,"GDG on Campus Sambalpur University Institute of Information Technology - Sambalpur, India",https://gdg.community.dev/gdg-on-campus-sambalpur-university-institute-of-information-technology-sambalpur-india/
+GDGOC,Nellore,"GDG on Campus Geethanjali Institute of Science & Technology - Nellore, India",https://gdg.community.dev/gdg-on-campus-geethanjali-institute-of-science-technology-nellore-india/
+GDGOC,Pune,"GDG on Campus Symbiosis Skills & Professional University - Pune, India",https://gdg.community.dev/gdg-on-campus-symbiosis-skills-professional-university-pune-india/
+GDGOC,Coimbatore,"GDG on Campus KG College of Arts & Science - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-kg-college-of-arts-science-coimbatore-india/
+GDGOC,Tiruchirapalli,"GDG on Campus Indian Institute of Information Technology - Tiruchirapalli, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-tiruchirapalli-india/
+GDGOC,Kalyani,"GDG on Campus Maulana Abul Kalam Azad University of Technology - Kalyani, India",https://gdg.community.dev/gdg-on-campus-maulana-abul-kalam-azad-university-of-technology-kalyani-india/
+GDGOC,Navi Mumbai,"GDG on Campus MGM's College of Engineering and Technology - Navi Mumbai, India",https://gdg.community.dev/gdg-on-campus-mgms-college-of-engineering-and-technology-navi-mumbai-india/
+GDGOC,Gurugram,"GDG on Campus Amity University - Gurugram, India",https://gdg.community.dev/gdg-on-campus-amity-university-gurugram-india/
+GDGOC,Belgaum,"GDG on Campus Visvesvaraya Technological University - Belgaum, India",https://gdg.community.dev/gdg-on-campus-visvesvaraya-technological-university-belgaum-india/
+GDGOC,Hyderabad,"GDG on Campus Keshav Memorial Institute of Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-keshav-memorial-institute-of-technology-hyderabad-india/
+GDGOC,Jamshedpur,"GDG on Campus Arka Jain University - Jamshedpur, India",https://gdg.community.dev/gdg-on-campus-arka-jain-university-jamshedpur-india/
+GDGOC,Solapur,"GDG on Campus Nagesh Karajgi Orchid College of Engineering & Technology - Solapur, India",https://gdg.community.dev/gdg-on-campus-nagesh-karajgi-orchid-college-of-engineering-technology-solapur-india/
+GDGOC,Chandigarh,"GDG on Campus Swami Vivekanand Institute of Engineering & Technology - Chandigarh, India",https://gdg.community.dev/gdg-on-campus-swami-vivekanand-institute-of-engineering-technology-chandigarh-india/
+GDGOC,Rajaramnagar,"GDG on Campus Rajarambapu Institute of Technology - Rajaramnagar, India",https://gdg.community.dev/gdg-on-campus-rajarambapu-institute-of-technology-rajaramnagar-india/
+GDGOC,Kolkata,"GDG on Campus Future Institute of Engineering & Management - Kolkata, India",https://gdg.community.dev/gdg-on-campus-future-institute-of-engineering-management-kolkata-india/
+GDGOC,Vadodara,"GDG on Campus ITM SLS Baroda University - Vadodara, India",https://gdg.community.dev/gdg-on-campus-itm-sls-baroda-university-vadodara-india/
+GDGOC,Lucknow,"GDG on Campus BN College of Engineering & Technology - Lucknow, India",https://gdg.community.dev/gdg-on-campus-bn-college-of-engineering-technology-lucknow-india/
+GDGOC,Gandhinagar,"GDG on Campus Swarrnim Startup & Innovation University - Gandhinagar, India",https://gdg.community.dev/gdg-on-campus-swarrnim-startup-innovation-university-gandhinagar-india/
+GDGOC,Vijayawada,"GDG on Campus Seshadri Rao Gudlavalleru Engineering College - Vijayawada, India",https://gdg.community.dev/gdg-on-campus-seshadri-rao-gudlavalleru-engineering-college-vijayawada-india/
+GDGOC,Berhampore,"GDG on Campus Government College of Engineering & Textile Technology - Berhampore, India",https://gdg.community.dev/gdg-on-campus-government-college-of-engineering-textile-technology-berhampore-india/
+GDGOC,Bhopal,"GDG on Campus Sagar Institute of Research & Technology - Bhopal, India",https://gdg.community.dev/gdg-on-campus-sagar-institute-of-research-technology-bhopal-india/
+GDGOC,Coimbatore,"GDG on Campus Info Institute of Engineering - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-info-institute-of-engineering-coimbatore-india/
+GDGOC,Vizianagaram,"GDG on Campus Maharaj Vijayaram Gajapathi Raj College of Engineering - Vizianagaram, India",https://gdg.community.dev/gdg-on-campus-maharaj-vijayaram-gajapathi-raj-college-of-engineering-vizianagaram-india/
+GDGOC,Bhopal,"GDG on Campus School of Information Technology - Bhopal, India",https://gdg.community.dev/gdg-on-campus-school-of-information-technology-bhopal-india/
+GDGOC,Aurangabad,"GDG on Campus PES College of Engineering - Aurangabad, India",https://gdg.community.dev/gdg-on-campus-pes-college-of-engineering-aurangabad-india/
+GDGOC,Kokrajhar,"GDG on Campus Central Institute of Technology - Kokrajhar, India",https://gdg.community.dev/gdg-on-campus-central-institute-of-technology-kokrajhar-india/
+GDGOC,Thane,"GDG on Campus AP Shah Institute of Technology - Thane, India",https://gdg.community.dev/gdg-on-campus-ap-shah-institute-of-technology-thane-india/
+GDGOC,Sonipat,"GDG on Campus Hindu college of Engineering - Sonipat, India",https://gdg.community.dev/gdg-on-campus-hindu-college-of-engineering-sonipat-india/
+GDGOC,Chinsurah,"GDG on Campus Hooghly Engineering & Technology College - Chinsurah, India",https://gdg.community.dev/gdg-on-campus-hooghly-engineering-technology-college-chinsurah-india/
+GDGOC,Greater Noida,"GDG on Campus IILM University - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-iilm-university-greater-noida-india/
+GDGOC,Ichalkaranji,"GDG on Campus Sharad Institute of Technology College of Engineering - Ichalkaranji, India",https://gdg.community.dev/gdg-on-campus-sharad-institute-of-technology-college-of-engineering-ichalkaranji-india/
+GDGOC,Tekkali,"GDG on Campus Aditya Institute of Technology & Management - Tekkali, India",https://gdg.community.dev/gdg-on-campus-aditya-institute-of-technology-management-tekkali-india/
+GDGOC,Bengaluru,"GDG on Campus RV College of Engineering - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-rv-college-of-engineering-bengaluru-india/
+GDGOC,Chennai,"GDG on Campus Panimalar Engineering College - Chennai, India",https://gdg.community.dev/gdg-on-campus-panimalar-engineering-college-chennai-india/
+GDGOC,Kolhapur,"GDG on Campus Dr DY Patil Pratishthan's College of Engineering - Kolhapur, India",https://gdg.community.dev/gdg-on-campus-dr-dy-patil-pratishthans-college-of-engineering-kolhapur-india/
+GDGOC,Greater Noida,"GDG on Campus IIMT College of Engineering - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-iimt-college-of-engineering-greater-noida-india/
+GDGOC,Rayachoty,"GDG on Campus Sri Sai Institute of Technology & Science - Rayachoty, India",https://gdg.community.dev/gdg-on-campus-sri-sai-institute-of-technology-science-rayachoty-india/
+GDGOC,Allahabad,"GDG on Campus JK Institute of Applied Physics & Technology - Allahabad, India",https://gdg.community.dev/gdg-on-campus-jk-institute-of-applied-physics-technology-allahabad-india/
+GDGOC,Nandyal,"GDG on Campus SVR Engineering College - Nandyala, India",https://gdg.community.dev/gdg-on-campus-svr-engineering-college-nandyala-india/
+GDGOC,Tadepalligudem,"GDG on Campus Sri Vasavi Engineering College - Tadepalligudem, India",https://gdg.community.dev/gdg-on-campus-sri-vasavi-engineering-college-tadepalligudem-india/
+GDGOC,Tirupati,"GDG on Campus Sri Venkateswara College of Engineering - Tirupati, India",https://gdg.community.dev/gdg-on-campus-sri-venkateswara-college-of-engineering-tirupati-india/
+GDGOC,Hyderabad,"GDG on Campus Malla Reddy University - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-malla-reddy-university-hyderabad-india/
+GDGOC,Delhi,"GDG on Campus Jawaharlal Nehru University - Delhi, India",https://gdg.community.dev/gdg-on-campus-jawaharlal-nehru-university-delhi-india/
+GDGOC,Gandhinagar,"GDG on Campus Karnavati University - Gandhinagar, India",https://gdg.community.dev/gdg-on-campus-karnavati-university-gandhinagar-india/
+GDGOC,Erattupetta,"GDG on Campus St George's College - Erattupetta, India",https://gdg.community.dev/gdg-on-campus-st-georges-college-erattupetta-india/
+GDGOC,Chennai,"GDG on Campus Rajalakshmi Engineering College - Chennai, India",https://gdg.community.dev/gdg-on-campus-rajalakshmi-engineering-college-chennai-india/
+GDGOC,Namakkal,"GDG on Campus KSR College of Engineering - Namakkal, India",https://gdg.community.dev/gdg-on-campus-ksr-college-of-engineering-namakkal-india/
+GDGOC,Krishnankoil,"GDG on Campus Kalasalingam Academy of Research & Education - Krishnankoil, India",https://gdg.community.dev/gdg-on-campus-kalasalingam-academy-of-research-education-krishnankoil-india/
+GDGOC,Panipat,"GDG on Campus Panipat Institute of Engineering & Technology - Panipat, India",https://gdg.community.dev/gdg-on-campus-panipat-institute-of-engineering-technology-panipat-india/
+GDGOC,Chengannur,"GDG on Campus College of Engineering - Chengannur, India",https://gdg.community.dev/gdg-on-campus-college-of-engineering-chengannur-india/
+GDGOC,Aurangabad,"GDG on Campus MGM's Jawaharlal Nehru Engineering College - Aurangabad, India",https://gdg.community.dev/gdg-on-campus-mgms-jawaharlal-nehru-engineering-college-aurangabad-india/
+GDGOC,Firozpur,"GDG on Campus Shaheed Bhagat Singh State University - Firozpur, India",https://gdg.community.dev/gdg-on-campus-shaheed-bhagat-singh-state-university-firozpur-india/
+GDGOC,Tiruttani,"GDG on Campus GRT Institute of Engineering & Technology - Tiruttani, India",https://gdg.community.dev/gdg-on-campus-grt-institute-of-engineering-technology-tiruttani-india/
+GDGOC,Indore,"GDG on Campus Prestige Institute of Engineering Management and Research - Indore, India",https://gdg.community.dev/gdg-on-campus-prestige-institute-of-engineering-management-and-research-indore-india/
+GDGOC,Hyderabad,"GDG on Campus Gokaraju Rangaraju Institute of Engineering & Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-gokaraju-rangaraju-institute-of-engineering-technology-hyderabad-india/
+GDGOC,Bengaluru,"GDG on Campus RV University - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-rv-university-bengaluru-india/
+GDGOC,Visakhapatnam,"GDG on Campus Raghu Engineering College - Visakhapatnam, India",https://gdg.community.dev/gdg-on-campus-raghu-engineering-college-visakhapatnam-india/
+GDGOC,Tirupati,"GDG on Campus Indian Institute of Technology - Tirupati, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-technology-tirupati-india/
+GDGOC,Delhi,"GDG on Campus National Forensic Sciences University - Delhi, India",https://gdg.community.dev/gdg-on-campus-national-forensic-sciences-university-delhi-india/
+GDGOC,Chennai,"GDG on Campus Dhanalakshmi College of Engineering - Chennai, India",https://gdg.community.dev/gdg-on-campus-dhanalakshmi-college-of-engineering-chennai-india/
+GDGOC,Hyderabad,"GDG on Campus CMR Institute of Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-cmr-institute-of-technology-hyderabad-india/
+GDGOC,Gwalior,"GDG on Campus Madhav Institute of Technology & Science - Gwalior, India",https://gdg.community.dev/gdg-on-campus-madhav-institute-of-technology-science-gwalior-india/
+GDGOC,Allahabad,"GDG on Campus United Institute of Technology - Allahabad, India",https://gdg.community.dev/gdg-on-campus-united-institute-of-technology-allahabad-india/
+GDGOC,Jorhat,"GDG on Campus Jorhat Institute of Science & Technology - Jorhat, India",https://gdg.community.dev/gdg-on-campus-jorhat-institute-of-science-technology-jorhat-india/
+GDGOC,Delhi,"GDG on Campus Mata Sundri College For Women - Delhi, India",https://gdg.community.dev/gdg-on-campus-mata-sundri-college-for-women-delhi-india/
+GDGOC,Lucknow,"GDG on Campus Bansal Institute of Engineering & Technology - Lucknow, India",https://gdg.community.dev/gdg-on-campus-bansal-institute-of-engineering-technology-lucknow-india/
+GDGOC,Navi Mumbai,"GDG on Campus Lokmanya Tilak College of Engineering - Navi Mumbai, India",https://gdg.community.dev/gdg-on-campus-lokmanya-tilak-college-of-engineering-navi-mumbai-india/
+GDGOC,Delhi,"GDG on Campus University School of Automation & Robotics - Delhi, India",https://gdg.community.dev/gdg-on-campus-university-school-of-automation-robotics-delhi-india/
+GDGOC,Coimbatore,"GDG on Campus Karunya Institute of Technology & Sciences - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-karunya-institute-of-technology-sciences-coimbatore-india/
+GDGOC,Mumbai,"GDG on Campus Don Bosco Institute of Technology - Mumbai, India",https://gdg.community.dev/gdg-on-campus-don-bosco-institute-of-technology-mumbai-india/
+GDGOC,Kanpur,"GDG on Campus Indian Institute of Technology - Kanpur, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-technology-kanpur-india/
+GDGOC,Visakhapatnam,"GDG on Campus Andhra University College of Engineering - Visakhapatnam, India",https://gdg.community.dev/gdg-on-campus-andhra-university-college-of-engineering-visakhapatnam-india/
+GDGOC,Jaipur,"GDG on Campus Poornima University - Jaipur, India",https://gdg.community.dev/gdg-on-campus-poornima-university-jaipur-india/
+GDGOC,Vidisha,"GDG on Campus Samrat Ashok Technological Institute - Vidisha, India",https://gdg.community.dev/gdg-on-campus-samrat-ashok-technological-institute-vidisha-india/
+GDGOC,Hyderabad,"GDG on Campus Muffakham Jah College of Engineering and Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-muffakham-jah-college-of-engineering-and-technology-hyderabad-india/
+GDGOC,Kolkata,"GDG on Campus Meghnad Saha Institute Of Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-meghnad-saha-institute-of-technology-kolkata-india/
+GDGOC,Salem,"GDG on Campus Sona College of Technology - Salem, India",https://gdg.community.dev/gdg-on-campus-sona-college-of-technology-salem-india/
+GDGOC,Pune,"GDG on Campus Shrimati Kashibai Navale College of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-shrimati-kashibai-navale-college-of-engineering-pune-india/
+GDGOC,Ujjain,"GDG on Campus Ujjain Engineering College - Ujjain, India",https://gdg.community.dev/gdg-on-campus-ujjain-engineering-college-ujjain-india/
+GDGOC,Kodakara,"GDG on Campus Sahrdaya College of Engineering and Technology - Kodakara, India",https://gdg.community.dev/gdg-on-campus-sahrdaya-college-of-engineering-and-technology-kodakara-india/
+GDGOC,Vijayawada,"GDG on Campus Prasad V. Potluri Siddhartha Institute Of Technology - Vijayawada, India",https://gdg.community.dev/gdg-on-campus-prasad-v-potluri-siddhartha-institute-of-technology-vijayawada-india/
+GDGOC,Jabalpur,"GDG on Campus Gyan Ganga Institute of Technology and Science - Jabalpur, India",https://gdg.community.dev/gdg-on-campus-gyan-ganga-institute-of-technology-and-science-jabalpur-india/
+GDGOC,Bengaluru,"GDG on Campus Dr. Ambedkar Institute of Technology - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-dr-ambedkar-institute-of-technology-bengaluru-india/
+GDGOC,Goa,"GDG on Campus Padre Conceicao College of Engineering - Goa, India",https://gdg.community.dev/gdg-on-campus-padre-conceicao-college-of-engineering-goa-india/
+GDGOC,Kolkata,"GDG on Campus Bengal Institute of Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-bengal-institute-of-technology-kolkata-india/
+GDGOC,Bengaluru,"GDG on Campus Atria Institute of Technology - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-atria-institute-of-technology-bengaluru-india/
+GDGOC,Goa,"GDG on Campus Goa Engineering College - Goa, India",https://gdg.community.dev/gdg-on-campus-goa-engineering-college-goa-india/
+GDGOC,Vazhakulam,"GDG on Campus Viswajyothi College Of Engineering and Technology - Vazhakulam, India",https://gdg.community.dev/gdg-on-campus-viswajyothi-college-of-engineering-and-technology-vazhakulam-india/
+GDGOC,Hyderabad,"GDG on Campus University College of Engineering - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-university-college-of-engineering-hyderabad-india/
+GDGOC,Ajmer,"GDG on Campus Government Women Engineering College - Ajmer, India",https://gdg.community.dev/gdg-on-campus-government-women-engineering-college-ajmer-india/
+GDGOC,Ghaziabad,"GDG on Campus KIET Group of Institutions - Ghaziabad, India",https://gdg.community.dev/gdg-on-campus-kiet-group-of-institutions-ghaziabad-india/
+GDGOC,Aurangabad,"GDG on Campus Maharashtra Institute of Technology - Aurangabad, India",https://gdg.community.dev/gdg-on-campus-maharashtra-institute-of-technology-aurangabad-india/
+GDGOC,Bengaluru,"GDG on Campus SJB Institute of Technology - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-sjb-institute-of-technology-bengaluru-india/
+GDGOC,Kolkata,"GDG on Campus Budge Budge Institute of Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-budge-budge-institute-of-technology-kolkata-india/
+GDGOC,Guwahati,"GDG on Campus Assam down town University - Guwahati, India",https://gdg.community.dev/gdg-on-campus-assam-down-town-university-guwahati-india/
+GDGOC,Bhubaneswar,"GDG on Campus Silicon University - Bhubaneswar, India",https://gdg.community.dev/gdg-on-campus-silicon-university-bhubaneswar-india/
+GDGOC,Baramati,"GDG on Campus Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology - Baramati, India",https://gdg.community.dev/gdg-on-campus-vidya-pratishthans-kamalnayan-bajaj-institute-of-engineering-and-technology-baramati-india/
+GDGOC,Ranchi,"GDG on Campus Sarala Birla University - Ranchi, India",https://gdg.community.dev/gdg-on-campus-sarala-birla-university-ranchi-india/
+GDGOC,Indore,"GDG on Campus IIPS - International Institute of Professional Studies, DAVV - Indore, India",https://gdg.community.dev/gdg-on-campus-iips-international-institute-of-professional-studies-davv-indore-india/
+GDGOC,Hooghly,"GDG on Campus Academy of Technology - Hooghly, India",https://gdg.community.dev/gdg-on-campus-academy-of-technology-hooghly-india/
+GDGOC,Bhilai,"GDG on Campus Rungta College of Engineering and Technology - Bhilai, India",https://gdg.community.dev/gdg-on-campus-rungta-college-of-engineering-and-technology-bhilai-india/
+GDGOC,Shirpur,"GDG on Campus R. C. Patel Institute of Technology - Shirpur, India",https://gdg.community.dev/gdg-on-campus-r-c-patel-institute-of-technology-shirpur-india/
+GDGOC,Shegaon,"GDG on Campus Shri Sant Gajanan Maharaj College of Engineering - Shegaon, India",https://gdg.community.dev/gdg-on-campus-shri-sant-gajanan-maharaj-college-of-engineering-shegaon-india/
+GDGOC,Surat,"GDG on Campus C. K. Pithawala College of Engineering and Technology - Surat, India",https://gdg.community.dev/gdg-on-campus-c-k-pithawala-college-of-engineering-and-technology-surat-india/
+GDGOC,Bhimavaram,"GDG on Campus Vishnu Institute of Technology - Bhimavaram, India",https://gdg.community.dev/gdg-on-campus-vishnu-institute-of-technology-bhimavaram-india/
+GDGOC,Kolkata,"GDG on Campus Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex - Kolkata, India",https://gdg.community.dev/gdg-on-campus-dr-sudhir-chandra-sur-institute-of-technology-sports-complex-kolkata-india/
+GDGOC,Hyderabad,"GDG on Campus MLR Institute of Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-mlr-institute-of-technology-hyderabad-india/
+GDGOC,Guwahati,"GDG on Campus Assam Don Bosco University - Guwahati, India",https://gdg.community.dev/gdg-on-campus-assam-don-bosco-university-guwahati-india/
+GDGOC,Dharwad,"GDG on Campus Shri Dharmasthala Manjunatheshwara College of Engineering & Technology - Dharwad, India",https://gdg.community.dev/gdg-on-campus-shri-dharmasthala-manjunatheshwara-college-of-engineering-technology-dharwad-india/
+GDGOC,Pune,"GDG on Campus Sinhgad College of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-sinhgad-college-of-engineering-pune-india/
+GDGOC,Amravati,"GDG on Campus Prof. Ram Meghe Institute of Technology and Research - Amravati, India",https://gdg.community.dev/gdg-on-campus-prof-ram-meghe-institute-of-technology-and-research-amravati-india/
+GDGOC,Dibrugarh,"GDG on Campus Dibrugarh University - Dibrugarh, India",https://gdg.community.dev/gdg-on-campus-dibrugarh-university-dibrugarh-india/
+GDGOC,Nanded,"GDG on Campus Mahatma Gandhi Mission's College of Engineering - Nanded, India",https://gdg.community.dev/gdg-on-campus-mahatma-gandhi-missions-college-of-engineering-nanded-india/
+GDGOC,Bhavnagar,"GDG on Campus Government Engineering College - Bhavnagar, India",https://gdg.community.dev/gdg-on-campus-government-engineering-college-bhavnagar-india/
+GDGOC,Idukki,"GDG on Campus Government Engineering College - Idukki, India",https://gdg.community.dev/gdg-on-campus-government-engineering-college-idukki-india/
+GDGOC,Mandya,"GDG on Campus PES College of Engineering - Mandya, India",https://gdg.community.dev/gdg-on-campus-pes-college-of-engineering-mandya-india/
+GDGOC,Bhopal,"GDG on Campus Lakshmi Narain College of Technology and Science - Bhopal, India",https://gdg.community.dev/gdg-on-campus-lakshmi-narain-college-of-technology-and-science-bhopal-india/
+GDGOC,Bhopal,"GDG on Campus Lakshmi Narain College of Technology Excellence - Bhopal, India",https://gdg.community.dev/gdg-on-campus-lakshmi-narain-college-of-technology-excellence-bhopal-india/
+GDGOC,"Pune, India","GDG on Campus Indira College of Engineering and Management - Pune, India",https://gdg.community.dev/gdg-on-campus-indira-college-of-engineering-and-management-pune-india/
+GDGOC,"Pune, India","GDG on Campus Pune District Education Association's College of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-pune-district-education-associations-college-of-engineering-pune-india/
+GDGOC,"Guntur, India","GDG on Campus KKR & KSR Institute of Technology & Sciences - Guntur, India",https://gdg.community.dev/gdg-on-campus-kkr-ksr-institute-of-technology-sciences-guntur-india/
+GDGOC,"Chinsurah, India","GDG on Campus Abacus Institute of Engineering & Management - Chinsurah, India",https://gdg.community.dev/gdg-on-campus-abacus-institute-of-engineering-management-chinsurah-india/
+GDGOC,"Raipur, India","GDG on Campus Shri Shankaracharya Institute of Professional Management and Technology - Raipur, India",https://gdg.community.dev/gdg-on-campus-shri-shankaracharya-institute-of-professional-management-and-technology-raipur-india/
+GDGOC,Jabalpur,"GDG on Campus Shri Ram Institute of Technology - Jabalpur, India",https://gdg.community.dev/gdg-on-campus-shri-ram-institute-of-technology-jabalpur-india/
+GDGOC,Indore,"GDG on Campus SAGE University - Indore, India",https://gdg.community.dev/gdg-on-campus-sage-university-indore-india/
+GDGOC,Surat,"GDG on Campus Shree Swami Atmanand Saraswati Institute of Technology - Surat, India",https://gdg.community.dev/gdg-on-campus-shree-swami-atmanand-saraswati-institute-of-technology-surat-india/
+GDGOC,Bengaluru,"GDG on Campus Amity University - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-amity-university-bengaluru-india/
+GDGOC,"Coimbatore, India","GDG on Campus Karpagam College of Engineering - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-karpagam-college-of-engineering-coimbatore-india/
+GDGOC,Delhi,"GDG on Campus Acharya Narendra Dev College - Delhi, India",https://gdg.community.dev/gdg-on-campus-acharya-narendra-dev-college-delhi-india/
+GDGOC,Meerut,"GDG on Campus IIMT University – Meerut, India",https://gdg.community.dev/gdg-on-campus-iimt-university-meerut-india/
+GDGOC,Delhi,"GDG on Campus Maharaja Surajmal Institute of Technology - Delhi, India",https://gdg.community.dev/gdg-on-campus-maharaja-surajmal-institute-of-technology-delhi-india/
+GDGOC,Kolhapur,"GDG on Campus Sanjay Ghodawat University - Kolhapur, India",https://gdg.community.dev/gdg-on-campus-sanjay-ghodawat-university-kolhapur-india/
+GDGOC,"Coimbatore, India","GDG on Campus JCT College of Engineering and Technology - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-jct-college-of-engineering-and-technology-coimbatore-india/
+GDGOC,Greater Noida,"GDG on Campus IEC College of Engineering & Technology - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-iec-college-of-engineering-technology-greater-noida-india/
+GDGOC,Navi Mumbai,"GDG on Campus Bharati Vidyapeeth's Department of Management Studies - Navi Mumbai, India",https://gdg.community.dev/gdg-on-campus-bharati-vidyapeeths-department-of-management-studies-navi-mumbai-india/
+GDGOC,"Mohali, India","GDG on Campus Indo Global College - Mohali, India",https://gdg.community.dev/gdg-on-campus-indo-global-college-mohali-india/
+GDGOC,Gurugram,"GDG on Campus Gurugram University - Gurugram, India",https://gdg.community.dev/gdg-on-campus-gurugram-university-gurugram-india/
+GDGOC,"Ongole, India","GDG on Campus Pace Institute of Technology and Sciences - Ongole, India",https://gdg.community.dev/gdg-on-campus-pace-institute-of-technology-and-sciences-ongole-india/
+GDGOC,"Vasad, India","GDG on Campus Sardar Vallabhbhai Patel Institute of Technology - Vasad, India",https://gdg.community.dev/gdg-on-campus-sardar-vallabhbhai-patel-institute-of-technology-vasad-india/
+GDGOC,Kollam,"GDG on Campus College of Engineering Perumon - Kollam, India",https://gdg.community.dev/gdg-on-campus-college-of-engineering-perumon-kollam-india/
+GDGOC,Sonipat,"GDG on Campus Rishihood University - Sonipat, India",https://gdg.community.dev/gdg-on-campus-rishihood-university-sonipat-india/
+GDGOC,"Coimbatore, India","GDG on Campus Sri Eshwar College of Engineering - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-sri-eshwar-college-of-engineering-coimbatore-india/
+GDGOC,Hyderabad,"GDG on Campus Malla Reddy College of Engineering and Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-malla-reddy-college-of-engineering-and-technology-hyderabad-india/
+GDGOC,Nanded,"GDG on Campus Shri Guru Gobind Singhji Institute of Engineering and Technology - Nanded, India",https://gdg.community.dev/gdg-on-campus-shri-guru-gobind-singhji-institute-of-engineering-and-technology-nanded-india/
+GDGOC,"Ratnagiri, India","GDG on Campus Government College of Engineering - Ratnagiri, India",https://gdg.community.dev/gdg-on-campus-government-college-of-engineering-ratnagiri-india/
+GDGOC,Meerut,"GDG on Campus Sir Chhotu Ram Institute of Engineering and Technology - Meerut, India",https://gdg.community.dev/gdg-on-campus-sir-chhotu-ram-institute-of-engineering-and-technology-meerut-india/
+GDGOC,"Jaysingpur, India","GDG on Campus Dr. J.J. Magdum College of Engineering - Jaysingpur, India",https://gdg.community.dev/gdg-on-campus-dr-jj-magdum-college-of-engineering-jaysingpur-india/
+GDGOC,"Sultanpur, India","GDG on Campus Kamla Nehru Institute of Technology - Sultanpur, India",https://gdg.community.dev/gdg-on-campus-kamla-nehru-institute-of-technology-sultanpur-india/
+GDGOC,Thiruvananthapuram,"GDG on Campus Lourdes Matha College of Science and Technology - Thiruvananthapuram, India",https://gdg.community.dev/gdg-on-campus-lourdes-matha-college-of-science-and-technology-thiruvananthapuram-india/
+GDGOC,Nashik,"GDG on Campus SNJB's Late Sau Kantabai Bhavarlalji Jain College of Engineering - Nashik, India",https://gdg.community.dev/gdg-on-campus-snjbs-late-sau-kantabai-bhavarlalji-jain-college-of-engineering-nashik-india/
+GDGOC,Nashik,"GDG on Campus Pune Vidyarthi Griha's College of Engineering & S. S. Dhamankar Institute of Management - Nashik, India",https://gdg.community.dev/gdg-on-campus-pune-vidyarthi-grihas-college-of-engineering-s-s-dhamankar-institute-of-management-nashik-india/
+GDGOC,Bhubaneswar,"GDG on Campus Gandhi Institute for Education and Technology - Bhubaneswar, India",https://gdg.community.dev/gdg-on-campus-gandhi-institute-for-education-and-technology-bhubaneswar-india/
+GDGOC,Durgapur,"GDG on Campus Bengal College of Engineering and Technology - Durgapur, India",https://gdg.community.dev/gdg-on-campus-bengal-college-of-engineering-and-technology-durgapur-india/
+GDGOC,Delhi,"GDG on Campus GB Pant DSEU Okhla 1 Campus DSEU - Delhi, India",https://gdg.community.dev/gdg-on-campus-gb-pant-dseu-okhla-1-campus-dseu-delhi-india/
+GDGOC,Jabalpur,"GDG on Campus Gyan Ganga College of Technology - Jabalpur, India",https://gdg.community.dev/gdg-on-campus-gyan-ganga-college-of-technology-jabalpur-india/
+GDGOC,"Longowal, India","GDG on Campus Sant Longowal Institute of Engineering and Technology - Longowal, India",https://gdg.community.dev/gdg-on-campus-sant-longowal-institute-of-engineering-and-technology-longowal-india/
+GDGOC,Ghaziabad,"GDG on Campus Inderprastha Engineering College - Ghaziabad, India",https://gdg.community.dev/gdg-on-campus-inderprastha-engineering-college-ghaziabad-india/
+GDGOC,"Hoshiarpur, India","GDG on Campus Panjab University Swami Sarvanand Giri Regional Centre - Hoshiarpur, India",https://gdg.community.dev/gdg-on-campus-panjab-university-swami-sarvanand-giri-regional-centre-hoshiarpur-india/
+GDGOC,Ghaziabad,"GDG on Campus HRIT Group of Institutions - Ghaziabad, India",https://gdg.community.dev/gdg-on-campus-hrit-group-of-institutions-ghaziabad-india/
+GDGOC,"Mysore, India","GDG on Campus GSSS Institute of Engineering and Technology for Women - Mysore, India",https://gdg.community.dev/gdg-on-campus-gsss-institute-of-engineering-and-technology-for-women-mysore-india/
+GDGOC,Hyderabad,"GDG on Campus CR Rao Advanced Institute of Mathematics, Statistics and Computer Science - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-cr-rao-advanced-institute-of-mathematics-statistics-and-computer-science-hyderabad-india/
+GDGOC,Ghaziabad,"GDG on Campus IMS Engineering College - Ghaziabad, India",https://gdg.community.dev/gdg-on-campus-ims-engineering-college-ghaziabad-india/
+GDGOC,"Khanna, India","GDG on Campus Gulzar Group of Institutes - Khanna, India",https://gdg.community.dev/gdg-on-campus-gulzar-group-of-institutes-khanna-india/
+GDGOC,Navi Mumbai,"GDG on Campus Chhatrapati Shivaji Maharaj University - Navi Mumbai, India",https://gdg.community.dev/gdg-on-campus-chhatrapati-shivaji-maharaj-university-navi-mumbai-india/
+GDGOC,"Guntur, India","GDG on Campus R.V.R. & J.C.College of Engineering - Guntur, India",https://gdg.community.dev/gdg-on-campus-rvr-jccollege-of-engineering-guntur-india/
+GDGOC,Solapur,"GDG on Campus A.G. Patil Institute of Technology - Solapur, India",https://gdg.community.dev/gdg-on-campus-ag-patil-institute-of-technology-solapur-india/
+GDGOC,Jalandhar,"GDG on Campus DAV University - Jalandhar, India",https://gdg.community.dev/gdg-on-campus-dav-university-jalandhar-india/
+GDGOC,"Manipur, India","GDG on Campus Indian Institute of Information Technology - Manipur, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-manipur-india/
+GDGOC,Nellore,"GDG on Campus Narayana Engineering College - Nellore, India",https://gdg.community.dev/gdg-on-campus-narayana-engineering-college-nellore-india/
+GDGOC,"Amaravati, India","GDG on Campus SRM University AP - Amaravati, India",https://gdg.community.dev/gdg-on-campus-srm-university-ap-amaravati-india/
+GDGOC,"Alappuzha, India","GDG on Campus College of Engineering Cherthala - Alappuzha, India",https://gdg.community.dev/gdg-on-campus-college-of-engineering-cherthala-alappuzha-india/
+GDGOC,"Pune, India","GDG on Campus MIT Arts Commerce and Science College - Pune, India",https://gdg.community.dev/gdg-on-campus-mit-arts-commerce-and-science-college-pune-india/
+GDGOC,Bengaluru,"GDG on Campus Dayananda Sagar University - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-dayananda-sagar-university-bengaluru-india/
+GDGOC,Lucknow,"GDG on Campus Babu Banarasi Das Northern India Institute of Technology - Lucknow, India",https://gdg.community.dev/gdg-on-campus-babu-banarasi-das-northern-india-institute-of-technology-lucknow-india/
+GDGOC,Kolkata,"GDG on Campus Government College of Engineering and Leather Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-government-college-of-engineering-and-leather-technology-kolkata-india/
+GDGOC,"Chennai, India","GDG on Campus Shiv Nadar University Chennai - Chennai, India",https://gdg.community.dev/gdg-on-campus-shiv-nadar-university-chennai-chennai-india/
+GDGOC,"AISSMS College of Engineering, Pune, India","GDG on Campus AISSMS College of Engineering, Pune, India",https://gdg.community.dev/gdg-on-campus-aissms-college-of-engineering-pune-india/
+GDGOC,"Lakhisarai, India","GDG on Campus Government Engineering College - Lakhisarai, India",https://gdg.community.dev/gdg-on-campus-government-engineering-college-lakhisarai-india/
+GDGOC,Nandyal,"GDG on Campus Rajeev Gandhi Memorial College of Engineering and Technology - Nandyala, India",https://gdg.community.dev/gdg-on-campus-rajeev-gandhi-memorial-college-of-engineering-and-technology-nandyala-india/
+GDGOC,Tirupati,"GDG on Campus Annamacharya Institute of Technology and Sciences - Tirupati, India",https://gdg.community.dev/gdg-on-campus-annamacharya-institute-of-technology-and-sciences-tirupati-india/
+GDGOC,"Shillong, India","GDG on Campus North-Eastern Hill University - Shillong, India",https://gdg.community.dev/gdg-on-campus-north-eastern-hill-university-shillong-india/
+GDGOC,"Madhepura, India","GDG on Campus BP Mandal College of Engineering - Madhepura, India",https://gdg.community.dev/gdg-on-campus-bp-mandal-college-of-engineering-madhepura-india/
+GDGOC,"Amaravati, India","GDG on Campus Vellore Institute of Technology - Amaravati, India",https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-amaravati-india/
+GDGOC,Noida,"GDG on Campus Mahatma Gandhi Mission's College of Engineering and Technology - Noida, India",https://gdg.community.dev/gdg-on-campus-mahatma-gandhi-missions-college-of-engineering-and-technology-noida-india/
+GDGOC,"Chennai, India","GDG on Campus Madras Institute of Technology - Chennai, India",https://gdg.community.dev/gdg-on-campus-madras-institute-of-technology-chennai-india/
+GDGOC,"Chennai, India","GDG on Campus Prince Dr. K. Vasudevan College of Engineering and Technology - Chennai, India",https://gdg.community.dev/gdg-on-campus-prince-dr-k-vasudevan-college-of-engineering-and-technology-chennai-india/
+GDGOC,"Arwal, India","GDG on Campus Government Engineering College - Arwal, India",https://gdg.community.dev/gdg-on-campus-government-engineering-college-arwal-india/
+GDGOC,"Muzaffarpur, India","GDG on Campus Muzaffarpur Institute of Technology - Muzaffarpur, India",https://gdg.community.dev/gdg-on-campus-muzaffarpur-institute-of-technology-muzaffarpur-india/
+GDGOC,Solapur,"GDG on Campus N B Navale Sinhgad College of Engineering - Solapur, India",https://gdg.community.dev/gdg-on-campus-n-b-navale-sinhgad-college-of-engineering-solapur-india/
+GDGOC,Hyderabad,"GDG on Campus ICFAI Foundation for Higher Education - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-icfai-foundation-for-higher-education-hyderabad-india/
+GDGOC,"Coimbatore, Tamil Nadu, India","GDG on Campus Kumaraguru College of Technology  - Coimbatore, Tamil Nadu, India",https://gdg.community.dev/gdg-on-campus-kumaraguru-college-of-technology-coimbatore-tamil-nadu-india/
+GDGOC,Nagpur,"GDG on Campus Kavikulguru Institute of Technology and Science - Nagpur, India",https://gdg.community.dev/gdg-on-campus-kavikulguru-institute-of-technology-and-science-nagpur-india/
+GDGOC,Bhubaneswar,"GDG on Campus Birla Global University - Bhubaneswar, India",https://gdg.community.dev/gdg-on-campus-birla-global-university-bhubaneswar-india/
+GDGOC,Delhi,"GDG on Campus Indian Institute of Technology - Delhi, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-technology-delhi-india/
+GDGOC,"East Godavari, India","GDG on Campus Aditya College of Engineering & Technology - East Godavari, India",https://gdg.community.dev/gdg-on-campus-aditya-college-of-engineering-technology-east-godavari-india/
+GDGOC,Hyderabad,"GDG on Campus Jawaharlal Nehru Technological University - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-jawaharlal-nehru-technological-university-hyderabad-india/
+GDGOC,Jammu,"GDG on Campus Central University of Jammu - Jammu, India",https://gdg.community.dev/gdg-on-campus-central-university-of-jammu-jammu-india/
+GDGOC,"Chennai, India","GDG on Campus Chennai Institute of Technology - Chennai, India",https://gdg.community.dev/gdg-on-campus-chennai-institute-of-technology-chennai-india/
+GDGOC,Kakinada,"GDG on Campus Aditya University - Kakinada, India",https://gdg.community.dev/gdg-on-campus-aditya-university-kakinada-india/
+GDGOC,Bengaluru,"GDG on Campus Presidency University - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-presidency-university-bengaluru-india/
+GDGOC,Kalyani,"GDG on Campus Ideal Institute of Engineering - Kalyani, India",https://gdg.community.dev/gdg-on-campus-ideal-institute-of-engineering-kalyani-india/
+GDGOC,Nagpur,"GDG on Campus Priyadarshini College of Engineering - Nagpur, India",https://gdg.community.dev/gdg-on-campus-priyadarshini-college-of-engineering-nagpur-india/
+GDGOC,Kolkata,"GDG on Campus Sister Nivedita University - Kolkata, India",https://gdg.community.dev/gdg-on-campus-sister-nivedita-university-kolkata-india/
+GDGOC,"Rajkot, India","GDG on Campus Marwadi University - Rajkot, India",https://gdg.community.dev/gdg-on-campus-marwadi-university-rajkot-india/
+GDGOC,"Warangal, India","GDG on Campus SR University - Warangal, India",https://gdg.community.dev/gdg-on-campus-sr-university-warangal-india/
+GDGOC,Palai,"GDG on Campus St. Joseph's College of Engineering - Chennai, India",https://gdg.community.dev/gdg-on-campus-st-josephs-college-of-engineering-chennai-india/
+GDGOC,Mysuru,"GDG on Campus Vidya Vikas Institute of Engineering and Technology - Mysuru, India",https://gdg.community.dev/gdg-on-campus-vidya-vikas-institute-of-engineering-and-technology-mysuru-india/
+GDGOC,Kalady,"GDG on Campus Adi Shankara Institute of Engineering & Technology - Kalady, India",https://gdg.community.dev/gdg-on-campus-adi-shankara-institute-of-engineering-technology-kalady-india/
+GDGOC,Bengaluru,"GDG on Campus Alliance University - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-alliance-university-bengaluru-india/
+GDGOC,chennai,"GDG on Campus Anna University - Chennai, India",https://gdg.community.dev/gdg-on-campus-anna-university-chennai-india/
+GDGOC,Hyderabad,"GDG on Campus Anurag University - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-anurag-university-hyderabad-india/
+GDGOC,Guwahati,"GDG on Campus Assam Engineering College - Guwahati, India",https://gdg.community.dev/gdg-on-campus-assam-engineering-college-guwahati-india/
+GDGOC,Ujjain,"GDG on Campus Avantika University - Ujjain, India",https://gdg.community.dev/gdg-on-campus-avantika-university-ujjain-india/
+GDGOC,Narsapur,"GDG on Campus B V Raju Institute of Technology - Narsapur, India",https://gdg.community.dev/gdg-on-campus-b-v-raju-institute-of-technology-narsapur-india/
+GDGOC,Fatehgarh Sahib,"GDG on Campus Baba Banda Singh Bahadur Engineering College - Fatehgarh Sahib, India",https://gdg.community.dev/gdg-on-campus-baba-banda-singh-bahadur-engineering-college-fatehgarh-sahib-india/
+GDGOC,Sathyamangalam,"GDG on Campus Bannari Amman Institute of Technology - Sathyamangalam, India",https://gdg.community.dev/gdg-on-campus-bannari-amman-institute-of-technology-sathyamangalam-india/
+GDGOC,Pune,"GDG on Campus Bharati Vidyapeeth (Deemed to be University) College Of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-bharati-vidyapeeth-deemed-to-be-university-college-of-engineering-pune-india/
+GDGOC,Pilani,"GDG on Campus BK Birla Institute of Engineering and Technology - Pilani, India",https://gdg.community.dev/gdg-on-campus-bk-birla-institute-of-engineering-and-technology-pilani-india/
+GDGOC,Bengaluru,"GDG on Campus BMS Institute of Technology & Management - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-bms-institute-of-technology-management-bengaluru-india/
+GDGOC,Anand,"GDG on Campus Charotar University of Science and Technology - Anand, India",https://gdg.community.dev/gdg-on-campus-charotar-university-of-science-and-technology-anand-india/
+GDGOC,Bangalore,"GDG on Campus CHRIST - Bangalore, India",https://gdg.community.dev/gdg-on-campus-christ-bangalore-india/
+GDGOC,Coimbatore,"GDG on Campus Coimbatore Institute of Technology - Coimbatore, India",https://gdg.community.dev/gdg-on-campus-coimbatore-institute-of-technology-coimbatore-india/
+GDGOC,Greater Noida,"GDG on Campus Delhi Technical Campus - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-delhi-technical-campus-greater-noida-india/
+GDGOC,Pune,"GDG on Campus DY Patil International University - Pune, India",https://gdg.community.dev/gdg-on-campus-dy-patil-international-university-pune-india/
+GDGOC,Pune,"GDG on Campus Fergusson College - Pune, India",https://gdg.community.dev/gdg-on-campus-fergusson-college-pune-india/
+GDGOC,Mumbai,"GDG on Campus Fr. Conceicao Rodrigues College of Engineering - Mumbai, India",https://gdg.community.dev/gdg-on-campus-fr-conceicao-rodrigues-college-of-engineering-mumbai-india/
+GDGOC,Nagpur,"GDG on Campus G H Raisoni College of Engineering - Nagpur, India",https://gdg.community.dev/gdg-on-campus-g-h-raisoni-college-of-engineering-nagpur-india/
+GDGOC,Hyderabad,"GDG on Campus G Narayanamma Institute of Technology and Science - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-g-narayanamma-institute-of-technology-and-science-hyderabad-india/
+GDGOC,Greater Noida,"GDG on Campus Galgotias University - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-galgotias-university-greater-noida-india/
+GDGOC,Visakhapatnam,"GDG on Campus Gandhi Institute of Technology and Management - Visakhapatnam, India",https://gdg.community.dev/gdg-on-campus-gandhi-institute-of-technology-and-management-visakhapatnam-india-1/
+GDGOC,Hyderabad,"GDG on Campus Geethanjali College of Engineering and Technology - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-geethanjali-college-of-engineering-and-technology-hyderabad-india/
+GDGOC,Jaipur,"GDG on Campus Global Institute of technology - Jaipur, India",https://gdg.community.dev/gdg-on-campus-global-institute-of-technology-jaipur-india/
+GDGOC,Hyderabad,"GDG on Campus Gokaraju Lailavathi Engineering College - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-gokaraju-lailavathi-engineering-college-hyderabad-india/
+GDGOC,Kolkata,"GDG on Campus Government College of Engineering and Ceramic Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-government-college-of-engineering-and-ceramic-technology-kolkata-india/
+GDGOC,Pune,"GDG on Campus Government College of Engineering and Research , Awsari Khurd - Pune, India",https://gdg.community.dev/gdg-on-campus-government-college-of-engineering-and-research-awsari-khurd-pune-india/
+GDGOC,Pantnagar,"GDG on Campus Govind Ballabh Pant University of Agriculture & Technology - Pantnagar, India",https://gdg.community.dev/gdg-on-campus-govind-ballabh-pant-university-of-agriculture-technology-pantnagar-india/
+GDGOC,Amritsar,"GDG on Campus Guru Nanak Dev University - Amritsar, India",https://gdg.community.dev/gdg-on-campus-guru-nanak-dev-university-amritsar-india/
+GDGOC,Haridwar,"GDG on Campus Gurukul Kangri - Haridwar, India",https://gdg.community.dev/gdg-on-campus-gurukul-kangri-haridwar-india/
+GDGOC,Agratala,"GDG on Campus Indian Institute of Information Technology - Agartala, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-agartala-india/
+GDGOC,Bhopal,"GDG on Campus Indian Institute of Information Technology - Bhopal, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-bhopal-india/
+GDGOC,Gandhinagar,"GDG on Campus Indian Institute of Information Technology - Gandhinagar, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-gandhinagar-india/
+GDGOC,Guwahati,"GDG on Campus Indian Institute of Information Technology - Guwahati, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-information-technology-guwahati-india/
+GDGOC,Ponda,"GDG on Campus Indian Institute of Technology - Ponda, India",https://gdg.community.dev/gdg-on-campus-indian-institute-of-technology-ponda-india/
+GDGOC,Gandhinagar,"GDG on Campus Institute of Advanced Research - Gandhinagar, India",https://gdg.community.dev/gdg-on-campus-institute-of-advanced-research-gandhinagar-india/
+GDGOC,Gwalior,"GDG on Campus IPS College Of Technology & Management - Gwalior, India",https://gdg.community.dev/gdg-on-campus-ips-college-of-technology-management-gwalior-india/
+GDGOC,Delhi,"GDG on Campus Jagannath International Management School - Delhi, India",https://gdg.community.dev/gdg-on-campus-jagannath-international-management-school-delhi-india/
+GDGOC,Bengaluru,"GDG on Campus JSS Academy Of Technical Education - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-jss-academy-of-technical-education-bengaluru-india/
+GDGOC,Tiptur,"GDG on Campus Kalpataru Institute of Technology - Tiptur, India",https://gdg.community.dev/gdg-on-campus-kalpataru-institute-of-technology-tiptur-india/
+GDGOC,Kalyani,"GDG on Campus Kalyani Government Engineering College - Kalyani, India",https://gdg.community.dev/gdg-on-campus-kalyani-government-engineering-college-kalyani-india/
+GDGOC,Hyderabad,"GDG on Campus KLH University Bachupally Campus - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-klh-university-bachupally-campus-hyderabad-india/
+GDGOC,Bengaluru,"GDG on Campus Kristu Jayanti (Deemed to be University) – Bengaluru, India",https://gdg.community.dev/gdg-on-campus-kristu-jayanti-deemed-to-be-university-bengaluru-india/
+GDGOC,Ahmedabad,"GDG on Campus L.D. College of Engineering - Ahmedabad, India",https://gdg.community.dev/gdg-on-campus-ld-college-of-engineering-ahmedabad-india/
+GDGOC,Kasaragod,"GDG on Campus LBS College Of Engineering - Kasaragod, India",https://gdg.community.dev/gdg-on-campus-lbs-college-of-engineering-kasaragod-india/
+GDGOC,Latur,"GDG on Campus M.S.Bidve Engineering College - Latur, India",https://gdg.community.dev/gdg-on-campus-msbidve-engineering-college-latur-india/
+GDGOC,Mailam,"GDG on Campus Mailam Engineering College - Mailam, India",https://gdg.community.dev/gdg-on-campus-mailam-engineering-college-mailam-india/
+GDGOC,Hyderabad,"GDG on Campus Malla Reddy Engineering College And Management Sciences - Hyderabad, India",https://gdg.community.dev/gdg-on-campus-malla-reddy-engineering-college-and-management-sciences-hyderabad-india/
+GDGOC,Kothamangalam,"GDG on Campus Mar Athanasius College Of Engineering - Kothamangalam, India",https://gdg.community.dev/gdg-on-campus-mar-athanasius-college-of-engineering-kothamangalam-india/
+GDGOC,Trivandrum,"GDG on Campus Mar Baselios College of Engineering and Technology - Trivandrum, India",https://gdg.community.dev/gdg-on-campus-mar-baselios-college-of-engineering-and-technology-trivandrum-india/
+GDGOC,Howrah,"GDG on Campus MCKV Institute of Engineering - Howrah, India",https://gdg.community.dev/gdg-on-campus-mckv-institute-of-engineering-howrah-india/
+GDGOC,Chennai,"GDG on Campus Meenakshi Sundararajan Engineering College - Chennai, India",https://gdg.community.dev/gdg-on-campus-meenakshi-sundararajan-engineering-college-chennai-india/
+GDGOC,Pune,"GDG on Campus MIT ADT University - Pune, India",https://gdg.community.dev/gdg-on-campus-mit-adt-university-pune-india/
+GDGOC,Pune,"GDG on Campus MIT World Peace University - Pune, India",https://gdg.community.dev/gdg-on-campus-mit-world-peace-university-pune-india-1/
+GDGOC,Kochi,"GDG on Campus Model Engineering College - Kochi, India",https://gdg.community.dev/gdg-on-campus-model-engineering-college-kochi-india/
+GDGOC,Tirupati,"GDG on Campus Mohan Babu University - Tirupati, India",https://gdg.community.dev/gdg-on-campus-mohan-babu-university-tirupati-india/
+GDGOC,Shirpur,"GDG on Campus Mukesh Patel School of Technology Management & Engineering - Shirpur, India",https://gdg.community.dev/gdg-on-campus-mukesh-patel-school-of-technology-management-engineering-shirpur-india/
+GDGOC,Nalanda,"GDG on Campus Nalanda college of engineering chandi - Nalanda, India",https://gdg.community.dev/gdg-on-campus-nalanda-college-of-engineering-chandi-nalanda-india/
+GDGOC,Erode,"GDG on Campus Nandha College of Technology - Erode, India",https://gdg.community.dev/gdg-on-campus-nandha-college-of-technology-erode-india/
+GDGOC,Agarpara,"GDG on Campus Narula Institute of Technology - Agarpara, India",https://gdg.community.dev/gdg-on-campus-narula-institute-of-technology-agarpara-india/
+GDGOC,Patna,"GDG on Campus National Institute of Technology - Patna, India",https://gdg.community.dev/gdg-on-campus-national-institute-of-technology-patna-india/
+GDGOC,Tanagar,"GDG on Campus North Eastern Regional Institute of Science and Technology - Itanagar, India",https://gdg.community.dev/gdg-on-campus-north-eastern-regional-institute-of-science-and-technology-itanagar-india/
+GDGOC,Pune',"GDG on Campus Nutan Maharashtra Institute of Engineering and Technology - Pune, India",https://gdg.community.dev/gdg-on-campus-nutan-maharashtra-institute-of-engineering-and-technology-pune-india/
+GDGOC,Delhi,"GDG on Campus P.G.D.A.V College, University Of Delhi - Delhi, India",https://gdg.community.dev/gdg-on-campus-pgdav-college-university-of-delhi-delhi-india/
+GDGOC,Namakkal,"GDG on Campus Paavai Engineering College - Namakkal, India",https://gdg.community.dev/gdg-on-campus-paavai-engineering-college-namakkal-india/
+GDGOC,Bengaluru,"GDG on Campus PES University - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-pes-university-bengaluru-india/
+GDGOC,Pune,"GDG on Campus Pimpri Chinchwad College of Engineering & Research - Pune, India",https://gdg.community.dev/gdg-on-campus-pimpri-chinchwad-college-of-engineering-research-pune-india/
+GDGOC,Pune,"GDG on Campus Progressive Education Society's Modern College of Engineering - Pune, India",https://gdg.community.dev/gdg-on-campus-progressive-education-societys-modern-college-of-engineering-pune-india/
+GDGOC,Chennai,"GDG on Campus R.M.K. Engineering College - Chennai, India",https://gdg.community.dev/gdg-on-campus-rmk-engineering-college-chennai-india/
+GDGOC,Amethi,"GDG on Campus Rajiv Gandhi Institute of Petroleum Technology - Amethi, India",https://gdg.community.dev/gdg-on-campus-rajiv-gandhi-institute-of-petroleum-technology-amethi-india/
+GDGOC,Ramgarh,"GDG on Campus Ramgarh Engineering College - Ramgarh, India",https://gdg.community.dev/gdg-on-campus-ramgarh-engineering-college-ramgarh-india/
+GDGOC,Bengaluru,"GDG on Campus REVA University - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-reva-university-bengaluru-india/
+GDGOC,Sivasagar,"GDG on Campus RGIPT Sivasagar Campus - Sivasagar, India",https://gdg.community.dev/gdg-on-campus-rgipt-sivasagar-campus-sivasagar-india/
+GDGOC,Bengaluru,"GDG on Campus RNS Institute of Technology - Bengaluru, India",https://gdg.community.dev/gdg-on-campus-rns-institute-of-technology-bengaluru-india/
+GDGOC,Roorkee,"GDG on Campus Roorkee Institute of Technology - Roorkee, India",https://gdg.community.dev/gdg-on-campus-roorkee-institute-of-technology-roorkee-india/
+GDGOC,Nashik,"GDG on Campus Sandip Foundation's SITRC - Nashik, India",https://gdg.community.dev/gdg-on-campus-sandip-foundations-sitrc-nashik-india/
+GDGOC,Visnagar,"GDG on Campus Sankalchand Patel University - Visnagar, India",https://gdg.community.dev/gdg-on-campus-sankalchand-patel-university-visnagar-india/
+GDGOC,Thanjavur,"GDG on Campus Sastra Deemed to be University - Thanjavur, India",https://gdg.community.dev/gdg-on-campus-sastra-deemed-to-be-university-thanjavur-india/
+GDGOC,Kochi,"GDG on Campus School Of Engineering, CUSAT - Kochi, India",https://gdg.community.dev/gdg-on-campus-school-of-engineering-cusat-kochi-india/
+GDGOC,Ernakulam,"GDG on Campus SCMS School of Engineering and Technology - Ernakulam, India",https://gdg.community.dev/gdg-on-campus-scms-school-of-engineering-and-technology-ernakulam-india/
+GDGOC,Mumbai,"GDG on Campus Shah & Anchor Kutchhi Engineering College - Mumbai, India",https://gdg.community.dev/gdg-on-campus-shah-anchor-kutchhi-engineering-college-mumbai-india/
+GDGOC,Agra,"GDG on Campus Sharda University - Agra, India",https://gdg.community.dev/gdg-on-campus-sharda-university-agra-india/
+GDGOC,Greater Noida,"GDG on Campus Sharda University - Greater Noida, India",https://gdg.community.dev/gdg-on-campus-sharda-university-greater-noida-india/
+GDGOC,Dadri,"GDG on Campus Shiv Nadar Institution of Eminence - Dadri, India",https://gdg.community.dev/gdg-on-campus-shiv-nadar-institution-of-eminence-dadri-india/
+GDGOC,Kolhapur,"GDG on Campus Shivaji University Department of Technology - Kolhapur, India",https://gdg.community.dev/gdg-on-campus-shivaji-university-department-of-technology-kolhapur-india/
+GDGOC,Mahuva,"GDG on Campus Shree Parekh Engineering College - Mahuva, India",https://gdg.community.dev/gdg-on-campus-shree-parekh-engineering-college-mahuva-india/
+GDGOC,Palwal,"GDG on Campus Shri Vishwakarma Skill University - Palwal, India",https://gdg.community.dev/gdg-on-campus-shri-vishwakarma-skill-university-palwal-india/
+GDGOC,Madagadipet,"GDG on Campus Sri Manakula Vinayagar Engineering College - Madagadipet, India",https://gdg.community.dev/gdg-on-campus-sri-manakula-vinayagar-engineering-college-madagadipet-india/
+GDGOC,Chennai,"GDG on Campus Sri Sivasubramaniya Nadar College Of Engineering - Chennai, India",https://gdg.community.dev/gdg-on-campus-sri-sivasubramaniya-nadar-college-of-engineering-chennai-india/
+GDGOC,Mangalore,"GDG on Campus Srinivas Institute of Technology - Mangalore, India",https://gdg.community.dev/gdg-on-campus-srinivas-institute-of-technology-mangalore-india/
+GDGOC,Ghaziabad,"GDG on Campus SRM Institute of Science and Technology - Ghaziabad, India",https://gdg.community.dev/gdg-on-campus-srm-institute-of-science-and-technology-ghaziabad-india/
+GDGOC,Sonepat,"GDG on Campus SRM University Delhi-NCR - Sonepat, India",https://gdg.community.dev/gdg-on-campus-srm-university-delhi-ncr-sonepat-india/
+GDGOC,Palghar,"GDG on Campus St. John College of Engineering and Management Autonomous - Palghar, India",https://gdg.community.dev/gdg-on-campus-st-john-college-of-engineering-and-management-autonomous-palghar-india/
+GDGOC,Chengannur,"GDG on Campus St. Thomas College of Engineering & Technology - Chengannur, India",https://gdg.community.dev/gdg-on-campus-st-thomas-college-of-engineering-technology-chengannur-india/
+GDGOC,Kolkata,"GDG on Campus St. Thomas' College of Engineering & Technology - Kolkata, India",https://gdg.community.dev/gdg-on-campus-st-thomas-college-of-engineering-technology-kolkata-india/
+GDGOC,Mumbai,"GDG on Campus SVKM NMIMS Mukesh Patel School of Technology Management and Engineering - Mumbai, India",https://gdg.community.dev/gdg-on-campus-svkm-nmims-mukesh-patel-school-of-technology-management-and-engineering-mumbai-india/
+GDGOC,Kolhapur,"GDG on Campus Tatyasaheb Kore Institute of Engineering & Technology - Kolhapur, India",https://gdg.community.dev/gdg-on-campus-tatyasaheb-kore-institute-of-engineering-technology-kolhapur-india/
+GDGOC,Mumbai,"GDG on Campus Thakur College Of Engineering & Technology - Mumbai, India",https://gdg.community.dev/gdg-on-campus-thakur-college-of-engineering-technology-mumbai-india/
+GDGOC,Patiala,"GDG on Campus Thapar Institute of Engineering & Technology - Patiala, India",https://gdg.community.dev/gdg-on-campus-thapar-institute-of-engineering-technology-patiala-india/
+GDGOC,Guwahati,"GDG on Campus The Assam Royal Global University - Guwahati, India",https://gdg.community.dev/gdg-on-campus-the-assam-royal-global-university-guwahati-india/
+GDGOC,Mhesana,"GDG on Campus U.V Patel College of Engineering - Mehsana, India",https://gdg.community.dev/gdg-on-campus-uv-patel-college-of-engineering-mehsana-india/
+GDGOC,Trivandrum,"GDG on Campus University College Of Engineering - Trivandrum, India",https://gdg.community.dev/gdg-on-campus-university-college-of-engineering-trivandrum-india/
+GDGOC,Bardhaman,"GDG on Campus University Institute of Technology, The University of Burdwan - Bardhaman, India",https://gdg.community.dev/gdg-on-campus-university-institute-of-technology-the-university-of-burdwan-bardhaman-india/
+GDGOC,Bhopal,"GDG on Campus University Institute Of Technology, RGPV - Bhopal, India",https://gdg.community.dev/gdg-on-campus-university-institute-of-technology-rgpv-bhopal-india/
+GDGOC,Vellore,"GDG on Campus Vellore Institute of Technology - Vellore, India",https://gdg.community.dev/gdg-on-campus-vellore-institute-of-technology-vellore-india/
+GDGOC,Vasai,"GDG on Campus Vidyavardhini's College of Engineering and Technology - Vasai, India",https://gdg.community.dev/gdg-on-campus-vidyavardhinis-college-of-engineering-and-technology-vasai-india/
+GDGOC,Pune,"GDG on Campus Vishwakarma Institute of Technology - Pune, India",https://gdg.community.dev/gdg-on-campus-vishwakarma-institute-of-technology-pune-india/
+GDGOC,Pune,"GDG on Campus Vishwakarma University - Pune, India",https://gdg.community.dev/gdg-on-campus-vishwakarma-university-pune-india/
+GDGOC,Mumbai,"GDG on Campus Vivekanand Education Society Institute Of Technology - Mumbai, India",https://gdg.community.dev/gdg-on-campus-vivekanand-education-society-institute-of-technology-mumbai-india/
+GDGOC,Puttur,"GDG on Campus Vivekananda College of Arts,Science and Commerce - Puttur, India",https://gdg.community.dev/gdg-on-campus-vivekananda-college-of-artsscience-and-commerce-puttur-india/
+GDGOC,Solapur,"GDG on Campus Walchand Institute of Technology - Solapur, India",https://gdg.community.dev/gdg-on-campus-walchand-institute-of-technology-solapur-india/
+BDC,Thiruvananthapuram,BDC CNCF Trivandrum,https://gdg.community.dev/bdc-cncf-trivandrum/
+BDC,Chennai,BDC CNCF Chennai,https://gdg.community.dev/bdc-cncf-chennai/
+GDGOC,Chennai,"GDG on Campus Prince Shri Venkateshwara Padmavathy Engineering College - Chennai, India",https://gdg.community.dev/gdg-on-campus-prince-shri-venkateshwara-padmavathy-engineering-college-chennai-india/
+GDGOC,Thiruvananthapuram,"GDG on Campus Sree Chitra Thirunal College of Engineering - Thiruvananthapuram, India",https://gdg.community.dev/gdg-on-campus-sree-chitra-thirunal-college-of-engineering-thiruvananthapuram-india/
+GDG,New Delhi,GDG AI for Science - India,https://gdg.community.dev/gdg-ai-for-science-india/
