@@ -1,0 +1,683 @@
+[
+  {
+    "type": "GDG",
+    "city": "Salem",
+    "name": "GDG Salem",
+    "url": "https://gdg.community.dev/gdg-salem/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Patna",
+    "name": "GDG Patna",
+    "url": "https://gdg.community.dev/gdg-patna/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Gwalior",
+    "name": "GDG Gwalior",
+    "url": "https://gdg.community.dev/gdg-gwalior/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Jaipur",
+    "name": "GDG Cloud Jaipur",
+    "url": "https://gdg.community.dev/gdg-cloud-jaipur/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Bhopal",
+    "name": "GDG Bhopal",
+    "url": "https://gdg.community.dev/gdg-bhopal/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Nagpur",
+    "name": "GDG Nagpur",
+    "url": "https://gdg.community.dev/gdg-nagpur/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Jodhpur",
+    "name": "GDG Jodhpur",
+    "url": "https://gdg.community.dev/gdg-jodhpur/",
+    "events": [
+      {
+        "title": "Deploying AI Agents using Google ADK",
+        "start_date": "2026-02-28T14:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-jodhpur-presents-deploying-ai-agents-using-google-adk/",
+        "type": "Free registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Siliguri",
+    "name": "GDG Siliguri",
+    "url": "https://gdg.community.dev/gdg-siliguri/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Nashik",
+    "name": "GDG Nashik",
+    "url": "https://gdg.community.dev/gdg-nashik/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Ahmedabad",
+    "name": "GDG Cloud Ahmedabad",
+    "url": "https://gdg.community.dev/gdg-cloud-ahmedabad/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Ranchi",
+    "name": "GDG Ranchi",
+    "url": "https://gdg.community.dev/gdg-ranchi/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Mumbai",
+    "name": "GDG MAD",
+    "url": "https://gdg.community.dev/gdg-mad/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Surat",
+    "name": "GDG Surat",
+    "url": "https://gdg.community.dev/gdg-surat/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Chandigarh",
+    "name": "GDG Chandigarh",
+    "url": "https://gdg.community.dev/gdg-chandigarh/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Mysuru",
+    "name": "GDG Mysuru",
+    "url": "https://gdg.community.dev/gdg-mysuru/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Coimbatore",
+    "name": "GDG Cloud Coimbatore",
+    "url": "https://gdg.community.dev/gdg-cloud-coimbatore/",
+    "events": [
+      {
+        "title": "Road to AI mastery (1/5): Introduction to Vertex AI, AI Studio, and Gemini",
+        "start_date": "2026-02-28T04:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-cloud-coimbatore-presents-road-to-ai-mastery-15-introduction-to-vertex-ai-ai-studio-and-gemini/",
+        "type": "Speaker Session / Tech Talk"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Hubballi",
+    "name": "GDG Hubli",
+    "url": "https://gdg.community.dev/gdg-hubli/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Indore",
+    "name": "GDG Cloud Indore",
+    "url": "https://gdg.community.dev/gdg-cloud-indore/",
+    "events": [
+      {
+        "title": "International Women's Day Indore 2026",
+        "start_date": "2026-03-28T05:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-indore-presents-international-womens-day-indore-2026/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Kolkata",
+    "name": "GDG Cloud Kolkata",
+    "url": "https://gdg.community.dev/gdg-cloud-kolkata/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Hyderabad",
+    "name": "GDG Cloud Hyderabad",
+    "url": "https://gdg.community.dev/gdg-cloud-hyderabad/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Visakhapatnam",
+    "name": "GDG Vizag",
+    "url": "https://gdg.community.dev/gdg-vizag/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Mumbai",
+    "name": "GDG Cloud Mumbai",
+    "url": "https://gdg.community.dev/gdg-cloud-mumbai/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Bangalore",
+    "name": "GDG Cloud Bengaluru",
+    "url": "https://gdg.community.dev/gdg-cloud-bengaluru/",
+    "events": [
+      {
+        "title": "Cloud Observability Summit",
+        "start_date": "2026-02-28T04:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-cloud-bengaluru-presents-cloud-observability-summit/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Chennai",
+    "name": "GDG Cloud Chennai",
+    "url": "https://gdg.community.dev/gdg-cloud-chennai/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Delhi",
+    "name": "GDG Cloud New Delhi",
+    "url": "https://gdg.community.dev/gdg-cloud-new-delhi/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Pune",
+    "name": "GDG Cloud Pune",
+    "url": "https://gdg.community.dev/gdg-cloud-pune/",
+    "events": [
+      {
+        "title": "Build with AI: Gdg Cloud Pune",
+        "start_date": "2026-02-28T04:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-cloud-pune-presents-build-with-ai-gdg-cloud-pune-1/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Kolkata",
+    "name": "GDG Kolkata",
+    "url": "https://gdg.community.dev/gdg-kolkata/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Madurai",
+    "name": "GDG Madurai",
+    "url": "https://gdg.community.dev/gdg-madurai/",
+    "events": [
+      {
+        "title": "Build with AI, Build for Clean Madurai  36-Hour PromptWar Hackathon",
+        "start_date": "2026-02-27T03:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-madurai-presents-build-with-ai-build-for-clean-madurai-36-hour-promptwar-hackathon/",
+        "type": "Hackathon"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Jaipur",
+    "name": "GDG Jaipur",
+    "url": "https://gdg.community.dev/gdg-jaipur/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Indore",
+    "name": "GDG Indore",
+    "url": "https://gdg.community.dev/gdg-indore/",
+    "events": [
+      {
+        "title": "International Women's Day Indore 2026",
+        "start_date": "2026-03-28T05:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-indore-presents-international-womens-day-indore-2026/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Rajkot",
+    "name": "GDG Rajkot",
+    "url": "https://gdg.community.dev/gdg-rajkot/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Panaji",
+    "name": "GDG Goa",
+    "url": "https://gdg.community.dev/gdg-goa/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Gandhinagar",
+    "name": "GDG Gandhinagar",
+    "url": "https://gdg.community.dev/gdg-gandhinagar/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Pune",
+    "name": "GDG Pune",
+    "url": "https://gdg.community.dev/gdg-pune/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Hyderabad",
+    "name": "GDG Hyderabad",
+    "url": "https://gdg.community.dev/gdg-hyderabad/",
+    "events": [
+      {
+        "title": "Pyconf Hyd",
+        "start_date": "2026-03-14T04:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-hyderabad-presents-pyconf-hyd/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Chennai",
+    "name": "GDG Chennai",
+    "url": "https://gdg.community.dev/gdg-chennai/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Kozhikode",
+    "name": "GDG Kozhikode",
+    "url": "https://gdg.community.dev/gdg-kozhikode/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Udaipur",
+    "name": "GDG Udaipur",
+    "url": "https://gdg.community.dev/gdg-udaipur/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Thiruvananthapuram",
+    "name": "GDG Thiruvananthapuram",
+    "url": "https://gdg.community.dev/gdg-thiruvananthapuram/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Kochi",
+    "name": "GDG Cochin",
+    "url": "https://gdg.community.dev/gdg-cochin/",
+    "events": [
+      {
+        "title": "Handcrafting with AI",
+        "start_date": "2026-03-21T03:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-cochin-presents-handcrafting-with-ai/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Jalandhar",
+    "name": "GDG Jalandhar",
+    "url": "https://gdg.community.dev/gdg-jalandhar/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Ahmedabad",
+    "name": "GDG Ahmedabad",
+    "url": "https://gdg.community.dev/gdg-ahmedabad/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Bangalore",
+    "name": "GDG Bangalore",
+    "url": "https://gdg.community.dev/gdg-bangalore/",
+    "events": [
+      {
+        "title": "Build with AI 2026",
+        "start_date": "2026-03-07T04:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-bangalore-presents-build-with-ai-2026/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Bhubaneswar",
+    "name": "GDG Bhubaneswar",
+    "url": "https://gdg.community.dev/gdg-bhubaneswar/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Coimbatore",
+    "name": "GDG Coimbatore",
+    "url": "https://gdg.community.dev/gdg-coimbatore/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Delhi",
+    "name": "GDG New Delhi",
+    "url": "https://gdg.community.dev/gdg-new-delhi/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Vadodara",
+    "name": "GDG Baroda",
+    "url": "https://gdg.community.dev/gdg-baroda/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Jammu",
+    "name": "GDG Jammu",
+    "url": "https://gdg.community.dev/gdg-jammu/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Lucknow",
+    "name": "GDG Lucknow",
+    "url": "https://gdg.community.dev/gdg-lucknow/",
+    "events": [
+      {
+        "title": "AI Beyond Apps: Exploring India's Invisible Intelligence Layer",
+        "start_date": "2026-02-28T03:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-lucknow-presents-ai-beyond-apps-exploring-indias-invisible-intelligence-layer/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Durgapur",
+    "name": "GDG Durgapur",
+    "url": "https://gdg.community.dev/gdg-durgapur/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Raipur",
+    "name": "GDG Raipur",
+    "url": "https://gdg.community.dev/gdg-raipur/",
+    "events": [
+      {
+        "title": "International Women’s Day 2026 - GDG Raipur Presents: Celebrating Women in Tech",
+        "start_date": "2026-03-07T03:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-raipur-presents-international-womens-day-2026-gdg-raipur-presents-celebrating-women-in-tech/",
+        "type": "Conference"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Noida",
+    "name": "GDG Noida",
+    "url": "https://gdg.community.dev/gdg-noida/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Kanpur",
+    "name": "GDG Kanpur",
+    "url": "https://gdg.community.dev/gdg-kanpur/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Mysuru",
+    "name": "GDG Cloud Mysuru",
+    "url": "https://gdg.community.dev/gdg-cloud-mysuru/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Bhubaneswar",
+    "name": "GDG Cloud Bhubaneswar",
+    "url": "https://gdg.community.dev/gdg-cloud-bhubaneswar/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Bhopal",
+    "name": "GDG Cloud Bhopal",
+    "url": "https://gdg.community.dev/gdg-cloud-bhopal/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Gurugram",
+    "name": "GDG Gurugram",
+    "url": "https://gdg.community.dev/gdg-gurugram/",
+    "events": [
+      {
+        "title": "DesignX",
+        "start_date": "2026-03-07T05:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-gurugram-presents-designx/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Kochi",
+    "name": "GDG Cloud Kochi",
+    "url": "https://gdg.community.dev/gdg-cloud-kochi/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Guwahati",
+    "name": "GDG Guwahati",
+    "url": "https://gdg.community.dev/gdg-guwahati/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Dehradun",
+    "name": "GDG Dehradun",
+    "url": "https://gdg.community.dev/gdg-dehradun/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Nagpur",
+    "name": "GDG Cloud Nagpur",
+    "url": "https://gdg.community.dev/gdg-cloud-nagpur/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Madurai",
+    "name": "GDG Cloud Madurai",
+    "url": "https://gdg.community.dev/gdg-cloud-madurai/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Thiruvananthapuram",
+    "name": "GDG Cloud Trivandrum",
+    "url": "https://gdg.community.dev/gdg-cloud-trivandrum/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Ludhiana",
+    "name": "GDG Ludhiana",
+    "url": "https://gdg.community.dev/gdg-ludhiana/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Belagavi",
+    "name": "GDG Belgaum",
+    "url": "https://gdg.community.dev/gdg-belgaum/",
+    "events": [
+      {
+        "title": "Prompt Like a Pro - Hands on Workshop on Prompt Engineering",
+        "start_date": "2026-02-25T05:30:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-belgaum-presents-prompt-like-a-pro-hands-on-workshop-on-prompt-engineering/",
+        "type": "Workshop / Study Group"
+      },
+      {
+        "title": "Content Creation Cohort - North Karnataka's First Content Creation Cohort",
+        "start_date": "2026-02-28T04:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-belgaum-presents-content-creation-cohort-north-karnatakas-first-content-creation-cohort/",
+        "type": "Paid registration"
+      },
+      {
+        "title": "Break the Pattern: International Women's Day 2026 Celebration",
+        "start_date": "2026-03-13T04:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-belgaum-presents-break-the-pattern-international-womens-day-2026-celebration/",
+        "type": "Free registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "Aurangabad",
+    "name": "GDG Aurangabad",
+    "url": "https://gdg.community.dev/gdg-aurangabad/",
+    "events": [
+      {
+        "title": "Glitch & Fix: The Reverse Engineering Hackathon",
+        "start_date": "2026-02-26T19:16:30Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-aurangabad-presents-glitch-amp-fix-the-reverse-engineering-hackathon/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Chandigarh",
+    "name": "GDG Cloud Chandigarh",
+    "url": "https://gdg.community.dev/gdg-cloud-chandigarh/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Motihari",
+    "name": "GDG Cloud Motihari",
+    "url": "https://gdg.community.dev/gdg-cloud-motihari/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Prayagraj",
+    "name": "GDG Prayagraj",
+    "url": "https://gdg.community.dev/gdg-prayagraj/",
+    "events": []
+  },
+  {
+    "type": "GDG",
+    "city": "Vijayawada",
+    "name": "GDG Vijayawada",
+    "url": "https://gdg.community.dev/gdg-vijayawada/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Noida",
+    "name": "GDG Cloud Noida",
+    "url": "https://gdg.community.dev/gdg-cloud-noida/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Mangaluru",
+    "name": "GDG Cloud Mangalore",
+    "url": "https://gdg.community.dev/gdg-cloud-mangalore/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Gandhinagar",
+    "name": "GDG Cloud Gandhinagar",
+    "url": "https://gdg.community.dev/gdg-cloud-gandhinagar/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Rajkot",
+    "name": "GDG Cloud Rajkot",
+    "url": "https://gdg.community.dev/gdg-cloud-rajkot/",
+    "events": []
+  },
+  {
+    "type": "GDG Cloud",
+    "city": "Udaipur",
+    "name": "GDG Cloud Udaipur",
+    "url": "https://gdg.community.dev/gdg-cloud-udaipur/",
+    "events": [
+      {
+        "title": "Google Lakecity Hackathon Final Round (Finalist Only event)",
+        "start_date": "2026-03-29T03:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-cloud-udaipur-presents-google-lakecity-hackathon-final-round-finalist-only-event/",
+        "type": "External registration"
+      }
+    ]
+  },
+  {
+    "type": "GDG",
+    "city": "New Delhi",
+    "name": "GDG AI for Science - India",
+    "url": "https://gdg.community.dev/gdg-ai-for-science-india/",
+    "events": [
+      {
+        "title": "The Adversarial Misuse of AI: And How To Defend Against It",
+        "start_date": "2026-03-05T03:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-the-adversarial-misuse-of-ai-and-how-to-defend-against-it/",
+        "type": "Speaker Session / Tech Talk"
+      },
+      {
+        "title": "Gemma in the Lab",
+        "start_date": "2026-03-19T04:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-ai-for-science-japan-presents-gemma-in-the-lab/",
+        "type": "Speaker Session / Tech Talk"
+      },
+      {
+        "title": "Applying Deep Learning in Genomics",
+        "start_date": "2026-04-01T00:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-applying-deep-learning-in-genomics/",
+        "type": "Speaker Session / Tech Talk"
+      },
+      {
+        "title": "Building Conversational Genomics: Multi-Agent AI for Variant Interpretation",
+        "start_date": "2026-04-23T00:00:00Z",
+        "url": "https://gdg.community.dev/events/details/google-gdg-ai-for-science-australia-presents-building-conversational-genomics-multi-agent-ai-for-variant-interpretation/",
+        "type": "Speaker Session / Tech Talk"
+      }
+    ]
+  }
+]
