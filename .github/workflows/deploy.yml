@@ -1,0 +1,91 @@
+name: Build and Deploy to Cloud Run
+
+on:
+  schedule:
+    # Run at 00:00 UTC every Sunday
+    - cron: '0 0 * * 0'
+  workflow_dispatch: # Allow manual triggers from GitHub UI
+
+env:
+  PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
+  GAR_LOCATION: ${{ secrets.GAR_LOCATION }} # e.g. asia-south1
+  GAR_REPO: ${{ secrets.GAR_REPO }} # e.g. gdgindia-repo
+  SERVICE: ${{ secrets.SERVICE_NAME }} # e.g. gdgindia-hub
+  REGION: ${{ secrets.GCP_REGION }} # e.g. asia-south1
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needed to commit chapters.json
+      id-token: write # Needed for Workload Identity Federation (if used instead of key)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Fetch all history for all tags and branches
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run event scraper
+        run: node parse_chapters.cjs
+
+      - name: Check for data changes and commit
+        id: commit_changes
+        run: |
+          git config --global user.name "GDG India Bot"
+          git config --global user.email "bot@gdgindia.dev"
+          
+          # Check if chapters.json was modified
+          if [ -n "$(git status --porcelain src/data/chapters.json)" ]; then
+            echo "New events found. Committing changes..."
+            git add src/data/chapters.json
+            git commit -m "chore: automated weekly events update [skip ci]"
+            git push
+            echo "changes_made=true" >> $GITHUB_OUTPUT
+          else
+            echo "No new events found. Skipping commit."
+            echo "changes_made=false" >> $GITHUB_OUTPUT
+          fi
+          
+      # Authenticate via JSON key (easiest method if you already have it)
+      - name: Google Auth
+        id: auth
+        uses: 'google-github-actions/auth@v2'
+        with:
+          credentials_json: '${{ secrets.GCP_SA_KEY }}'
+
+      - name: Login to Artifact Registry
+        uses: docker/login-action@v3
+        with:
+          registry: ${{ env.GAR_LOCATION }}-docker.pkg.dev
+          username: _json_key
+          password: ${{ secrets.GCP_SA_KEY }}
+
+      - name: Build and Push Docker image
+        run: |
+          IMAGE_TAG=${{ env.GAR_LOCATION }}-docker.pkg.dev/${{ env.PROJECT_ID }}/${{ env.GAR_REPO }}/${{ env.SERVICE }}:${{ github.sha }}
+          docker build -t $IMAGE_TAG .
+          docker push $IMAGE_TAG
+          echo "IMAGE_TAG=$IMAGE_TAG" >> $GITHUB_ENV
+
+      - name: Deploy to Cloud Run
+        id: deploy
+        uses: google-github-actions/deploy-cloudrun@v2
+        with:
+          service: ${{ env.SERVICE }}
+          region: ${{ env.REGION }}
+          image: ${{ env.IMAGE_TAG }}
+          flags: '--allow-unauthenticated'
+
+      - name: Show Output
+        run: echo "App deployed to ${{ steps.deploy.outputs.url }}"
