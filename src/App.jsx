@@ -354,62 +354,26 @@ function App() {
                 <span className="material-symbols-outlined text-[400px]">language</span>
               </div>
             </section>
-            <aside className="col-span-12 lg:col-span-5 row-span-6 bento-card p-8 flex flex-col bg-white">
-              <div className="flex items-center justify-between mb-2">
+            <aside className="col-span-12 lg:col-span-5 row-span-6 bento-card p-6 flex flex-col bg-white">
+              <div className="flex items-center justify-between mb-4">
                 <h3 className="google-sans text-xl font-bold flex items-center gap-2">
-                  <span className="material-symbols-outlined text-[var(--color-google-red)]">event</span>
-                  Upcoming Events
+                  <span className="material-symbols-outlined text-[#FF0000]">play_circle</span>
+                  Community Spotlight Videos
                 </h3>
-                <span className="text-[10px] font-bold text-[var(--color-google-red)] bg-red-50 px-3 py-1 rounded-full uppercase tracking-widest">Next 7 Days</span>
+                <a href="https://www.youtube.com/@gdgindia" target="_blank" rel="noopener noreferrer" className="text-[10px] font-bold text-[#FF0000] bg-red-50 hover:bg-red-100 transition-colors px-3 py-1 rounded-full uppercase tracking-widest flex items-center gap-1">
+                  Subscribe <span className="material-symbols-outlined text-[12px]">open_in_new</span>
+                </a>
               </div>
-              <p className="text-xs text-slate-400 font-medium flex items-center gap-1 mb-6">
-                <span className="material-symbols-outlined text-[14px]">update</span> List is updated every week once.
-              </p>
-              <div className="flex-1 overflow-y-auto pr-2 hide-scrollbar space-y-4">
-                {displayedHubEvents.map((event, index) => {
-                  const eventDate = new Date(event.start_date);
-                  return (
-                    <a href={event.url} target="_blank" rel="noopener noreferrer" key={index} className="flex items-center gap-4 p-4 bg-slate-50 rounded-2xl group hover:bg-white transition-all duration-300 border border-transparent hover:border-slate-200 hover:shadow-md cursor-pointer block">
-                      <div className="flex flex-col items-center justify-center w-14 h-14 rounded-xl bg-white shadow-sm border border-slate-100 group-hover:border-[var(--color-google-blue)] transition-colors">
-                        <span className="text-xs font-bold text-slate-400 uppercase leading-none">{eventDate.toLocaleString('default', { month: 'short' })}</span>
-                        <span className="text-xl font-black text-slate-800 leading-tight">{eventDate.getDate()}</span>
-                      </div>
-                      <div className="flex-1 min-w-0">
-                        <p className="text-sm font-bold text-slate-800 truncate mb-1 group-hover:text-[var(--color-google-blue)] transition-colors">{event.title}</p>
-                        <div className="flex items-center gap-2 text-[10px] text-slate-500 font-semibold uppercase">
-                          <span className="truncate max-w-[120px]">{event.chapterName}</span>
-                          <span className="w-1 h-1 rounded-full bg-slate-300"></span>
-                          <span>{event.city}</span>
-                        </div>
-                      </div>
-                      <span className="material-symbols-outlined text-slate-300 group-hover:text-[var(--color-google-blue)] transition-colors">open_in_new</span>
-                    </a>
-                  );
-                })}
+              <div className="flex-1 w-full rounded-2xl overflow-hidden shadow-sm border border-slate-100 bg-slate-50 relative min-h-[300px]">
+                <iframe
+                  className="absolute inset-0 w-full h-full"
+                  src="https://www.youtube.com/embed/_7T6fbyjI44"
+                  title="GDG India Latest Videos"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                  allowFullScreen
+                ></iframe>
               </div>
-              {totalHubPages > 1 && (
-                <div className="flex justify-between items-center mt-4 px-2">
-                  <button
-                    onClick={() => setCurrentHubPage(prev => Math.max(prev - 1, 1))}
-                    disabled={currentHubPage === 1}
-                    className="w-8 h-8 rounded-full flex items-center justify-center border border-slate-200 text-slate-500 hover:bg-slate-50 disabled:opacity-30 disabled:hover:bg-transparent transition-all"
-                  >
-                    <span className="material-symbols-outlined text-sm">chevron_left</span>
-                  </button>
-                  <span className="text-xs font-bold text-slate-400 uppercase tracking-widest">Page {currentHubPage} of {totalHubPages}</span>
-                  <button
-                    onClick={() => setCurrentHubPage(prev => Math.min(prev + 1, totalHubPages))}
-                    disabled={currentHubPage === totalHubPages}
-                    className="w-8 h-8 rounded-full flex items-center justify-center border border-slate-200 text-slate-500 hover:bg-slate-50 disabled:opacity-30 disabled:hover:bg-transparent transition-all"
-                  >
-                    <span className="material-symbols-outlined text-sm">chevron_right</span>
-                  </button>
-                </div>
-              )}
-              <button onClick={() => setActiveTab('events')} className="mt-6 w-full py-4 bg-slate-900 text-white rounded-2xl text-xs font-bold hover:bg-slate-800 transition-all flex justify-center items-center gap-2 group">
-                View All Events
-                <span className="material-symbols-outlined text-sm group-hover:translate-x-1 transition-transform">arrow_forward</span>
-              </button>
             </aside>
             <section className="col-span-12 row-span-4 bento-card p-12 bg-white border-2 border-slate-100 group cursor-pointer overflow-hidden relative" onClick={() => setActiveTab('gallery')}>
               <div className="flex gap-12 h-full items-center">
