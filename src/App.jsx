@@ -9,10 +9,12 @@ function App() {
   const [showOnlyWithEvents, setShowOnlyWithEvents] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
   const [currentHubPage, setCurrentHubPage] = useState(1);
+  const [isDarkMode, setIsDarkMode] = useState(false);
+  const [eventSearchTerm, setEventSearchTerm] = useState('');
 
   useEffect(() => {
     setCurrentPage(1);
-  }, [searchTerm, filterType, showOnlyWithEvents, activeTab]);
+  }, [searchTerm, filterType, showOnlyWithEvents, activeTab, eventSearchTerm]);
 
   const filteredChapters = chaptersData.filter(chapter => {
     const matchesSearch = chapter.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
@@ -173,7 +175,14 @@ function App() {
   const renderEvents = () => {
     const allEvents = chaptersData.flatMap(chapter =>
       (chapter.events || []).map(event => ({ ...event, chapter }))
-    ).sort((a, b) => new Date(a.start_date) - new Date(b.start_date));
+    )
+      .filter(event => {
+        const searchLower = eventSearchTerm.toLowerCase();
+        return event.title.toLowerCase().includes(searchLower) ||
+          event.chapter.name.toLowerCase().includes(searchLower) ||
+          event.chapter.city.toLowerCase().includes(searchLower);
+      })
+      .sort((a, b) => new Date(a.start_date) - new Date(b.start_date));
 
     const EVENTS_PER_PAGE = 12;
     const totalEventPages = Math.ceil(allEvents.length / EVENTS_PER_PAGE);
@@ -181,11 +190,25 @@ function App() {
 
     return (
       <div className="flex-1 w-full bg-white/80 backdrop-blur-md rounded-3xl p-4 md:p-8 border border-white/40 shadow-sm flex flex-col mt-4">
-        <div className="flex justify-between items-center mb-8 px-2">
+        <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 px-2 gap-4">
           <h2 className="google-sans text-3xl font-bold text-slate-900 tracking-tight">Upcoming Events</h2>
-          <p className="text-sm font-bold text-slate-500 uppercase tracking-widest bg-slate-100 px-4 py-2 rounded-full">
-            Showing {allEvents.length} events across India
-          </p>
+
+          <div className="flex flex-col md:flex-row items-center gap-4 w-full md:w-auto">
+            <div className="relative w-full md:w-64 lg:w-80">
+              <span className="material-symbols-outlined absolute left-4 top-1/2 -translate-y-1/2 text-slate-400 text-xl font-bold">search</span>
+              <input
+                type="text"
+                placeholder="Search events, cities..."
+                value={eventSearchTerm}
+                onChange={(e) => setEventSearchTerm(e.target.value)}
+                className="w-full pl-12 pr-4 py-2.5 rounded-full bg-white border border-slate-200 text-sm focus:outline-none focus:border-blue-200 focus:ring-2 focus:ring-blue-500/10 shadow-sm transition-all text-slate-800 placeholder:text-slate-400 font-medium"
+              />
+            </div>
+
+            <p className="text-sm font-bold text-slate-500 uppercase tracking-widest bg-slate-100 px-4 py-2.5 rounded-full whitespace-nowrap">
+              {eventSearchTerm ? `Found ${allEvents.length}` : `Showing ${allEvents.length}`} Events
+            </p>
+          </div>
         </div>
 
         <div className="overflow-y-auto flex-1 px-2 pb-4 hide-scrollbar">
