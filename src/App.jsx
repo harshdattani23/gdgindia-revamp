@@ -335,17 +335,17 @@ function App() {
                   </p>
 
                   <div className="flex flex-wrap gap-2 mb-4">
+                    <span className="px-3 py-1 bg-yellow-50 text-[var(--color-google-yellow)] text-xs font-bold rounded-full border border-yellow-100 flex items-center gap-1"><span className="w-1.5 h-1.5 rounded-full bg-[var(--color-google-yellow)]"></span>Artificial Intelligence</span>
                     <span className="px-3 py-1 bg-green-50 text-[var(--color-google-green)] text-xs font-bold rounded-full border border-green-100 flex items-center gap-1"><span className="w-1.5 h-1.5 rounded-full bg-[var(--color-google-green)]"></span>Android</span>
                     <span className="px-3 py-1 bg-red-50 text-[var(--color-google-red)] text-xs font-bold rounded-full border border-red-100 flex items-center gap-1"><span className="w-1.5 h-1.5 rounded-full bg-[var(--color-google-red)]"></span>Web</span>
                     <span className="px-3 py-1 bg-blue-50 text-[var(--color-google-blue)] text-xs font-bold rounded-full border border-blue-100 flex items-center gap-1"><span className="w-1.5 h-1.5 rounded-full bg-[var(--color-google-blue)]"></span>Cloud</span>
-                    <span className="px-3 py-1 bg-yellow-50 text-[var(--color-google-yellow)] text-xs font-bold rounded-full border border-yellow-100 flex items-center gap-1"><span className="w-1.5 h-1.5 rounded-full bg-[var(--color-google-yellow)]"></span>Artificial Intelligence</span>
                     <span className="px-3 py-1 bg-slate-50 text-slate-500 text-xs font-bold rounded-full border border-slate-200">Flutter</span>
                     <span className="px-3 py-1 bg-slate-50 text-slate-500 text-xs font-bold rounded-full border border-slate-200">Firebase</span>
                   </div>
 
                   <div className="inline-flex items-center gap-1.5 bg-slate-100/80 backdrop-blur px-3 py-1 rounded-full border border-slate-200 text-slate-500">
                     <span className="material-symbols-outlined text-[12px]">info</span>
-                    <span className="text-[10px] font-bold uppercase tracking-wider">Independent Community web page, Website is officially managed by Google</span>
+                    <span className="text-[10px] font-bold uppercase tracking-wider">Independent Community web page, Website is not officially managed by Google</span>
                   </div>
                 </div>
               </div>
