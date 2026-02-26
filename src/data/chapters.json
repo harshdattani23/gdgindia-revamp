@@ -80,7 +80,13 @@
     "city": "Ranchi",
     "name": "GDG Ranchi",
     "url": "https://gdg.community.dev/gdg-ranchi/",
-    "events": []
+    "events": [
+      {
+        "title": "Break The Pattern",
+        "start_date": "2026-03-14T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mvyupd/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -339,7 +345,13 @@
     "city": "Ahmedabad",
     "name": "GDG Ahmedabad",
     "url": "https://gdg.community.dev/gdg-ahmedabad/",
-    "events": []
+    "events": [
+      {
+        "title": "Model Context Protocol (MCP): From Fundamentals to Production",
+        "start_date": "2026-02-28T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m6fw8a/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -482,7 +494,13 @@
     "city": "Guwahati",
     "name": "GDG Guwahati",
     "url": "https://gdg.community.dev/gdg-guwahati/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Unleashing Creativity Meetup",
+        "start_date": "2026-03-10T09:30:41Z",
+        "url": "https://gdg.community.dev/e/myah5r/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -534,11 +552,6 @@
         "title": "Content Creation Cohort - North Karnataka's First Content Creation Cohort",
         "start_date": "2026-02-28T04:00:00Z",
         "url": "https://gdg.community.dev/e/m825hq/"
-      },
-      {
-        "title": "Prompt Like a Pro - Hands on Workshop on Prompt Engineering",
-        "start_date": "2026-02-25T05:30:00Z",
-        "url": "https://gdg.community.dev/e/m95ra5/"
       }
     ]
   },
