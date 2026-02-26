@@ -8,6 +8,8 @@ on:
     # Run at 00:00 every Monday
     - cron: '0 0 * * 1'
   workflow_dispatch: # Allow manual triggers from GitHub UI
+
+env:
   PROJECT_ID: ${{ secrets.GCP_PROJECT_ID }}
   GAR_LOCATION: ${{ secrets.GAR_LOCATION }} # e.g. asia-south1
   GAR_REPO: ${{ secrets.GAR_REPO }} # e.g. gdgindia-repo
