@@ -537,7 +537,6 @@ function App() {
               <a href="https://developers.google.com/community/gdg" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[var(--color-google-green)] font-medium transition-colors">Google Developer Groups</a>
               <a href="https://developers.google.com/community/experts" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[var(--color-google-yellow)] font-medium transition-colors">Google Developer Experts</a>
               <a href="https://developers.google.com/community/accelerators" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[var(--color-google-red)] font-medium transition-colors">Accelerators</a>
-              <a href="https://developers.google.com/community/cloud-nvidia" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[var(--color-google-blue)] font-medium transition-colors">Google Cloud & NVIDIA</a>
             </div>
           </div>
           <div className="flex flex-col md:items-end mt-8 md:mt-0">
@@ -566,7 +565,7 @@ function App() {
       {showScrollTop && (
         <button
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-          className="fixed bottom-8 right-8 z-[100] w-14 h-14 bg-white border border-slate-200 text-slate-600 rounded-full shadow-[0_8px_30px_rgb(0,0,0,0.12)] hover:shadow-[0_8px_30px_rgb(0,0,0,0.2)] hover:border-[var(--color-google-blue)] hover:text-[var(--color-google-blue)] hover:-translate-y-1 transition-all duration-300 flex items-center justify-center group"
+          className="fixed bottom-24 md:bottom-8 right-4 md:right-8 z-[100] w-14 h-14 bg-white border border-slate-200 text-slate-600 rounded-full shadow-[0_8px_30px_rgb(0,0,0,0.12)] hover:shadow-[0_8px_30px_rgb(0,0,0,0.2)] hover:border-[var(--color-google-blue)] hover:text-[var(--color-google-blue)] hover:-translate-y-1 transition-all duration-300 flex items-center justify-center group"
           aria-label="Scroll to top"
         >
           <span className="material-symbols-outlined text-2xl group-hover:-translate-y-1 transition-transform">arrow_upward</span>
