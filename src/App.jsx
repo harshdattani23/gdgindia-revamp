@@ -415,6 +415,9 @@ function App() {
           <button onClick={() => setActiveTab('chapters')} className={`px-6 py-2.5 rounded-full text-sm font-medium transition-colors ${activeTab === 'chapters' ? 'bg-slate-900 text-white' : 'text-slate-500 hover:text-slate-900'}`}>Chapters</button>
           <button onClick={() => setActiveTab('events')} className={`px-6 py-2.5 rounded-full text-sm font-medium transition-colors ${activeTab === 'events' ? 'bg-slate-900 text-white' : 'text-slate-500 hover:text-slate-900'}`}>Events</button>
           <a className="px-6 py-2.5 rounded-full text-slate-500 hover:text-slate-900 transition-colors text-sm font-medium" href="#" onClick={(e) => { e.preventDefault(); setActiveTab('gallery'); }}>Gallery</a>
+          <a className="px-6 py-2.5 rounded-full text-slate-500 hover:text-slate-900 transition-colors text-sm font-medium flex items-center gap-1.5" href="https://github.com/GDG-India/awesome-gdg-gde" target="_blank" rel="noopener noreferrer">
+            Resources <span className="material-symbols-outlined text-[16px] -mt-0.5">open_in_new</span>
+          </a>
         </div>
       </nav>
       <main className="max-w-[1600px] mx-auto h-full flex flex-col pb-24">
