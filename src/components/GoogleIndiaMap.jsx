@@ -63,6 +63,7 @@ const cityCoordinates = {
 const GoogleIndiaMap = () => {
     const apiKey = import.meta.env.VITE_GOOGLE_MAPS_API_KEY;
     const [selectedCity, setSelectedCity] = useState(null);
+    const [filter, setFilter] = useState('all'); // 'all' or 'with-events'
 
     // Aggregate chapters by city so we only place one pin per location, 
     // but can show multiple chapter names in an InfoWindow if needed
@@ -93,7 +94,8 @@ const GoogleIndiaMap = () => {
                 const existingNode = map.get(targetCity);
                 existingNode.chapters.push({
                     name: chapter.name,
-                    url: chapter.url
+                    url: chapter.url,
+                    events: chapter.events || []
                 });
 
                 if (chapter.events && chapter.events.length > 0) {
@@ -107,6 +109,23 @@ const GoogleIndiaMap = () => {
 
     return (
         <div className="w-full h-full relative" style={{ minHeight: '400px' }}>
+            {/* Map Filter Controls */}
+            <div className="absolute top-4 left-4 right-4 sm:right-auto z-10 flex gap-2 justify-center sm:justify-start">
+                <button
+                    onClick={() => { setFilter('all'); setSelectedCity(null); }}
+                    className={`px-4 py-2 text-xs font-bold rounded-full border shadow-md transition-all backdrop-blur ${filter === 'all' ? 'bg-white text-[var(--color-google-blue)] border-[var(--color-google-blue)] ring-4 ring-blue-50' : 'bg-white/90 text-slate-600 border-slate-200 hover:bg-white hover:text-slate-900'}`}
+                >
+                    All Chapters
+                </button>
+                <button
+                    onClick={() => { setFilter('with-events'); setSelectedCity(null); }}
+                    className={`px-4 py-2 text-xs font-bold rounded-full border shadow-md transition-all backdrop-blur flex items-center gap-2 ${filter === 'with-events' ? 'bg-white text-[var(--color-google-green)] border-[var(--color-google-green)] ring-4 ring-green-50' : 'bg-white/90 text-slate-600 border-slate-200 hover:bg-white hover:text-slate-900'}`}
+                >
+                    <span className={`w-2 h-2 rounded-full ${filter === 'with-events' ? 'bg-[var(--color-google-green)] animate-pulse' : 'bg-slate-400'}`}></span>
+                    Upcoming Events
+                </button>
+            </div>
+
             <APIProvider apiKey={apiKey || ''}>
                 <GoogleMap
                     defaultZoom={4.2}
@@ -116,7 +135,7 @@ const GoogleIndiaMap = () => {
                     gestureHandling={'greedy'}
                     className="w-full h-full rounded-xl overflow-hidden"
                 >
-                    {cityNodes.map((cityNode) => (
+                    {cityNodes.filter(node => filter === 'all' || node.eventsCount > 0).map((cityNode) => (
                         <AdvancedMarker
                             key={cityNode.city}
                             position={cityNode.coordinates}
@@ -158,10 +177,23 @@ const GoogleIndiaMap = () => {
                                         href={chap.url}
                                         target="_blank"
                                         rel="noopener noreferrer"
-                                        className="text-[10px] font-bold text-[var(--color-google-blue)] bg-blue-50 border border-blue-100 hover:bg-[var(--color-google-blue)] hover:text-white transition-all px-3 py-1.5 rounded-full uppercase tracking-wider flex items-center justify-between group"
+                                        className="text-[10px] text-[var(--color-google-blue)] bg-blue-50 border border-blue-100 hover:bg-[var(--color-google-blue)] hover:text-white transition-all px-3 py-1.5 rounded-xl flex flex-col gap-0.5 group w-full"
                                     >
-                                        <span className="truncate max-w-[100px] text-left">{chap.name}</span>
-                                        <span className="material-symbols-outlined text-[12px] opacity-50 group-hover:opacity-100 transition-opacity">open_in_new</span>
+                                        <div className="flex items-center justify-between w-full">
+                                            <span className="font-bold uppercase tracking-wider truncate max-w-[100px] text-left">{chap.name}</span>
+                                            <span className="material-symbols-outlined text-[12px] opacity-50 group-hover:opacity-100 transition-opacity">open_in_new</span>
+                                        </div>
+                                        {chap.events && chap.events.length > 0 && (
+                                            <div className="flex flex-col gap-0.5 mt-0.5">
+                                                <div className="text-[10px] text-slate-700 font-semibold group-hover:text-white line-clamp-2 text-left w-full leading-tight">
+                                                    {chap.events[0].title}
+                                                </div>
+                                                <div className="text-[9px] text-slate-500 group-hover:text-blue-100 font-medium text-left flex items-center gap-1 w-full truncate">
+                                                    <span className="material-symbols-outlined text-[10px]">event</span>
+                                                    {new Date(chap.events[0].start_date).toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' })}
+                                                </div>
+                                            </div>
+                                        )}
                                     </a>
                                 ))}
                             </div>
