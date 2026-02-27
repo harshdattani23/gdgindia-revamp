@@ -536,6 +536,7 @@ function App() {
               <a href="https://developers.google.com/profile" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[var(--color-google-blue)] font-medium transition-colors">Google Developer Program</a>
               <a href="https://developers.google.com/community/gdg" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[var(--color-google-green)] font-medium transition-colors">Google Developer Groups</a>
               <a href="https://developers.google.com/community/experts" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[var(--color-google-yellow)] font-medium transition-colors">Google Developer Experts</a>
+              <div className="w-full md:hidden"></div>
               <a href="https://developers.google.com/community/accelerators" target="_blank" rel="noopener noreferrer" className="text-slate-500 hover:text-[var(--color-google-red)] font-medium transition-colors">Accelerators</a>
             </div>
           </div>
