@@ -40,9 +40,11 @@ jobs:
         run: npm ci --legacy-peer-deps
 
       - name: Run event scraper
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         run: node parse_chapters.cjs
 
       - name: Check for data changes and commit
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         id: commit_changes
         run: |
           git config --global user.name "GDG India Bot"
