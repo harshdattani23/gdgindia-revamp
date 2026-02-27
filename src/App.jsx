@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './index.css';
 import chaptersData from './data/chapters.json';
-
+import photosData from './data/photos.json';
 function App() {
   const [activeTab, setActiveTab] = useState('hub');
   const [searchTerm, setSearchTerm] = useState('');
@@ -11,6 +11,36 @@ function App() {
   const [currentHubPage, setCurrentHubPage] = useState(1);
   const [isDarkMode, setIsDarkMode] = useState(false);
   const [eventSearchTerm, setEventSearchTerm] = useState('');
+  const [selectedPhotoIndex, setSelectedPhotoIndex] = useState(null);
+  const [showScrollTop, setShowScrollTop] = useState(false);
+  const [visiblePhotosCount, setVisiblePhotosCount] = useState(12);
+  const [previewImages, setPreviewImages] = useState([]);
+
+  useEffect(() => {
+    if (photosData.length >= 2) {
+      const shuffled = [...photosData].sort(() => 0.5 - Math.random());
+      setPreviewImages(shuffled.slice(0, 2));
+    } else {
+      setPreviewImages(photosData);
+    }
+  }, []);
+
+  useEffect(() => {
+    const handleScroll = () => setShowScrollTop(window.scrollY > 300);
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  useEffect(() => {
+    const handleKeyDown = (e) => {
+      if (selectedPhotoIndex === null) return;
+      if (e.key === 'Escape') setSelectedPhotoIndex(null);
+      if (e.key === 'ArrowRight') setSelectedPhotoIndex(prev => (prev + 1) % photosData.length);
+      if (e.key === 'ArrowLeft') setSelectedPhotoIndex(prev => (prev - 1 + photosData.length) % photosData.length);
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [selectedPhotoIndex]);
 
   useEffect(() => {
     setCurrentPage(1);
@@ -293,17 +323,88 @@ function App() {
         <h2 className="google-sans text-4xl md:text-5xl font-bold text-slate-900 mb-4 tracking-tight text-center">Event Gallery</h2>
         <p className="text-slate-500 font-medium max-w-lg text-center">Relive the best moments across chapters in India.</p>
 
-        <div className="flex flex-col items-center justify-center py-20">
-          <span className="material-symbols-outlined text-[120px] text-slate-200 mb-6">photo_library</span>
-          <h3 className="google-sans text-2xl font-bold text-slate-800 mb-2">Amazing photos coming soon</h3>
-          <p className="text-slate-500 font-medium">We are curating memories from our professional GDG hubs.</p>
+        <div className="w-full mt-12 columns-1 sm:columns-2 md:columns-3 lg:columns-4 gap-6 space-y-6">
+          {photosData.slice(0, visiblePhotosCount).map((photo, index) => (
+            <div
+              key={index}
+              className="break-inside-avoid relative group rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-500 bg-slate-100 cursor-pointer"
+              onClick={() => setSelectedPhotoIndex(index)}
+            >
+              <img
+                src={photo}
+                alt={`GDG India Event Moment ${index + 1}`}
+                className="w-full h-auto object-cover transform group-hover:scale-105 transition-transform duration-700"
+                loading="lazy"
+              />
+              <div className="absolute inset-0 bg-gradient-to-t from-slate-900/60 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-end">
+                <div className="p-5 w-full">
+                  <div className="flex items-center gap-2">
+                    <span className="material-symbols-outlined text-white text-[18px]">photo_camera</span>
+                    <span className="text-white text-xs font-bold uppercase tracking-widest truncate">{photo.split('/').pop().replace('.jpg', '').replace('.jpeg', '').replace('.png', '').replace('.JPG', '')}</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          ))}
         </div>
+
+        {visiblePhotosCount < photosData.length && (
+          <div className="mt-12 flex justify-center w-full">
+            <button
+              onClick={() => setVisiblePhotosCount(prev => Math.min(prev + 12, photosData.length))}
+              className="px-8 py-3 bg-white text-[var(--color-google-blue)] border-2 border-[var(--color-google-blue)]/20 hover:border-[var(--color-google-blue)] hover:bg-blue-50 font-bold rounded-full transition-all shadow-sm hover:shadow-md flex items-center gap-2"
+            >
+              <span className="material-symbols-outlined text-xl">expand_more</span>
+              Load More Photos
+            </button>
+          </div>
+        )}
       </div>
     </div>
   );
 
   return (
     <>
+      {selectedPhotoIndex !== null && (
+        <div className="fixed inset-0 z-[100] bg-slate-900/95 backdrop-blur-xl flex items-center justify-center" onClick={() => setSelectedPhotoIndex(null)}>
+          <button
+            onClick={(e) => { e.stopPropagation(); setSelectedPhotoIndex(null); }}
+            className="absolute top-6 right-6 md:top-8 md:right-8 text-white/70 hover:text-white bg-white/10 hover:bg-white/20 p-2 md:p-3 rounded-full transition-all z-20"
+          >
+            <span className="material-symbols-outlined text-2xl md:text-3xl">close</span>
+          </button>
+
+          <button
+            onClick={(e) => { e.stopPropagation(); setSelectedPhotoIndex(prev => (prev - 1 + photosData.length) % photosData.length); }}
+            className="absolute left-4 md:left-8 top-1/2 -translate-y-1/2 text-white/70 hover:text-white bg-white/10 hover:bg-white/20 p-2 md:p-4 rounded-full transition-all z-20"
+          >
+            <span className="material-symbols-outlined text-3xl md:text-4xl">chevron_left</span>
+          </button>
+
+          <div className="relative max-w-7xl max-h-[90vh] w-full mx-4 md:mx-16 flex flex-col items-center justify-center pointer-events-none px-12 md:px-0">
+            <img
+              src={photosData[selectedPhotoIndex]}
+              alt="GDG India Gallery Fullscreen"
+              className="max-h-[75vh] md:max-h-[80vh] max-w-full object-contain rounded-lg shadow-2xl pointer-events-auto"
+              onClick={(e) => e.stopPropagation()}
+            />
+            <div className="mt-4 md:mt-6 flex flex-col items-center pointer-events-auto">
+              <span className="text-white/90 text-xs md:text-sm font-medium tracking-wide bg-black/40 px-4 py-2 rounded-full backdrop-blur-md border border-white/10 text-center max-w-full truncate">
+                {photosData[selectedPhotoIndex].split('/').pop().replace('.jpg', '').replace('.jpeg', '').replace('.png', '').replace('.JPG', '')}
+              </span>
+              <span className="text-white/50 text-[10px] md:text-xs mt-2 font-bold tracking-widest">{selectedPhotoIndex + 1} OF {photosData.length}</span>
+            </div>
+          </div>
+
+          <button
+            onClick={(e) => { e.stopPropagation(); setSelectedPhotoIndex(prev => (prev + 1) % photosData.length); }}
+            className="absolute right-4 md:right-8 top-1/2 -translate-y-1/2 text-white/70 hover:text-white bg-white/10 hover:bg-white/20 p-2 md:p-4 rounded-full transition-all z-20"
+          >
+            <span className="material-symbols-outlined text-3xl md:text-4xl">chevron_right</span>
+          </button>
+        </div>
+      )}
+
       <nav className="fixed bottom-10 left-1/2 -translate-x-1/2 z-50">
         <div className="pill-nav rounded-full px-4 py-2 flex items-center gap-2">
           <button onClick={() => setActiveTab('hub')} className={`px-6 py-2.5 rounded-full text-sm font-medium transition-colors ${activeTab === 'hub' ? 'bg-slate-900 text-white' : 'text-slate-500 hover:text-slate-900'}`}>Hub</button>
@@ -314,10 +415,10 @@ function App() {
       </nav>
       <main className="max-w-[1600px] mx-auto h-full flex flex-col pb-24">
         <header className="flex justify-between items-center mb-6 px-2">
-          <div className="flex items-center gap-3">
+          <button onClick={() => setActiveTab('hub')} className="flex items-center gap-3 hover:opacity-80 transition-opacity focus:outline-none text-left">
             <img src="/gdg-logo.png" alt="GDG India Logo" className="h-8" />
-            <span className="google-sans text-xl font-medium tracking-tight mt-1">GDG <span className="text-slate-400">India</span></span>
-          </div>
+            <span className="google-sans text-xl font-medium tracking-tight mt-1 text-slate-900 border-none outline-none">GDG <span className="text-slate-400">India</span></span>
+          </button>
         </header>
 
         {activeTab === 'hub' ? (
@@ -398,26 +499,26 @@ function App() {
                 ></iframe>
               </div>
             </aside>
-            <section className="col-span-12 row-span-4 bento-card p-12 bg-white border-2 border-slate-100 group cursor-pointer overflow-hidden relative" onClick={() => setActiveTab('gallery')}>
-              <div className="flex gap-12 h-full items-center">
-                <div className="flex-1 flex flex-col justify-center h-full">
+            <section className="col-span-12 row-span-4 bento-card p-6 md:p-12 bg-white border-2 border-slate-100 group cursor-pointer overflow-hidden relative" onClick={() => setActiveTab('gallery')}>
+              <div className="flex flex-col md:flex-row gap-8 md:gap-12 h-full items-center">
+                <div className="flex-1 flex flex-col justify-center h-full z-20">
                   <div>
-                    <div className="w-16 h-16 rounded-3xl bg-[var(--color-google-yellow)]/10 flex items-center justify-center mb-8">
+                    <div className="w-16 h-16 rounded-3xl bg-[var(--color-google-yellow)]/10 flex items-center justify-center mb-6 md:mb-8">
                       <span className="material-symbols-outlined text-[32px] text-[var(--color-google-yellow)]">photo_library</span>
                     </div>
-                    <h4 className="google-sans text-4xl font-bold text-slate-900 mb-4">Event Gallery</h4>
-                    <p className="text-slate-500 text-lg leading-relaxed max-w-lg">Explore moments of innovation, learning, and connection from professional GDG events.</p>
+                    <h4 className="google-sans text-3xl md:text-4xl font-bold text-slate-900 mb-4">Event Gallery</h4>
+                    <p className="text-slate-500 text-base md:text-lg leading-relaxed max-w-lg">Explore moments of innovation, learning, and connection from professional GDG events.</p>
                   </div>
-                  <div className="flex items-center gap-3 text-[var(--color-google-yellow)] font-bold text-lg mt-8">
+                  <div className="flex items-center gap-3 text-[var(--color-google-yellow)] font-bold text-lg mt-6 md:mt-8">
                     View Gallery <span className="material-symbols-outlined text-xl transition-transform group-hover:translate-x-2">arrow_forward</span>
                   </div>
                 </div>
-                <div className="w-1/2 h-full flex items-center justify-end gap-6 relative">
-                  <div className="w-64 h-80 rounded-3xl overflow-hidden shadow-2xl rotate-6 translate-y-8 z-10 transition-transform duration-700 group-hover:rotate-3 group-hover:-translate-y-2">
-                    <img alt="DevFest" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDcreTte6m_N0cCmhKzt7_eYm5e9OwMCGctZdX26zSh_gzl-CTqOtk39XXZWHkU6OX-EDczIG75dv51t4UVPfQ5tZkc_Bsqrmhv5ENmzDlNGaE9iEf5ONGYrllCLyB9EGxkUPHprEUTa_YUOahz6SXj1gtpmxapItsQAC8JWYuU810q98AdeDExxVlRuFfw8ZvO_jPY0UvhkMKqM1-Iq0Ht2-_XRsWoKc_IGGPooq7Gt2M5x4PkHRQDrKNYk4PKc2-b1QdJcqJDH4GD" />
+                <div className="w-full md:w-1/2 h-64 md:h-full flex items-center justify-center md:justify-end gap-2 md:gap-6 relative mt-4 md:mt-0 px-4 md:px-0">
+                  <div className="w-40 md:w-64 h-56 md:h-80 rounded-3xl overflow-hidden shadow-2xl rotate-6 translate-y-4 md:translate-y-8 z-10 transition-transform duration-700 group-hover:rotate-3 group-hover:-translate-y-2">
+                    <img alt="GDG India Event Photo 1" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" src={previewImages.length > 0 ? previewImages[0] : ''} />
                   </div>
-                  <div className="w-64 h-80 rounded-3xl overflow-hidden shadow-2xl -rotate-6 -translate-x-12 relative z-0 origin-bottom transition-transform duration-700 group-hover:-rotate-12 group-hover:-translate-x-16">
-                    <img alt="Hackathon" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" src="https://lh3.googleusercontent.com/aida-public/AB6AXuDX5rbytxrqzWjkNRMPpETdk1ESvyRgOymupYtUd-Yzj8ttrLsPQJqIxFs9bC-LjgKqNCBJ8rCCB8GCLyA8AykBCm_rKZZi1eM26nYLnSpK6mXK6Wr5CzP41XqUgOxMUYo__sSb8irzJmhxOD2FvH-JTAcASrqxglYdmrX8vX2F8ZIbLUjvhbuG9tPx1stkAoyXCkSfxUhdDKqd6spQenkam-2FAShuQx6L1BBYEqAjcENWKrZyAHrDHv1it4-bX3rfVZPrkS5jOYtM" />
+                  <div className="w-40 md:w-64 h-56 md:h-80 rounded-3xl overflow-hidden shadow-2xl -rotate-6 -translate-x-6 md:-translate-x-12 relative z-0 origin-bottom transition-transform duration-700 group-hover:-rotate-12 group-hover:-translate-x-8 md:group-hover:-translate-x-16">
+                    <img alt="GDG India Event Photo 2" className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700" src={previewImages.length > 1 ? previewImages[1] : ''} />
                   </div>
                 </div>
               </div>
@@ -464,6 +565,16 @@ function App() {
           </div>
         </footer>
       </main>
+
+      {showScrollTop && (
+        <button
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          className="fixed bottom-8 right-8 z-[100] w-14 h-14 bg-white border border-slate-200 text-slate-600 rounded-full shadow-[0_8px_30px_rgb(0,0,0,0.12)] hover:shadow-[0_8px_30px_rgb(0,0,0,0.2)] hover:border-[var(--color-google-blue)] hover:text-[var(--color-google-blue)] hover:-translate-y-1 transition-all duration-300 flex items-center justify-center group"
+          aria-label="Scroll to top"
+        >
+          <span className="material-symbols-outlined text-2xl group-hover:-translate-y-1 transition-transform">arrow_upward</span>
+        </button>
+      )}
     </>
   );
 }
