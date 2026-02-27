@@ -171,7 +171,7 @@ const GoogleIndiaMap = () => {
             </APIProvider>
 
             {/* Map Legend */}
-            <div className="absolute bottom-4 left-4 bg-white/90 backdrop-blur rounded-lg p-3 shadow-md border border-slate-200 z-10 hidden sm:flex flex-col gap-2 pointer-events-none">
+            <div className="absolute bottom-4 left-4 right-4 sm:right-auto bg-white/90 backdrop-blur rounded-lg p-3 shadow-md border border-slate-200 z-10 flex flex-col gap-2 pointer-events-none">
                 <div className="flex items-center gap-2">
                     <span className="w-3 h-3 rounded-full bg-[var(--color-google-green)] ring-2 ring-green-100 shadow-sm block"></span>
                     <span className="text-xs font-semibold text-slate-700">Upcoming Events</span>

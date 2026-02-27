@@ -455,20 +455,20 @@ function App() {
                 </div>
               </div>
 
-              <div className="relative z-10 flex items-end gap-8 mt-8">
-                <div>
-                  <p className="text-slate-500 text-xs font-bold uppercase tracking-widest mb-1">Professional Chapters</p>
-                  <div className="flex items-baseline gap-1">
-                    <span className="text-4xl font-black text-slate-900 tracking-tighter drop-shadow-sm">{chaptersData.length}</span>
+              <div className="relative z-10 mt-8">
+                <div className="flex items-end gap-8">
+                  <div>
+                    <p className="text-slate-500 text-xs font-bold uppercase tracking-widest mb-1">Professional Chapters</p>
+                    <div className="flex items-baseline gap-1">
+                      <span className="text-4xl font-black text-slate-900 tracking-tighter drop-shadow-sm">{chaptersData.length}</span>
+                    </div>
                   </div>
-                </div>
-                <div>
-                  <p className="text-slate-500 text-xs font-bold uppercase tracking-widest mb-1">Cities Across India</p>
-                  <div className="flex items-baseline gap-1">
-                    <span className="text-4xl font-black text-[var(--color-google-blue)] tracking-tighter drop-shadow-sm">{new Set(chaptersData.map(c => c.city)).size}</span>
+                  <div>
+                    <p className="text-slate-500 text-xs font-bold uppercase tracking-widest mb-1">Cities Across India</p>
+                    <div className="flex items-baseline gap-1">
+                      <span className="text-4xl font-black text-[var(--color-google-blue)] tracking-tighter drop-shadow-sm">{new Set(chaptersData.map(c => c.city)).size}</span>
+                    </div>
                   </div>
-                </div>
-                <div className="flex items-center gap-3">
                   <div className="flex flex-col">
                     <p className="text-slate-500 text-xs font-bold uppercase tracking-widest mb-1">Upcoming Events</p>
                     <div className="flex items-baseline gap-1">
@@ -477,10 +477,8 @@ function App() {
                       </span>
                     </div>
                   </div>
-                  <div className="h-full flex items-end pb-1">
-                    <p className="text-[10px] text-slate-400 font-bold uppercase tracking-widest bg-slate-50 px-2.5 py-1 rounded-md border border-slate-100">Updated<br />weekly once</p>
-                  </div>
                 </div>
+                <p className="text-[10px] text-slate-400 font-medium mt-3 uppercase tracking-widest">Updated weekly once</p>
               </div>
 
               <div className="absolute -bottom-20 -right-20 opacity-[0.03] pointer-events-none">
