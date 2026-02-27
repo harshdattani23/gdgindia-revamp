@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './index.css';
 import chaptersData from './data/chapters.json';
 import photosData from './data/photos.json';
+import GoogleIndiaMap from './components/GoogleIndiaMap';
 function App() {
   const [activeTab, setActiveTab] = useState('hub');
   const [searchTerm, setSearchTerm] = useState('');
@@ -221,7 +222,10 @@ function App() {
     return (
       <div className="flex-1 w-full bg-white/80 backdrop-blur-md rounded-3xl p-4 md:p-8 border border-white/40 shadow-sm flex flex-col mt-4">
         <div className="flex flex-col md:flex-row justify-between items-start md:items-center mb-8 px-2 gap-4">
-          <h2 className="google-sans text-3xl font-bold text-slate-900 tracking-tight">Upcoming Events</h2>
+          <div className="flex flex-col">
+            <h2 className="google-sans text-3xl font-bold text-slate-900 tracking-tight">Upcoming Events</h2>
+            <p className="text-[10px] text-slate-400 font-medium mt-1 uppercase tracking-widest">Updated weekly once</p>
+          </div>
 
           <div className="flex flex-col md:flex-row items-center gap-4 w-full md:w-auto">
             <div className="relative w-full md:w-64 lg:w-80">
@@ -464,12 +468,17 @@ function App() {
                     <span className="text-4xl font-black text-[var(--color-google-blue)] tracking-tighter drop-shadow-sm">{new Set(chaptersData.map(c => c.city)).size}</span>
                   </div>
                 </div>
-                <div>
-                  <p className="text-slate-500 text-xs font-bold uppercase tracking-widest mb-1">Upcoming Events</p>
-                  <div className="flex items-baseline gap-1">
-                    <span className="text-4xl font-black text-[var(--color-google-green)] tracking-tighter drop-shadow-sm">
-                      {chaptersData.reduce((acc, chapter) => acc + (chapter.events ? chapter.events.length : 0), 0)}
-                    </span>
+                <div className="flex items-center gap-3">
+                  <div className="flex flex-col">
+                    <p className="text-slate-500 text-xs font-bold uppercase tracking-widest mb-1">Upcoming Events</p>
+                    <div className="flex items-baseline gap-1">
+                      <span className="text-4xl font-black text-[var(--color-google-green)] tracking-tighter drop-shadow-sm">
+                        {chaptersData.reduce((acc, chapter) => acc + (chapter.events ? chapter.events.length : 0), 0)}
+                      </span>
+                    </div>
+                  </div>
+                  <div className="h-full flex items-end pb-1">
+                    <p className="text-[10px] text-slate-400 font-bold uppercase tracking-widest bg-slate-50 px-2.5 py-1 rounded-md border border-slate-100">Updated<br />weekly once</p>
                   </div>
                 </div>
               </div>
@@ -481,22 +490,12 @@ function App() {
             <aside className="col-span-12 lg:col-span-5 row-span-6 bento-card p-6 flex flex-col bg-white">
               <div className="flex items-center justify-between mb-4">
                 <h3 className="google-sans text-xl font-bold flex items-center gap-2">
-                  <span className="material-symbols-outlined text-[#FF0000]">play_circle</span>
-                  Community Spotlight Videos
+                  <span className="material-symbols-outlined text-[var(--color-google-blue)]">public</span>
+                  GDG Chapters Across India
                 </h3>
-                <a href="https://www.youtube.com/@gdgindia" target="_blank" rel="noopener noreferrer" className="text-[10px] font-bold text-[#FF0000] bg-red-50 hover:bg-red-100 transition-colors px-3 py-1 rounded-full uppercase tracking-widest flex items-center gap-1">
-                  Subscribe <span className="material-symbols-outlined text-[12px]">open_in_new</span>
-                </a>
               </div>
-              <div className="flex-1 w-full rounded-2xl overflow-hidden shadow-sm border border-slate-100 bg-slate-50 relative min-h-[300px]">
-                <iframe
-                  className="absolute inset-0 w-full h-full"
-                  src="https://www.youtube.com/embed/_7T6fbyjI44"
-                  title="GDG India Latest Videos"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                  allowFullScreen
-                ></iframe>
+              <div className="flex-1 w-full rounded-2xl overflow-hidden shadow-sm border border-slate-100 bg-slate-50 relative min-h-[400px]">
+                <GoogleIndiaMap />
               </div>
             </aside>
             <section className="col-span-12 row-span-4 bento-card p-6 md:p-12 bg-white border-2 border-slate-100 group cursor-pointer overflow-hidden relative" onClick={() => setActiveTab('gallery')}>
