@@ -409,14 +409,14 @@ function App() {
         </div>
       )}
 
-      <nav className="fixed bottom-10 left-1/2 -translate-x-1/2 z-50">
-        <div className="pill-nav rounded-full px-4 py-2 flex items-center gap-2">
-          <button onClick={() => setActiveTab('hub')} className={`px-6 py-2.5 rounded-full text-sm font-medium transition-colors ${activeTab === 'hub' ? 'bg-slate-900 text-white' : 'text-slate-500 hover:text-slate-900'}`}>Hub</button>
-          <button onClick={() => setActiveTab('chapters')} className={`px-6 py-2.5 rounded-full text-sm font-medium transition-colors ${activeTab === 'chapters' ? 'bg-slate-900 text-white' : 'text-slate-500 hover:text-slate-900'}`}>Chapters</button>
-          <button onClick={() => setActiveTab('events')} className={`px-6 py-2.5 rounded-full text-sm font-medium transition-colors ${activeTab === 'events' ? 'bg-slate-900 text-white' : 'text-slate-500 hover:text-slate-900'}`}>Events</button>
-          <a className="px-6 py-2.5 rounded-full text-slate-500 hover:text-slate-900 transition-colors text-sm font-medium" href="#" onClick={(e) => { e.preventDefault(); setActiveTab('gallery'); }}>Gallery</a>
-          <a className="px-6 py-2.5 rounded-full text-slate-500 hover:text-slate-900 transition-colors text-sm font-medium flex items-center gap-1.5" href="https://github.com/GDG-India/awesome-gdg-gde" target="_blank" rel="noopener noreferrer">
-            Resources <span className="material-symbols-outlined text-[16px] -mt-0.5">open_in_new</span>
+      <nav className="fixed bottom-6 md:bottom-10 left-1/2 -translate-x-1/2 z-50 w-[95vw] sm:w-max max-w-full">
+        <div className="pill-nav rounded-full px-2 md:px-4 py-1.5 md:py-2 flex items-center gap-1 md:gap-2 overflow-x-auto hide-scrollbar w-full sm:w-auto mx-auto shadow-lg border border-slate-200/50">
+          <button onClick={() => setActiveTab('hub')} className={`px-4 md:px-6 py-2 md:py-2.5 rounded-full text-xs md:text-sm font-medium transition-colors whitespace-nowrap flex-shrink-0 ${activeTab === 'hub' ? 'bg-slate-900 text-white' : 'text-slate-500 hover:text-slate-900 hover:bg-slate-100/50'}`}>Hub</button>
+          <button onClick={() => setActiveTab('chapters')} className={`px-4 md:px-6 py-2 md:py-2.5 rounded-full text-xs md:text-sm font-medium transition-colors whitespace-nowrap flex-shrink-0 ${activeTab === 'chapters' ? 'bg-slate-900 text-white' : 'text-slate-500 hover:text-slate-900 hover:bg-slate-100/50'}`}>Chapters</button>
+          <button onClick={() => setActiveTab('events')} className={`px-4 md:px-6 py-2 md:py-2.5 rounded-full text-xs md:text-sm font-medium transition-colors whitespace-nowrap flex-shrink-0 ${activeTab === 'events' ? 'bg-slate-900 text-white' : 'text-slate-500 hover:text-slate-900 hover:bg-slate-100/50'}`}>Events</button>
+          <a className="px-4 md:px-6 py-2 md:py-2.5 rounded-full text-slate-500 hover:text-slate-900 hover:bg-slate-100/50 transition-colors text-xs md:text-sm font-medium whitespace-nowrap flex-shrink-0" href="#" onClick={(e) => { e.preventDefault(); setActiveTab('gallery'); }}>Gallery</a>
+          <a className="px-4 md:px-6 py-2 md:py-2.5 rounded-full text-slate-500 hover:text-slate-900 hover:bg-slate-100/50 transition-colors text-xs md:text-sm font-medium flex items-center gap-1 md:gap-1.5 whitespace-nowrap flex-shrink-0" href="https://github.com/GDG-India/awesome-gdg-gde" target="_blank" rel="noopener noreferrer">
+            Resources <span className="material-symbols-outlined text-[14px] md:text-[16px] -mt-0.5">open_in_new</span>
           </a>
         </div>
       </nav>
