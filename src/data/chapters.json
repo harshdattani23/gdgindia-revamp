@@ -46,13 +46,7 @@
     "city": "Jodhpur",
     "name": "GDG Jodhpur",
     "url": "https://gdg.community.dev/gdg-jodhpur/",
-    "events": [
-      {
-        "title": "Deploying AI Agents using Google ADK",
-        "start_date": "2026-02-28T14:30:00Z",
-        "url": "https://gdg.community.dev/e/m2h23r/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -93,7 +87,13 @@
     "city": "Mumbai",
     "name": "GDG MAD",
     "url": "https://gdg.community.dev/gdg-mad/",
-    "events": []
+    "events": [
+      {
+        "title": "International Women’s Day 2026 | Celebrating Women In Tech",
+        "start_date": "2026-03-08T05:00:00Z",
+        "url": "https://gdg.community.dev/e/m9z96d/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -124,7 +124,7 @@
     "events": [
       {
         "title": "Road to AI mastery (1/5): Introduction to Vertex AI, AI Studio, and Gemini",
-        "start_date": "2026-02-28T04:30:00Z",
+        "start_date": "2026-03-05T04:30:00Z",
         "url": "https://gdg.community.dev/e/mp95k9/"
       }
     ]
@@ -176,13 +176,7 @@
     "city": "Bangalore",
     "name": "GDG Cloud Bengaluru",
     "url": "https://gdg.community.dev/gdg-cloud-bengaluru/",
-    "events": [
-      {
-        "title": "Cloud Observability Summit",
-        "start_date": "2026-02-28T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mmdq8m/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -196,20 +190,20 @@
     "city": "Delhi",
     "name": "GDG Cloud New Delhi",
     "url": "https://gdg.community.dev/gdg-cloud-new-delhi/",
-    "events": []
+    "events": [
+      {
+        "title": "Break the Pattern - International Women's Day 2026",
+        "start_date": "2026-03-28T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m4ndkn/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
     "city": "Pune",
     "name": "GDG Cloud Pune",
     "url": "https://gdg.community.dev/gdg-cloud-pune/",
-    "events": [
-      {
-        "title": "Build with AI: Gdg Cloud Pune",
-        "start_date": "2026-02-28T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mcrfsx/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -223,13 +217,7 @@
     "city": "Madurai",
     "name": "GDG Madurai",
     "url": "https://gdg.community.dev/gdg-madurai/",
-    "events": [
-      {
-        "title": "Build with AI, Build for Clean Madurai  36-Hour PromptWar Hackathon",
-        "start_date": "2026-02-27T03:30:00Z",
-        "url": "https://gdg.community.dev/e/mjdzpy/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -263,7 +251,13 @@
     "city": "Panaji",
     "name": "GDG Goa",
     "url": "https://gdg.community.dev/gdg-goa/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI - Goa 2026 - Turning Ideas into Reality",
+        "start_date": "2026-03-22T03:30:00Z",
+        "url": "https://gdg.community.dev/e/m88kkm/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -285,6 +279,11 @@
     "name": "GDG Hyderabad",
     "url": "https://gdg.community.dev/gdg-hyderabad/",
     "events": [
+      {
+        "title": "Code Vipassana Season 14 Kickoff Hyderabad",
+        "start_date": "2026-03-12T06:30:00Z",
+        "url": "https://gdg.community.dev/e/mya9vj/"
+      },
       {
         "title": "Pyconf Hyd",
         "start_date": "2026-03-14T04:30:00Z",
@@ -345,13 +344,7 @@
     "city": "Ahmedabad",
     "name": "GDG Ahmedabad",
     "url": "https://gdg.community.dev/gdg-ahmedabad/",
-    "events": [
-      {
-        "title": "Model Context Protocol (MCP): From Fundamentals to Production",
-        "start_date": "2026-02-28T04:00:00Z",
-        "url": "https://gdg.community.dev/e/m6fw8a/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -406,13 +399,7 @@
     "city": "Lucknow",
     "name": "GDG Lucknow",
     "url": "https://gdg.community.dev/gdg-lucknow/",
-    "events": [
-      {
-        "title": "AI Beyond Apps: Exploring India's Invisible Intelligence Layer",
-        "start_date": "2026-02-28T03:30:00Z",
-        "url": "https://gdg.community.dev/e/m6988g/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -487,7 +474,13 @@
     "city": "Kochi",
     "name": "GDG Cloud Kochi",
     "url": "https://gdg.community.dev/gdg-cloud-kochi/",
-    "events": []
+    "events": [
+      {
+        "title": "Women in AI",
+        "start_date": "2026-03-08T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m44jvc/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -514,7 +507,13 @@
     "city": "Nagpur",
     "name": "GDG Cloud Nagpur",
     "url": "https://gdg.community.dev/gdg-cloud-nagpur/",
-    "events": []
+    "events": [
+      {
+        "title": "TechFusion Summit 2026",
+        "start_date": "2026-03-28T05:15:00Z",
+        "url": "https://gdg.community.dev/e/m4q8yk/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -547,11 +546,6 @@
         "title": "Break the Pattern: International Women's Day 2026 Celebration",
         "start_date": "2026-03-13T04:00:00Z",
         "url": "https://gdg.community.dev/e/mzc55s/"
-      },
-      {
-        "title": "Content Creation Cohort - North Karnataka's First Content Creation Cohort",
-        "start_date": "2026-02-28T04:00:00Z",
-        "url": "https://gdg.community.dev/e/m825hq/"
       }
     ]
   },
@@ -560,13 +554,7 @@
     "city": "Aurangabad",
     "name": "GDG Aurangabad",
     "url": "https://gdg.community.dev/gdg-aurangabad/",
-    "events": [
-      {
-        "title": "Glitch & Fix: The Reverse Engineering Hackathon",
-        "start_date": "2026-02-26T19:16:30Z",
-        "url": "https://gdg.community.dev/e/m47b7s/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
