@@ -24,13 +24,7 @@
     "city": "Gwalior",
     "name": "GDG Gwalior",
     "url": "https://gdg.community.dev/gdg-gwalior/",
-    "events": [
-      {
-        "title": "Build with AI 1.0 Pre event | 2026 Edition",
-        "start_date": "2026-03-18T14:30:00Z",
-        "url": "https://gdg.community.dev/e/myhw9v/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -72,7 +66,13 @@
     "city": "Nashik",
     "name": "GDG Nashik",
     "url": "https://gdg.community.dev/gdg-nashik/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI Building Agentic AI Apps with Gemini, WebMCP and Google Antigravity",
+        "start_date": "2026-03-28T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mzfj9t/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -93,7 +93,13 @@
     "city": "Mumbai",
     "name": "GDG MAD",
     "url": "https://gdg.community.dev/gdg-mad/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: App Roadshows",
+        "start_date": "2026-03-27T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mmk79t/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -169,13 +175,7 @@
     "city": "Mumbai",
     "name": "GDG Cloud Mumbai",
     "url": "https://gdg.community.dev/gdg-cloud-mumbai/",
-    "events": [
-      {
-        "title": "Build with AI: Modern AI Architectures and Real-World Production",
-        "start_date": "2026-03-21T03:30:00Z",
-        "url": "https://gdg.community.dev/e/myu66w/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -189,7 +189,13 @@
     "city": "Chennai",
     "name": "GDG Cloud Chennai",
     "url": "https://gdg.community.dev/gdg-cloud-chennai/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Mastering Google’s Agent Stack (ADK, A2A & MCP)",
+        "start_date": "2026-03-28T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mrv7j7/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -209,7 +215,13 @@
     "city": "Pune",
     "name": "GDG Cloud Pune",
     "url": "https://gdg.community.dev/gdg-cloud-pune/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: March Edition",
+        "start_date": "2026-03-28T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mjc5xp/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -256,7 +268,13 @@
     "city": "Rajkot",
     "name": "GDG Rajkot",
     "url": "https://gdg.community.dev/gdg-rajkot/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Build & Ship with Gemini CLI & Firebase Studio",
+        "start_date": "2026-03-29T02:30:00Z",
+        "url": "https://gdg.community.dev/e/mjrcf3/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -266,7 +284,7 @@
     "events": [
       {
         "title": "Build with AI Hackathon - Goa 2026 - Turning Ideas into Reality",
-        "start_date": "2026-03-22T03:30:00Z",
+        "start_date": "2026-04-10T01:30:00Z",
         "url": "https://gdg.community.dev/e/m88kkm/"
       }
     ]
@@ -299,9 +317,9 @@
     "url": "https://gdg.community.dev/gdg-chennai/",
     "events": [
       {
-        "title": "Break the Pattern - 2026 International Women's Day",
-        "start_date": "2026-03-21T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m6rakb/"
+        "title": "Build with AI",
+        "start_date": "2026-04-25T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mn49y6/"
       }
     ]
   },
@@ -345,7 +363,13 @@
     "city": "Ahmedabad",
     "name": "GDG Ahmedabad",
     "url": "https://gdg.community.dev/gdg-ahmedabad/",
-    "events": []
+    "events": [
+      {
+        "title": "Antigravity in Action: From Prompt to GitHub with Antigravity",
+        "start_date": "2026-03-28T10:00:00Z",
+        "url": "https://gdg.community.dev/e/mme4js/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -357,11 +381,6 @@
         "title": "Build with AI",
         "start_date": "2026-04-04T04:30:00Z",
         "url": "https://gdg.community.dev/e/m7jnfg/"
-      },
-      {
-        "title": "Build with AI: App Roadshow",
-        "start_date": "2026-03-20T03:30:00Z",
-        "url": "https://gdg.community.dev/e/m9q669/"
       }
     ]
   },
@@ -393,7 +412,7 @@
     "events": [
       {
         "title": "Vibe Check: Dev Edition",
-        "start_date": "2026-03-22T05:00:00Z",
+        "start_date": "2026-04-11T05:00:00Z",
         "url": "https://gdg.community.dev/e/mgeyjn/"
       }
     ]
@@ -450,13 +469,7 @@
     "city": "Noida",
     "name": "GDG Noida",
     "url": "https://gdg.community.dev/gdg-noida/",
-    "events": [
-      {
-        "title": "Break the Pattern : Celebrating Women in Tech",
-        "start_date": "2026-03-21T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m8mxz9/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -484,13 +497,7 @@
     "city": "Bhopal",
     "name": "GDG Cloud Bhopal",
     "url": "https://gdg.community.dev/gdg-cloud-bhopal/",
-    "events": [
-      {
-        "title": "Empowering Women in Tech & Business",
-        "start_date": "2026-03-22T09:30:00Z",
-        "url": "https://gdg.community.dev/e/mncy8n/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -600,7 +607,13 @@
     "city": "Vijayawada",
     "name": "GDG Vijayawada",
     "url": "https://gdg.community.dev/gdg-vijayawada/",
-    "events": []
+    "events": [
+      {
+        "title": "From AI to Agentic AI: Designing Systems That Think, Decide, and Act",
+        "start_date": "2026-03-29T05:00:00Z",
+        "url": "https://gdg.community.dev/e/m6w5ua/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -608,6 +621,11 @@
     "name": "GDG Cloud Noida",
     "url": "https://gdg.community.dev/gdg-cloud-noida/",
     "events": [
+      {
+        "title": "Build with AI",
+        "start_date": "2026-04-11T03:30:00Z",
+        "url": "https://gdg.community.dev/e/m5r8xr/"
+      },
       {
         "title": "Hack Heist 2.0",
         "start_date": "2026-03-28T03:30:00Z",
