@@ -39,7 +39,13 @@
     "city": "Nagpur",
     "name": "GDG Nagpur",
     "url": "https://gdg.community.dev/gdg-nagpur/",
-    "events": []
+    "events": [
+      {
+        "title": "​IWD Nagpur 2026: Beyond the Grid",
+        "start_date": "2026-04-19T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mvqjvk/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -116,7 +122,13 @@
     "city": "Hubballi",
     "name": "GDG Hubli",
     "url": "https://gdg.community.dev/gdg-hubli/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI 2026",
+        "start_date": "2026-04-11T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m9c7y5/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -175,7 +187,7 @@
     "events": [
       {
         "title": "Build With AI",
-        "start_date": "2026-04-18T04:00:00Z",
+        "start_date": "2026-04-25T04:00:00Z",
         "url": "https://gdg.community.dev/e/mj2ar7/"
       }
     ]
@@ -236,7 +248,7 @@
     "events": [
       {
         "title": "Build with AI Hackathon - Goa 2026 - Turning Ideas into Reality",
-        "start_date": "2026-04-10T01:30:00Z",
+        "start_date": "2026-04-20T01:30:00Z",
         "url": "https://gdg.community.dev/e/m88kkm/"
       }
     ]
@@ -253,13 +265,7 @@
     "city": "Pune",
     "name": "GDG Pune",
     "url": "https://gdg.community.dev/gdg-pune/",
-    "events": [
-      {
-        "title": "Build with AI : App Roadshow - Pune",
-        "start_date": "2026-04-04T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mnmcb2/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -300,7 +306,13 @@
     "city": "Thiruvananthapuram",
     "name": "GDG Thiruvananthapuram",
     "url": "https://gdg.community.dev/gdg-thiruvananthapuram/",
-    "events": []
+    "events": [
+      {
+        "title": "IWD Thiruvananthapuram 2026 - Break the Pattern",
+        "start_date": "2026-04-25T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mwm8cw/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -321,7 +333,13 @@
     "city": "Ahmedabad",
     "name": "GDG Ahmedabad",
     "url": "https://gdg.community.dev/gdg-ahmedabad/",
-    "events": []
+    "events": [
+      {
+        "title": "Break The Pattern -  WTM Ahmedabad #IWD26",
+        "start_date": "2026-04-18T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m4c4zb/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -330,9 +348,9 @@
     "url": "https://gdg.community.dev/gdg-bangalore/",
     "events": [
       {
-        "title": "Build with AI",
-        "start_date": "2026-04-04T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m7jnfg/"
+        "title": "Build For Bengaluru Hackathon.",
+        "start_date": "2026-04-25T02:30:00Z",
+        "url": "https://gdg.community.dev/e/m8u7ad/"
       }
     ]
   },
@@ -386,11 +404,6 @@
         "title": "Build with AI – Workshop on Google AI Tools",
         "start_date": "2026-04-11T05:00:00Z",
         "url": "https://gdg.community.dev/e/mwues8/"
-      },
-      {
-        "title": "Build with AI: Virtual Workshop on Google AI Tools",
-        "start_date": "2026-03-31T13:30:00Z",
-        "url": "https://gdg.community.dev/e/mg5gu5/"
       }
     ]
   },
@@ -482,7 +495,13 @@
     "city": "Dehradun",
     "name": "GDG Dehradun",
     "url": "https://gdg.community.dev/gdg-dehradun/",
-    "events": []
+    "events": [
+      {
+        "title": "Campus Series #1: UPES",
+        "start_date": "2026-04-11T06:00:00Z",
+        "url": "https://gdg.community.dev/e/mb47am/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -496,7 +515,13 @@
     "city": "Madurai",
     "name": "GDG Cloud Madurai",
     "url": "https://gdg.community.dev/gdg-cloud-madurai/",
-    "events": []
+    "events": [
+      {
+        "title": "Dive into Application Security",
+        "start_date": "2026-04-11T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mv54tu/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -560,7 +585,7 @@
     "url": "https://gdg.community.dev/gdg-vijayawada/",
     "events": [
       {
-        "title": "Build with AI: Medha - Innovation Talks & Collaborative Workshop",
+        "title": "Build with AI: Medha",
         "start_date": "2026-04-09T03:30:00Z",
         "url": "https://gdg.community.dev/e/m229q9/"
       }
