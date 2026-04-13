@@ -59,7 +59,13 @@
     "city": "Siliguri",
     "name": "GDG Siliguri",
     "url": "https://gdg.community.dev/gdg-siliguri/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Agentic Premier League",
+        "start_date": "2026-04-26T09:30:00Z",
+        "url": "https://gdg.community.dev/e/mbsea8/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -122,13 +128,7 @@
     "city": "Hubballi",
     "name": "GDG Hubli",
     "url": "https://gdg.community.dev/gdg-hubli/",
-    "events": [
-      {
-        "title": "Build with AI 2026",
-        "start_date": "2026-04-11T04:00:00Z",
-        "url": "https://gdg.community.dev/e/m9c7y5/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -170,7 +170,13 @@
     "city": "Bangalore",
     "name": "GDG Cloud Bengaluru",
     "url": "https://gdg.community.dev/gdg-cloud-bengaluru/",
-    "events": []
+    "events": [
+      {
+        "title": "Come for Cloud, Stay for Success",
+        "start_date": "2026-04-25T04:00:00Z",
+        "url": "https://gdg.community.dev/e/my6476/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -231,7 +237,13 @@
     "city": "Indore",
     "name": "GDG Indore",
     "url": "https://gdg.community.dev/gdg-indore/",
-    "events": []
+    "events": [
+      {
+        "title": "KRIYETA 5.0 36hrs Women lead National level hackathon | Build with AI: Agentic Premier League",
+        "start_date": "2026-04-17T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mmgqzm/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -272,7 +284,13 @@
     "city": "Hyderabad",
     "name": "GDG Hyderabad",
     "url": "https://gdg.community.dev/gdg-hyderabad/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI - App Roadshows Hyderabad Edition",
+        "start_date": "2026-04-17T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mg3fav/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -359,13 +377,7 @@
     "city": "Bhubaneswar",
     "name": "GDG Bhubaneswar",
     "url": "https://gdg.community.dev/gdg-bhubaneswar/",
-    "events": [
-      {
-        "title": "HackForge 2.0",
-        "start_date": "2026-04-07T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m4mvjd/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -401,9 +413,9 @@
     "url": "https://gdg.community.dev/gdg-jammu/",
     "events": [
       {
-        "title": "Build with AI – Workshop on Google AI Tools",
-        "start_date": "2026-04-11T05:00:00Z",
-        "url": "https://gdg.community.dev/e/mwues8/"
+        "title": "Build for Bharat: Contribute to Indic LLMs",
+        "start_date": "2026-04-18T14:30:00Z",
+        "url": "https://gdg.community.dev/e/m26azx/"
       }
     ]
   },
@@ -495,13 +507,7 @@
     "city": "Dehradun",
     "name": "GDG Dehradun",
     "url": "https://gdg.community.dev/gdg-dehradun/",
-    "events": [
-      {
-        "title": "Campus Series #1: UPES",
-        "start_date": "2026-04-11T06:00:00Z",
-        "url": "https://gdg.community.dev/e/mb47am/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -515,13 +521,7 @@
     "city": "Madurai",
     "name": "GDG Cloud Madurai",
     "url": "https://gdg.community.dev/gdg-cloud-madurai/",
-    "events": [
-      {
-        "title": "Dive into Application Security",
-        "start_date": "2026-04-11T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mv54tu/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -542,7 +542,13 @@
     "city": "Belagavi",
     "name": "GDG Belgaum",
     "url": "https://gdg.community.dev/gdg-belgaum/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Hands-On AI Workshop (Certified)",
+        "start_date": "2026-05-05T04:30:00Z",
+        "url": "https://gdg.community.dev/e/m2updm/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -583,26 +589,14 @@
     "city": "Vijayawada",
     "name": "GDG Vijayawada",
     "url": "https://gdg.community.dev/gdg-vijayawada/",
-    "events": [
-      {
-        "title": "Build with AI: Medha",
-        "start_date": "2026-04-09T03:30:00Z",
-        "url": "https://gdg.community.dev/e/m229q9/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
     "city": "Noida",
     "name": "GDG Cloud Noida",
     "url": "https://gdg.community.dev/gdg-cloud-noida/",
-    "events": [
-      {
-        "title": "Build with AI",
-        "start_date": "2026-04-11T03:30:00Z",
-        "url": "https://gdg.community.dev/e/m5r8xr/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
