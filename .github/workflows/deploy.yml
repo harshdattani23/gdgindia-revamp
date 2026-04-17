@@ -55,7 +55,8 @@ jobs:
             echo "New events found. Committing changes..."
             git add src/data/chapters.json
             git commit -m "chore: automated weekly events update [skip ci]"
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
             echo "changes_made=true" >> $GITHUB_OUTPUT
           else
             echo "No new events found. Skipping commit."
