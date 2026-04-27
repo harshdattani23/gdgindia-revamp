@@ -32,7 +32,13 @@
     "city": "Bhopal",
     "name": "GDG Bhopal",
     "url": "https://gdg.community.dev/gdg-bhopal/",
-    "events": []
+    "events": [
+      {
+        "title": "AI ODYSSEY 2026",
+        "start_date": "2026-05-05T05:30:00Z",
+        "url": "https://gdg.community.dev/e/mwgh7q/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -52,20 +58,20 @@
     "city": "Jodhpur",
     "name": "GDG Jodhpur",
     "url": "https://gdg.community.dev/gdg-jodhpur/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Agentic Premier League, RR vs GT Vibe Coding",
+        "start_date": "2026-05-09T13:30:00Z",
+        "url": "https://gdg.community.dev/e/mmxvn7/"
+      }
+    ]
   },
   {
     "type": "GDG",
     "city": "Siliguri",
     "name": "GDG Siliguri",
     "url": "https://gdg.community.dev/gdg-siliguri/",
-    "events": [
-      {
-        "title": "Build with AI: Agentic Premier League",
-        "start_date": "2026-04-26T09:30:00Z",
-        "url": "https://gdg.community.dev/e/mbsea8/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -85,13 +91,7 @@
     "city": "Ahmedabad",
     "name": "GDG Cloud Ahmedabad",
     "url": "https://gdg.community.dev/gdg-cloud-ahmedabad/",
-    "events": [
-      {
-        "title": "Build with AI: From Tokens to Tools — Building Real-World AI Systems with Gemma",
-        "start_date": "2026-04-25T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mvn6fs/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -190,9 +190,9 @@
     "url": "https://gdg.community.dev/gdg-cloud-bengaluru/",
     "events": [
       {
-        "title": "Come for Cloud, Stay for Success",
-        "start_date": "2026-04-25T04:00:00Z",
-        "url": "https://gdg.community.dev/e/my6476/"
+        "title": "DeployFest",
+        "start_date": "2026-05-23T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mv7qng/"
       }
     ]
   },
@@ -210,13 +210,8 @@
     "url": "https://gdg.community.dev/gdg-cloud-new-delhi/",
     "events": [
       {
-        "title": "Build With AI",
-        "start_date": "2026-04-25T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mj2ar7/"
-      },
-      {
         "title": "Build With AI :: Agentic Premier League",
-        "start_date": "2026-05-09T22:30:00Z",
+        "start_date": "2026-05-02T20:30:00Z",
         "url": "https://gdg.community.dev/e/mbr8ms/"
       }
     ]
@@ -233,13 +228,7 @@
     "city": "Kolkata",
     "name": "GDG Kolkata",
     "url": "https://gdg.community.dev/gdg-kolkata/",
-    "events": [
-      {
-        "title": "Build with AI Kolkata: Be Future Ready",
-        "start_date": "2026-04-25T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mw3bst/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -260,18 +249,7 @@
     "city": "Indore",
     "name": "GDG Indore",
     "url": "https://gdg.community.dev/gdg-indore/",
-    "events": [
-      {
-        "title": "Build with AI: Agentic Premier League – LSG vs RR Vibe Coding League 🏏⚡",
-        "start_date": "2026-04-22T13:30:00Z",
-        "url": "https://gdg.community.dev/e/mj28w4/"
-      },
-      {
-        "title": "Google Build with AI: App Roadshow – Indore 2026 🚀",
-        "start_date": "2026-04-25T03:30:00Z",
-        "url": "https://gdg.community.dev/e/mg3d4m/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -290,11 +268,6 @@
         "title": "AI Innovators Hackathon",
         "start_date": "2026-05-10T09:30:00Z",
         "url": "https://gdg.community.dev/e/m2rdmw/"
-      },
-      {
-        "title": "Build with AI Hackathon - Goa 2026 - Turning Ideas into Reality",
-        "start_date": "2026-04-20T01:30:00Z",
-        "url": "https://gdg.community.dev/e/m88kkm/"
       }
     ]
   },
@@ -317,13 +290,7 @@
     "city": "Hyderabad",
     "name": "GDG Hyderabad",
     "url": "https://gdg.community.dev/gdg-hyderabad/",
-    "events": [
-      {
-        "title": "Agentic Premier League",
-        "start_date": "2026-04-25T09:30:00Z",
-        "url": "https://gdg.community.dev/e/m2bdt8/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -332,9 +299,9 @@
     "url": "https://gdg.community.dev/gdg-chennai/",
     "events": [
       {
-        "title": "Build with AI",
-        "start_date": "2026-04-25T03:30:00Z",
-        "url": "https://gdg.community.dev/e/mn49y6/"
+        "title": "Build with AI: App Roadshow",
+        "start_date": "2026-05-01T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mgc72b/"
       }
     ]
   },
@@ -350,26 +317,14 @@
     "city": "Udaipur",
     "name": "GDG Udaipur",
     "url": "https://gdg.community.dev/gdg-udaipur/",
-    "events": [
-      {
-        "title": "Break The Pattern: International Women's Day 2026",
-        "start_date": "2026-04-26T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m57wnd/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
     "city": "Thiruvananthapuram",
     "name": "GDG Thiruvananthapuram",
     "url": "https://gdg.community.dev/gdg-thiruvananthapuram/",
-    "events": [
-      {
-        "title": "IWD Thiruvananthapuram 2026 - Break the Pattern",
-        "start_date": "2026-04-25T03:30:00Z",
-        "url": "https://gdg.community.dev/e/mwm8cw/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -397,13 +352,7 @@
     "city": "Bangalore",
     "name": "GDG Bangalore",
     "url": "https://gdg.community.dev/gdg-bangalore/",
-    "events": [
-      {
-        "title": "Build For Bengaluru Hackathon.",
-        "start_date": "2026-04-25T02:30:00Z",
-        "url": "https://gdg.community.dev/e/m8u7ad/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -500,7 +449,18 @@
     "city": "Bhopal",
     "name": "GDG Cloud Bhopal",
     "url": "https://gdg.community.dev/gdg-cloud-bhopal/",
-    "events": []
+    "events": [
+      {
+        "title": "Build With AI: Bhopal Edition",
+        "start_date": "2026-05-03T04:30:23Z",
+        "url": "https://gdg.community.dev/e/mv47gx/"
+      },
+      {
+        "title": "Vibe Coding & IPL Fiesta: CSK vs Mumbai Indians watchparty",
+        "start_date": "2026-05-02T13:00:00Z",
+        "url": "https://gdg.community.dev/e/mj3973/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -610,14 +570,26 @@
     "city": "Vijayawada",
     "name": "GDG Vijayawada",
     "url": "https://gdg.community.dev/gdg-vijayawada/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Medha",
+        "start_date": "2026-05-02T03:30:44Z",
+        "url": "https://gdg.community.dev/e/m6n4g4/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
     "city": "Noida",
     "name": "GDG Cloud Noida",
     "url": "https://gdg.community.dev/gdg-cloud-noida/",
-    "events": []
+    "events": [
+      {
+        "title": "Agentic Premier League 🏏",
+        "start_date": "2026-05-03T08:30:00Z",
+        "url": "https://gdg.community.dev/e/mz2t6f/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
