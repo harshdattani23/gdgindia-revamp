@@ -18,7 +18,18 @@
     "city": "Gwalior",
     "name": "GDG Gwalior",
     "url": "https://gdg.community.dev/gdg-gwalior/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Agentic Premier League – Finals Vibe Coding League 🏏⚡",
+        "start_date": "2026-05-31T13:00:00Z",
+        "url": "https://gdg.community.dev/e/myv6t7/"
+      },
+      {
+        "title": "Build with AI: Agentic Premier League – Qualifiers Vibe Coding League 🏏⚡",
+        "start_date": "2026-05-24T13:00:00Z",
+        "url": "https://gdg.community.dev/e/mpva3j/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -32,13 +43,7 @@
     "city": "Bhopal",
     "name": "GDG Bhopal",
     "url": "https://gdg.community.dev/gdg-bhopal/",
-    "events": [
-      {
-        "title": "AI ODYSSEY 2026",
-        "start_date": "2026-05-05T05:30:00Z",
-        "url": "https://gdg.community.dev/e/mwgh7q/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -47,9 +52,9 @@
     "url": "https://gdg.community.dev/gdg-nagpur/",
     "events": [
       {
-        "title": "Vibe Coding & IPL Fiesta",
-        "start_date": "2026-05-10T01:30:00Z",
-        "url": "https://gdg.community.dev/e/mzjsq3/"
+        "title": "Build with AI: Nagpur 2026",
+        "start_date": "2026-05-31T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mmh8am/"
       }
     ]
   },
@@ -58,13 +63,7 @@
     "city": "Jodhpur",
     "name": "GDG Jodhpur",
     "url": "https://gdg.community.dev/gdg-jodhpur/",
-    "events": [
-      {
-        "title": "Build with AI: Agentic Premier League, RR vs GT Vibe Coding",
-        "start_date": "2026-05-09T13:30:00Z",
-        "url": "https://gdg.community.dev/e/mmxvn7/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -112,13 +111,7 @@
     "city": "Surat",
     "name": "GDG Surat",
     "url": "https://gdg.community.dev/gdg-surat/",
-    "events": [
-      {
-        "title": "Build with AI: App Roadshow",
-        "start_date": "2026-05-06T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mca2e2/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -160,13 +153,7 @@
     "city": "Kolkata",
     "name": "GDG Cloud Kolkata",
     "url": "https://gdg.community.dev/gdg-cloud-kolkata/",
-    "events": [
-      {
-        "title": "GDG Leads Assemble",
-        "start_date": "2026-05-09T05:30:00Z",
-        "url": "https://gdg.community.dev/e/mghnxq/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -241,7 +228,28 @@
     "city": "Madurai",
     "name": "GDG Madurai",
     "url": "https://gdg.community.dev/gdg-madurai/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI : Agentic Premium League - Vibeathon 2026",
+        "start_date": "2026-05-21T11:30:00Z",
+        "url": "https://gdg.community.dev/e/mbce64/"
+      },
+      {
+        "title": "Deploying Open Models on GKE",
+        "start_date": "2026-06-20T04:30:00Z",
+        "url": "https://gdg.community.dev/e/m4t2dj/"
+      },
+      {
+        "title": "Google I/O Connect Extended 2026 - GDG Madurai",
+        "start_date": "2026-05-19T11:30:00Z",
+        "url": "https://gdg.community.dev/e/mp8f4r/"
+      },
+      {
+        "title": "What's New in Angular",
+        "start_date": "2026-06-27T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mg7bw8/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -257,9 +265,24 @@
     "url": "https://gdg.community.dev/gdg-indore/",
     "events": [
       {
-        "title": "Build with AI: Agentic Premier League – LSG vs RCB Vibe Coding League 🏏⚡",
-        "start_date": "2026-05-07T12:30:00Z",
-        "url": "https://gdg.community.dev/e/mm4s72/"
+        "title": "Build with AI: Agentic Premier League –   Qualifier 1 (Top 2 Teams) 🏏⚡",
+        "start_date": "2026-05-26T12:30:00Z",
+        "url": "https://gdg.community.dev/e/m9ucsu/"
+      },
+      {
+        "title": "Build with AI: Agentic Premier League – KKR vs MI Vibe Coding League 🏏⚡",
+        "start_date": "2026-05-20T12:30:00Z",
+        "url": "https://gdg.community.dev/e/m4e7h7/"
+      },
+      {
+        "title": "Build with AI: Agentic Premier League – LSG vs CSK Vibe Coding League 🏏⚡",
+        "start_date": "2026-05-15T12:30:00Z",
+        "url": "https://gdg.community.dev/e/m24y7v/"
+      },
+      {
+        "title": "Build with AI: Agentic Premier League – RCB vs KKR Vibe Coding League 🏏⚡",
+        "start_date": "2026-05-13T12:30:00Z",
+        "url": "https://gdg.community.dev/e/mpugsa/"
       }
     ]
   },
@@ -275,46 +298,34 @@
     "city": "Panaji",
     "name": "GDG Goa",
     "url": "https://gdg.community.dev/gdg-goa/",
-    "events": [
-      {
-        "title": "Goa Code Premier League",
-        "start_date": "2026-05-10T09:30:00Z",
-        "url": "https://gdg.community.dev/e/m2rdmw/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
     "city": "Gandhinagar",
     "name": "GDG Gandhinagar",
     "url": "https://gdg.community.dev/gdg-gandhinagar/",
-    "events": []
+    "events": [
+      {
+        "title": "Agent Premier League (APL) Watch Party & Tech Meetup",
+        "start_date": "2026-05-12T13:00:00Z",
+        "url": "https://gdg.community.dev/e/myq6er/"
+      }
+    ]
   },
   {
     "type": "GDG",
     "city": "Pune",
     "name": "GDG Pune",
     "url": "https://gdg.community.dev/gdg-pune/",
-    "events": [
-      {
-        "title": "Build with AI - Google Developer Group Pune | IntraEdge Technologies",
-        "start_date": "2026-05-09T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mceruc/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
     "city": "Hyderabad",
     "name": "GDG Hyderabad",
     "url": "https://gdg.community.dev/gdg-hyderabad/",
-    "events": [
-      {
-        "title": "Agentic Premier League",
-        "start_date": "2026-05-06T12:30:00Z",
-        "url": "https://gdg.community.dev/e/my2rgq/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -467,26 +478,14 @@
     "city": "Bhopal",
     "name": "GDG Cloud Bhopal",
     "url": "https://gdg.community.dev/gdg-cloud-bhopal/",
-    "events": [
-      {
-        "title": "Build with AI Hackathon - TIT Srijan 2026 | GDG Cloud Bhopal",
-        "start_date": "2026-05-09T06:30:00Z",
-        "url": "https://gdg.community.dev/e/m45btt/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
     "city": "Gurugram",
     "name": "GDG Gurugram",
     "url": "https://gdg.community.dev/gdg-gurugram/",
-    "events": [
-      {
-        "title": "Build with AI",
-        "start_date": "2026-05-09T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mn7uqd/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -527,7 +526,13 @@
     "city": "Madurai",
     "name": "GDG Cloud Madurai",
     "url": "https://gdg.community.dev/gdg-cloud-madurai/",
-    "events": []
+    "events": [
+      {
+        "title": "n8n on Google Cloud Run",
+        "start_date": "2026-06-06T04:30:00Z",
+        "url": "https://gdg.community.dev/e/m2zyz7/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -548,13 +553,7 @@
     "city": "Belagavi",
     "name": "GDG Belgaum",
     "url": "https://gdg.community.dev/gdg-belgaum/",
-    "events": [
-      {
-        "title": "Build with AI: Hands-On AI Workshop (Certified)",
-        "start_date": "2026-05-05T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m2updm/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -575,14 +574,26 @@
     "city": "Motihari",
     "name": "GDG Cloud Motihari",
     "url": "https://gdg.community.dev/gdg-cloud-motihari/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Vibe Coding with Google AI",
+        "start_date": "2026-05-23T05:30:35Z",
+        "url": "https://gdg.community.dev/e/m8g6qm/"
+      }
+    ]
   },
   {
     "type": "GDG",
     "city": "Prayagraj",
     "name": "GDG Prayagraj",
     "url": "https://gdg.community.dev/gdg-prayagraj/",
-    "events": []
+    "events": [
+      {
+        "title": "Agentic Premier League (APL)- Prayagraj!",
+        "start_date": "2026-05-17T09:30:00Z",
+        "url": "https://gdg.community.dev/e/m2k8gk/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -596,13 +607,7 @@
     "city": "Noida",
     "name": "GDG Cloud Noida",
     "url": "https://gdg.community.dev/gdg-cloud-noida/",
-    "events": [
-      {
-        "title": "Agentic Premier League 🏏",
-        "start_date": "2026-05-10T08:30:00Z",
-        "url": "https://gdg.community.dev/e/mz2t6f/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
