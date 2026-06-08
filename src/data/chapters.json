@@ -224,7 +224,13 @@
     "city": "Indore",
     "name": "GDG Indore",
     "url": "https://gdg.community.dev/gdg-indore/",
-    "events": []
+    "events": [
+      {
+        "title": "Build //localhost:Indore",
+        "start_date": "2026-06-14T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mmkddk/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -322,14 +328,26 @@
     "city": "Bhubaneswar",
     "name": "GDG Bhubaneswar",
     "url": "https://gdg.community.dev/gdg-bhubaneswar/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI Bhubaneswar 2026: Be Future Ready",
+        "start_date": "2026-06-28T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mpyxdf/"
+      }
+    ]
   },
   {
     "type": "GDG",
     "city": "Coimbatore",
     "name": "GDG Coimbatore",
     "url": "https://gdg.community.dev/gdg-coimbatore/",
-    "events": []
+    "events": [
+      {
+        "title": "Google I/O Extended Coimbatore 2026",
+        "start_date": "2026-06-20T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m8ed2f/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -447,20 +465,20 @@
     "city": "Nagpur",
     "name": "GDG Cloud Nagpur",
     "url": "https://gdg.community.dev/gdg-cloud-nagpur/",
-    "events": []
+    "events": [
+      {
+        "title": "GDG Cloud Nagpur – June Meetup",
+        "start_date": "2026-06-27T04:30:00Z",
+        "url": "https://gdg.community.dev/e/m8xkpm/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
     "city": "Madurai",
     "name": "GDG Cloud Madurai",
     "url": "https://gdg.community.dev/gdg-cloud-madurai/",
-    "events": [
-      {
-        "title": "n8n on Google Cloud Run",
-        "start_date": "2026-06-06T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m2zyz7/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -530,14 +548,26 @@
     "city": "Mangaluru",
     "name": "GDG Cloud Mangalore",
     "url": "https://gdg.community.dev/gdg-cloud-mangalore/",
-    "events": []
+    "events": [
+      {
+        "title": "Building Multi Agent System (MAS)  using Google Cloud ADK , A2A and CloudRun",
+        "start_date": "2026-06-20T10:30:00Z",
+        "url": "https://gdg.community.dev/e/mp5dnz/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
     "city": "Gandhinagar",
     "name": "GDG Cloud Gandhinagar",
     "url": "https://gdg.community.dev/gdg-cloud-gandhinagar/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with Antigravity Series : Part 3",
+        "start_date": "2026-06-14T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mp7krh/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
