@@ -81,7 +81,13 @@
     "city": "Mumbai",
     "name": "GDG MAD",
     "url": "https://gdg.community.dev/gdg-mad/",
-    "events": []
+    "events": [
+      {
+        "title": "What’s new at Google I/O and Apple WWDC",
+        "start_date": "2026-06-20T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mmbpsh/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -164,7 +170,13 @@
     "city": "Bangalore",
     "name": "GDG Cloud Bengaluru",
     "url": "https://gdg.community.dev/gdg-cloud-bengaluru/",
-    "events": []
+    "events": [
+      {
+        "title": "Cloud Under the Hood",
+        "start_date": "2026-07-04T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mvv9n7/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -178,7 +190,13 @@
     "city": "Delhi",
     "name": "GDG Cloud New Delhi",
     "url": "https://gdg.community.dev/gdg-cloud-new-delhi/",
-    "events": []
+    "events": [
+      {
+        "title": "Design Fusion x Build With AI",
+        "start_date": "2026-06-20T03:30:43Z",
+        "url": "https://gdg.community.dev/e/mvtgwz/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -224,13 +242,7 @@
     "city": "Indore",
     "name": "GDG Indore",
     "url": "https://gdg.community.dev/gdg-indore/",
-    "events": [
-      {
-        "title": "Build //localhost:Indore",
-        "start_date": "2026-06-14T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mmkddk/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -561,13 +573,7 @@
     "city": "Gandhinagar",
     "name": "GDG Cloud Gandhinagar",
     "url": "https://gdg.community.dev/gdg-cloud-gandhinagar/",
-    "events": [
-      {
-        "title": "Build with Antigravity Series : Part 3",
-        "start_date": "2026-06-14T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mp7krh/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
