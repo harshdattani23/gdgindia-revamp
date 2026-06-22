@@ -83,9 +83,9 @@
     "url": "https://gdg.community.dev/gdg-mad/",
     "events": [
       {
-        "title": "What’s new at Google I/O and Apple WWDC",
-        "start_date": "2026-06-20T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mmbpsh/"
+        "title": "Search & Scale with Elastic + Google Cloud",
+        "start_date": "2026-06-27T04:30:00Z",
+        "url": "https://gdg.community.dev/e/m96y85/"
       }
     ]
   },
@@ -190,13 +190,7 @@
     "city": "Delhi",
     "name": "GDG Cloud New Delhi",
     "url": "https://gdg.community.dev/gdg-cloud-new-delhi/",
-    "events": [
-      {
-        "title": "Design Fusion x Build With AI",
-        "start_date": "2026-06-20T03:30:43Z",
-        "url": "https://gdg.community.dev/e/mvtgwz/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -218,11 +212,6 @@
     "name": "GDG Madurai",
     "url": "https://gdg.community.dev/gdg-madurai/",
     "events": [
-      {
-        "title": "Deploying Open Models on GKE",
-        "start_date": "2026-06-20T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m4t2dj/"
-      },
       {
         "title": "What's New in Angular",
         "start_date": "2026-06-27T04:30:00Z",
@@ -256,7 +245,13 @@
     "city": "Panaji",
     "name": "GDG Goa",
     "url": "https://gdg.community.dev/gdg-goa/",
-    "events": []
+    "events": [
+      {
+        "title": "IDEABAAZ Startup Goa Day 2026",
+        "start_date": "2026-07-01T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m8kxmx/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -284,7 +279,13 @@
     "city": "Chennai",
     "name": "GDG Chennai",
     "url": "https://gdg.community.dev/gdg-chennai/",
-    "events": []
+    "events": [
+      {
+        "title": "Build for voice with Gemini",
+        "start_date": "2026-06-27T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mcuyk2/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -298,7 +299,13 @@
     "city": "Udaipur",
     "name": "GDG Udaipur",
     "url": "https://gdg.community.dev/gdg-udaipur/",
-    "events": []
+    "events": [
+      {
+        "title": "Build With AI",
+        "start_date": "2026-07-05T04:30:00Z",
+        "url": "https://gdg.community.dev/e/m6txwp/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -353,13 +360,7 @@
     "city": "Coimbatore",
     "name": "GDG Coimbatore",
     "url": "https://gdg.community.dev/gdg-coimbatore/",
-    "events": [
-      {
-        "title": "Google I/O Extended Coimbatore 2026",
-        "start_date": "2026-06-20T04:00:00Z",
-        "url": "https://gdg.community.dev/e/m8ed2f/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -560,13 +561,7 @@
     "city": "Mangaluru",
     "name": "GDG Cloud Mangalore",
     "url": "https://gdg.community.dev/gdg-cloud-mangalore/",
-    "events": [
-      {
-        "title": "Building Multi Agent System (MAS)  using Google Cloud ADK , A2A and CloudRun",
-        "start_date": "2026-06-20T10:30:00Z",
-        "url": "https://gdg.community.dev/e/mp5dnz/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
