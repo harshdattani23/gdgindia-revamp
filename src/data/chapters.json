@@ -60,14 +60,26 @@
     "city": "Nashik",
     "name": "GDG Nashik",
     "url": "https://gdg.community.dev/gdg-nashik/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI 2026 - RAG & One Protocol to Rule Them All",
+        "start_date": "2026-06-28T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mptj45/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
     "city": "Ahmedabad",
     "name": "GDG Cloud Ahmedabad",
     "url": "https://gdg.community.dev/gdg-cloud-ahmedabad/",
-    "events": []
+    "events": [
+      {
+        "title": "Cloud & AI Connect: Google Cloud, Gemini & GenAI Open Discussion Meetup",
+        "start_date": "2026-06-28T10:30:33Z",
+        "url": "https://gdg.community.dev/e/m9y8cx/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -152,6 +164,11 @@
     "url": "https://gdg.community.dev/gdg-vizag/",
     "events": [
       {
+        "title": "\"BUILD with AI : Code for Communities\" Pre-event workshop",
+        "start_date": "2026-07-04T06:30:00Z",
+        "url": "https://gdg.community.dev/e/mvrjg8/"
+      },
+      {
         "title": "Wonder of Wonders 2026: Andhra Pradesh",
         "start_date": "2026-07-04T14:30:00Z",
         "url": "https://gdg.community.dev/e/m2eah5/"
@@ -211,13 +228,7 @@
     "city": "Madurai",
     "name": "GDG Madurai",
     "url": "https://gdg.community.dev/gdg-madurai/",
-    "events": [
-      {
-        "title": "What's New in Angular",
-        "start_date": "2026-06-27T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mg7bw8/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -292,7 +303,13 @@
     "city": "Kozhikode",
     "name": "GDG Kozhikode",
     "url": "https://gdg.community.dev/gdg-kozhikode/",
-    "events": []
+    "events": [
+      {
+        "title": "Build With AI: Code For Communities - From Data to Intelligence",
+        "start_date": "2026-07-04T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mp3dqu/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -319,7 +336,13 @@
     "city": "Kochi",
     "name": "GDG Cochin",
     "url": "https://gdg.community.dev/gdg-cochin/",
-    "events": []
+    "events": [
+      {
+        "title": "Gemini DevDive",
+        "start_date": "2026-07-04T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mn3bmz/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -340,7 +363,13 @@
     "city": "Bangalore",
     "name": "GDG Bangalore",
     "url": "https://gdg.community.dev/gdg-bangalore/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Code for Communities.",
+        "start_date": "2026-06-24T15:30:00Z",
+        "url": "https://gdg.community.dev/e/mzakhf/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -350,7 +379,7 @@
     "events": [
       {
         "title": "Build with AI Bhubaneswar 2026: Be Future Ready",
-        "start_date": "2026-06-28T03:30:00Z",
+        "start_date": "2026-07-05T03:30:00Z",
         "url": "https://gdg.community.dev/e/mpyxdf/"
       }
     ]
@@ -464,7 +493,13 @@
     "city": "Guwahati",
     "name": "GDG Guwahati",
     "url": "https://gdg.community.dev/gdg-guwahati/",
-    "events": []
+    "events": [
+      {
+        "title": "Hackathon WorkShop Alert: Build with AI - Code for Communities",
+        "start_date": "2026-07-05T09:00:00Z",
+        "url": "https://gdg.community.dev/e/mzr9v9/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -491,7 +526,13 @@
     "city": "Madurai",
     "name": "GDG Cloud Madurai",
     "url": "https://gdg.community.dev/gdg-cloud-madurai/",
-    "events": []
+    "events": [
+      {
+        "title": "Madurai For Nation",
+        "start_date": "2026-07-04T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mny3sj/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -547,7 +588,13 @@
     "city": "Vijayawada",
     "name": "GDG Vijayawada",
     "url": "https://gdg.community.dev/gdg-vijayawada/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Cloud For Communities - Hands-On Session - Cloud Agentic AI & Antigravity",
+        "start_date": "2026-07-03T04:30:16Z",
+        "url": "https://gdg.community.dev/e/m9n849/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -575,7 +622,13 @@
     "city": "Rajkot",
     "name": "GDG Cloud Rajkot",
     "url": "https://gdg.community.dev/gdg-cloud-rajkot/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Code for Communities Hackathon Announcement & Stack Overview",
+        "start_date": "2026-06-28T10:30:00Z",
+        "url": "https://gdg.community.dev/e/mm8xhj/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
