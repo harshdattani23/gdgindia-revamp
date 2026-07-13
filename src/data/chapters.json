@@ -11,13 +11,7 @@
     "city": "Patna",
     "name": "GDG Patna",
     "url": "https://gdg.community.dev/gdg-patna/",
-    "events": [
-      {
-        "title": "Google IO Extended Patna 2026",
-        "start_date": "2026-07-11T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mrp3wa/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -178,7 +172,13 @@
     "city": "Delhi",
     "name": "GDG Cloud New Delhi",
     "url": "https://gdg.community.dev/gdg-cloud-new-delhi/",
-    "events": []
+    "events": [
+      {
+        "title": "Build With AI - Buildathon",
+        "start_date": "2026-07-18T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mjcmxk/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -232,6 +232,11 @@
         "title": "Cloud Connect 2026: AI-Powered Cloud Workshops",
         "start_date": "2026-07-11T04:00:00Z",
         "url": "https://gdg.community.dev/e/mpmjwm/"
+      },
+      {
+        "title": "Cloud Connect Goa Extended 2026",
+        "start_date": "2026-07-18T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mzz75q/"
       }
     ]
   },
@@ -261,7 +266,13 @@
     "city": "Chennai",
     "name": "GDG Chennai",
     "url": "https://gdg.community.dev/gdg-chennai/",
-    "events": []
+    "events": [
+      {
+        "title": "Google I/O Extended Chennai 2026",
+        "start_date": "2026-08-01T03:30:00Z",
+        "url": "https://gdg.community.dev/e/m54txe/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -344,7 +355,13 @@
     "city": "Vadodara",
     "name": "GDG Baroda",
     "url": "https://gdg.community.dev/gdg-baroda/",
-    "events": []
+    "events": [
+      {
+        "title": "Google Vertex AI: An Introduction to AutoML with Real-World Demo.",
+        "start_date": "2026-07-26T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mcsmd2/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -445,7 +462,7 @@
     "events": [
       {
         "title": "Build with Gemma: Nagpur",
-        "start_date": "2026-07-18T05:30:00Z",
+        "start_date": "2026-07-25T05:30:00Z",
         "url": "https://gdg.community.dev/e/mb693c/"
       }
     ]
@@ -490,13 +507,7 @@
     "city": "Chandigarh",
     "name": "GDG Cloud Chandigarh",
     "url": "https://gdg.community.dev/gdg-cloud-chandigarh/",
-    "events": [
-      {
-        "title": "How I Fixed It",
-        "start_date": "2026-07-11T14:30:00Z",
-        "url": "https://gdg.community.dev/e/m4c52h/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
