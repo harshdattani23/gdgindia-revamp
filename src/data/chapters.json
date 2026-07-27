@@ -81,13 +81,7 @@
     "city": "Mumbai",
     "name": "GDG MAD",
     "url": "https://gdg.community.dev/gdg-mad/",
-    "events": [
-      {
-        "title": "Mumbai Community Afterparty (kinda)",
-        "start_date": "2026-07-25T10:30:00Z",
-        "url": "https://gdg.community.dev/e/mc3vyk/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -115,7 +109,13 @@
     "city": "Coimbatore",
     "name": "GDG Cloud Coimbatore",
     "url": "https://gdg.community.dev/gdg-cloud-coimbatore/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Code for Communities",
+        "start_date": "2026-08-08T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mykfdr/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -157,7 +157,13 @@
     "city": "Mumbai",
     "name": "GDG Cloud Mumbai",
     "url": "https://gdg.community.dev/gdg-cloud-mumbai/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with Google Cloud, AI & MongoDB",
+        "start_date": "2026-07-31T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mmwqgf/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -171,13 +177,7 @@
     "city": "Chennai",
     "name": "GDG Cloud Chennai",
     "url": "https://gdg.community.dev/gdg-cloud-chennai/",
-    "events": [
-      {
-        "title": "Cloud Native & Google Cloud - July 2026 Meetup",
-        "start_date": "2026-07-25T04:00:35Z",
-        "url": "https://gdg.community.dev/e/mzqrsu/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -211,13 +211,7 @@
     "city": "Madurai",
     "name": "GDG Madurai",
     "url": "https://gdg.community.dev/gdg-madurai/",
-    "events": [
-      {
-        "title": "What's New in Angular?",
-        "start_date": "2026-07-25T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m8gcj6/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -231,13 +225,7 @@
     "city": "Indore",
     "name": "GDG Indore",
     "url": "https://gdg.community.dev/gdg-indore/",
-    "events": [
-      {
-        "title": "Hands-on Workshop with Vrijraj Singh (GDE Firebase & GenAI)",
-        "start_date": "2026-07-25T04:00:00Z",
-        "url": "https://gdg.community.dev/e/m8dfkb/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -333,25 +321,20 @@
     "city": "Ahmedabad",
     "name": "GDG Ahmedabad",
     "url": "https://gdg.community.dev/gdg-ahmedabad/",
-    "events": []
+    "events": [
+      {
+        "title": "The Next Era of Dev Tooling: AI Agents & Specs, Not Guesses",
+        "start_date": "2026-08-01T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mbam6w/"
+      }
+    ]
   },
   {
     "type": "GDG",
     "city": "Bangalore",
     "name": "GDG Bangalore",
     "url": "https://gdg.community.dev/gdg-bangalore/",
-    "events": [
-      {
-        "title": "Build with AI: Code for Communities.",
-        "start_date": "2026-06-24T15:30:00Z",
-        "url": "https://gdg.community.dev/e/mzakhf/"
-      },
-      {
-        "title": "GSoC Meetup @Google Ananta",
-        "start_date": "2026-07-20T08:30:00Z",
-        "url": "https://gdg.community.dev/e/mp7v6n/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -378,20 +361,20 @@
     "city": "Delhi",
     "name": "GDG New Delhi",
     "url": "https://gdg.community.dev/gdg-new-delhi/",
-    "events": []
+    "events": [
+      {
+        "title": "Google I/O Extended 2026",
+        "start_date": "2026-08-22T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mbbeh3/"
+      }
+    ]
   },
   {
     "type": "GDG",
     "city": "Vadodara",
     "name": "GDG Baroda",
     "url": "https://gdg.community.dev/gdg-baroda/",
-    "events": [
-      {
-        "title": "Google Vertex AI: An Introduction to AutoML with Real-World Demo.",
-        "start_date": "2026-07-26T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mcsmd2/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -492,7 +475,7 @@
     "events": [
       {
         "title": "Build with Gemma: Nagpur",
-        "start_date": "2026-07-25T04:30:00Z",
+        "start_date": "2026-08-08T04:00:00Z",
         "url": "https://gdg.community.dev/e/mb693c/"
       }
     ]
@@ -579,20 +562,20 @@
     "city": "Gandhinagar",
     "name": "GDG Cloud Gandhinagar",
     "url": "https://gdg.community.dev/gdg-cloud-gandhinagar/",
-    "events": [
-      {
-        "title": "Build with Antigravity - Final Edition",
-        "start_date": "2026-07-26T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mvvfqn/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
     "city": "Rajkot",
     "name": "GDG Cloud Rajkot",
     "url": "https://gdg.community.dev/gdg-cloud-rajkot/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with Gemma Hackathon: GDG Cloud Rajkot",
+        "start_date": "2026-08-02T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m5me86/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
