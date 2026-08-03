@@ -39,7 +39,13 @@
     "city": "Nagpur",
     "name": "GDG Nagpur",
     "url": "https://gdg.community.dev/gdg-nagpur/",
-    "events": []
+    "events": [
+      {
+        "title": "Google I/O Extended Nagpur 2026",
+        "start_date": "2026-08-16T04:30:00Z",
+        "url": "https://gdg.community.dev/e/m486fq/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -157,20 +163,20 @@
     "city": "Mumbai",
     "name": "GDG Cloud Mumbai",
     "url": "https://gdg.community.dev/gdg-cloud-mumbai/",
-    "events": [
-      {
-        "title": "Build with Google Cloud, AI & MongoDB",
-        "start_date": "2026-07-31T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mmwqgf/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
     "city": "Bangalore",
     "name": "GDG Cloud Bengaluru",
     "url": "https://gdg.community.dev/gdg-cloud-bengaluru/",
-    "events": []
+    "events": [
+      {
+        "title": "Cloud & Data Day",
+        "start_date": "2026-08-22T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mvpqak/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -198,13 +204,7 @@
     "city": "Kolkata",
     "name": "GDG Kolkata",
     "url": "https://gdg.community.dev/gdg-kolkata/",
-    "events": [
-      {
-        "title": "Google I/O Extended Kolkata 2026",
-        "start_date": "2026-08-01T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mmhpu6/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -225,7 +225,13 @@
     "city": "Indore",
     "name": "GDG Indore",
     "url": "https://gdg.community.dev/gdg-indore/",
-    "events": []
+    "events": [
+      {
+        "title": "Technical Hands-on Workshop",
+        "start_date": "2026-08-09T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mmc32g/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -239,13 +245,7 @@
     "city": "Panaji",
     "name": "GDG Goa",
     "url": "https://gdg.community.dev/gdg-goa/",
-    "events": [
-      {
-        "title": "Cloud Connect 2026: AI-Powered Cloud Workshops",
-        "start_date": "2026-07-11T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mpmjwm/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -259,7 +259,13 @@
     "city": "Pune",
     "name": "GDG Pune",
     "url": "https://gdg.community.dev/gdg-pune/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI - Google Developer Group Pune | Deutsche Bank",
+        "start_date": "2026-08-08T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mrqks5/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -273,13 +279,7 @@
     "city": "Chennai",
     "name": "GDG Chennai",
     "url": "https://gdg.community.dev/gdg-chennai/",
-    "events": [
-      {
-        "title": "Google I/O Extended Chennai 2026",
-        "start_date": "2026-08-01T03:30:00Z",
-        "url": "https://gdg.community.dev/e/m54txe/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -321,13 +321,7 @@
     "city": "Ahmedabad",
     "name": "GDG Ahmedabad",
     "url": "https://gdg.community.dev/gdg-ahmedabad/",
-    "events": [
-      {
-        "title": "The Next Era of Dev Tooling: AI Agents & Specs, Not Guesses",
-        "start_date": "2026-08-01T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mbam6w/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -513,7 +507,13 @@
     "city": "Aurangabad",
     "name": "GDG Aurangabad",
     "url": "https://gdg.community.dev/gdg-aurangabad/",
-    "events": []
+    "events": [
+      {
+        "title": "Build With AI: Hands-On Workshop",
+        "start_date": "2026-08-05T12:30:00Z",
+        "url": "https://gdg.community.dev/e/m9pdmr/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -569,13 +569,7 @@
     "city": "Rajkot",
     "name": "GDG Cloud Rajkot",
     "url": "https://gdg.community.dev/gdg-cloud-rajkot/",
-    "events": [
-      {
-        "title": "Build with Gemma Hackathon: GDG Cloud Rajkot",
-        "start_date": "2026-08-02T04:00:00Z",
-        "url": "https://gdg.community.dev/e/m5me86/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
