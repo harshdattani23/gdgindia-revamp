@@ -115,13 +115,7 @@
     "city": "Coimbatore",
     "name": "GDG Cloud Coimbatore",
     "url": "https://gdg.community.dev/gdg-cloud-coimbatore/",
-    "events": [
-      {
-        "title": "Build with AI: Code for Communities",
-        "start_date": "2026-08-08T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mykfdr/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -227,9 +221,9 @@
     "url": "https://gdg.community.dev/gdg-indore/",
     "events": [
       {
-        "title": "Technical Hands-on Workshop",
-        "start_date": "2026-08-09T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mmc32g/"
+        "title": "GDG Indore AI Mini Hackathon 2026",
+        "start_date": "2026-09-06T02:30:00Z",
+        "url": "https://gdg.community.dev/e/m8v9cd/"
       }
     ]
   },
@@ -252,20 +246,20 @@
     "city": "Gandhinagar",
     "name": "GDG Gandhinagar",
     "url": "https://gdg.community.dev/gdg-gandhinagar/",
-    "events": []
+    "events": [
+      {
+        "title": "DevFest Gandhinagar 2026",
+        "start_date": "2026-08-04T13:18:15Z",
+        "url": "https://gdg.community.dev/e/mnr36y/"
+      }
+    ]
   },
   {
     "type": "GDG",
     "city": "Pune",
     "name": "GDG Pune",
     "url": "https://gdg.community.dev/gdg-pune/",
-    "events": [
-      {
-        "title": "Build with AI - Google Developer Group Pune | Deutsche Bank",
-        "start_date": "2026-08-08T03:30:00Z",
-        "url": "https://gdg.community.dev/e/mrqks5/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -328,7 +322,13 @@
     "city": "Bangalore",
     "name": "GDG Bangalore",
     "url": "https://gdg.community.dev/gdg-bangalore/",
-    "events": []
+    "events": [
+      {
+        "title": "AI & Cloud Connect",
+        "start_date": "2026-08-22T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mjxjja/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -342,13 +342,7 @@
     "city": "Coimbatore",
     "name": "GDG Coimbatore",
     "url": "https://gdg.community.dev/gdg-coimbatore/",
-    "events": [
-      {
-        "title": "Build with AI: Code for Communities",
-        "start_date": "2026-08-08T04:30:22Z",
-        "url": "https://gdg.community.dev/e/mm6kp7/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -459,7 +453,13 @@
     "city": "Dehradun",
     "name": "GDG Dehradun",
     "url": "https://gdg.community.dev/gdg-dehradun/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI",
+        "start_date": "2026-08-22T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mmjdfp/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -469,7 +469,7 @@
     "events": [
       {
         "title": "Build with Gemma: Nagpur",
-        "start_date": "2026-08-08T04:00:00Z",
+        "start_date": "2026-08-22T04:00:00Z",
         "url": "https://gdg.community.dev/e/mb693c/"
       }
     ]
@@ -507,13 +507,7 @@
     "city": "Aurangabad",
     "name": "GDG Aurangabad",
     "url": "https://gdg.community.dev/gdg-aurangabad/",
-    "events": [
-      {
-        "title": "Build With AI: Hands-On Workshop",
-        "start_date": "2026-08-05T12:30:00Z",
-        "url": "https://gdg.community.dev/e/m9pdmr/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
