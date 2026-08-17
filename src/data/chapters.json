@@ -39,13 +39,7 @@
     "city": "Nagpur",
     "name": "GDG Nagpur",
     "url": "https://gdg.community.dev/gdg-nagpur/",
-    "events": [
-      {
-        "title": "Google I/O Extended Nagpur 2026",
-        "start_date": "2026-08-16T04:30:00Z",
-        "url": "https://gdg.community.dev/e/m486fq/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -87,7 +81,13 @@
     "city": "Mumbai",
     "name": "GDG MAD",
     "url": "https://gdg.community.dev/gdg-mad/",
-    "events": []
+    "events": [
+      {
+        "title": "How to Win an Oscar  from Your Browser",
+        "start_date": "2026-08-22T04:30:00Z",
+        "url": "https://gdg.community.dev/e/mrgu25/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -129,7 +129,13 @@
     "city": "Indore",
     "name": "GDG Cloud Indore",
     "url": "https://gdg.community.dev/gdg-cloud-indore/",
-    "events": []
+    "events": [
+      {
+        "title": "Technical Hands-on Workshop",
+        "start_date": "2026-08-23T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mzy3h7/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -232,14 +238,41 @@
     "city": "Rajkot",
     "name": "GDG Rajkot",
     "url": "https://gdg.community.dev/gdg-rajkot/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with Antigravity",
+        "start_date": "2026-08-23T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mc6dhk/"
+      }
+    ]
   },
   {
     "type": "GDG",
     "city": "Panaji",
     "name": "GDG Goa",
     "url": "https://gdg.community.dev/gdg-goa/",
-    "events": []
+    "events": [
+      {
+        "title": "Cloud Connect Days 2026 - Goa [ Season 2 ]",
+        "start_date": "2026-08-28T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mv66u7/"
+      },
+      {
+        "title": "Cloud Connect Days 2026 - Goa [ Season 2 ]",
+        "start_date": "2026-09-11T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mn8z4f/"
+      },
+      {
+        "title": "Cloud Connect Days 2026 - Goa [ Season 2 ]",
+        "start_date": "2026-09-18T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mby2v4/"
+      },
+      {
+        "title": "Cloud Connect Days 2026 - Goa [ Season 2 ]",
+        "start_date": "2026-09-04T04:00:00Z",
+        "url": "https://gdg.community.dev/e/mcube6/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -259,7 +292,13 @@
     "city": "Pune",
     "name": "GDG Pune",
     "url": "https://gdg.community.dev/gdg-pune/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI - Pre DevFest Pune'26 Workshop Series | PubMatic",
+        "start_date": "2026-08-22T03:30:00Z",
+        "url": "https://gdg.community.dev/e/m9yrne/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -514,7 +553,13 @@
     "city": "Chandigarh",
     "name": "GDG Cloud Chandigarh",
     "url": "https://gdg.community.dev/gdg-cloud-chandigarh/",
-    "events": []
+    "events": [
+      {
+        "title": "Review AI-Generated Content",
+        "start_date": "2026-08-29T14:30:00Z",
+        "url": "https://gdg.community.dev/e/mb8f62/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -570,7 +615,13 @@
     "city": "Udaipur",
     "name": "GDG Cloud Udaipur",
     "url": "https://gdg.community.dev/gdg-cloud-udaipur/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: ABC (Anybody Can Code) - Udaipur Edition",
+        "start_date": "2026-09-06T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m85a3g/"
+      }
+    ]
   },
   {
     "type": "GDG",
