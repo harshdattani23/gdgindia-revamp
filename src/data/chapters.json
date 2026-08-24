@@ -39,7 +39,13 @@
     "city": "Nagpur",
     "name": "GDG Nagpur",
     "url": "https://gdg.community.dev/gdg-nagpur/",
-    "events": []
+    "events": [
+      {
+        "title": "Off Canvas: A Nagpur Design Assembly",
+        "start_date": "2026-08-30T04:30:00Z",
+        "url": "https://gdg.community.dev/e/m8ps4s/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -84,7 +90,7 @@
     "events": [
       {
         "title": "How to Win an Oscar  from Your Browser",
-        "start_date": "2026-08-22T04:30:00Z",
+        "start_date": "2026-08-29T04:30:00Z",
         "url": "https://gdg.community.dev/e/mrgu25/"
       }
     ]
@@ -129,13 +135,7 @@
     "city": "Indore",
     "name": "GDG Cloud Indore",
     "url": "https://gdg.community.dev/gdg-cloud-indore/",
-    "events": [
-      {
-        "title": "Technical Hands-on Workshop",
-        "start_date": "2026-08-23T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mzy3h7/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -170,13 +170,7 @@
     "city": "Bangalore",
     "name": "GDG Cloud Bengaluru",
     "url": "https://gdg.community.dev/gdg-cloud-bengaluru/",
-    "events": [
-      {
-        "title": "Cloud & Data Day",
-        "start_date": "2026-08-22T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mvpqak/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -238,13 +232,7 @@
     "city": "Rajkot",
     "name": "GDG Rajkot",
     "url": "https://gdg.community.dev/gdg-rajkot/",
-    "events": [
-      {
-        "title": "Build with Antigravity",
-        "start_date": "2026-08-23T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mc6dhk/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -292,13 +280,7 @@
     "city": "Pune",
     "name": "GDG Pune",
     "url": "https://gdg.community.dev/gdg-pune/",
-    "events": [
-      {
-        "title": "Build with AI - Pre DevFest Pune'26 Workshop Series | PubMatic",
-        "start_date": "2026-08-22T03:30:00Z",
-        "url": "https://gdg.community.dev/e/m9yrne/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -347,7 +329,13 @@
     "city": "Jalandhar",
     "name": "GDG Jalandhar",
     "url": "https://gdg.community.dev/gdg-jalandhar/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: Workshop",
+        "start_date": "2026-09-26T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mzujtq/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -361,13 +349,7 @@
     "city": "Bangalore",
     "name": "GDG Bangalore",
     "url": "https://gdg.community.dev/gdg-bangalore/",
-    "events": [
-      {
-        "title": "AI & Cloud Connect",
-        "start_date": "2026-08-22T04:30:00Z",
-        "url": "https://gdg.community.dev/e/mjxjja/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -388,13 +370,7 @@
     "city": "Delhi",
     "name": "GDG New Delhi",
     "url": "https://gdg.community.dev/gdg-new-delhi/",
-    "events": [
-      {
-        "title": "Google I/O Extended 2026",
-        "start_date": "2026-08-22T03:30:00Z",
-        "url": "https://gdg.community.dev/e/mbbeh3/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG",
@@ -408,7 +384,13 @@
     "city": "Jammu",
     "name": "GDG Jammu",
     "url": "https://gdg.community.dev/gdg-jammu/",
-    "events": []
+    "events": [
+      {
+        "title": "Build with AI: ABC (Any Body Can Code)",
+        "start_date": "2026-09-06T05:00:00Z",
+        "url": "https://gdg.community.dev/e/m4xnpf/"
+      }
+    ]
   },
   {
     "type": "GDG",
@@ -457,7 +439,13 @@
     "city": "Bhubaneswar",
     "name": "GDG Cloud Bhubaneswar",
     "url": "https://gdg.community.dev/gdg-cloud-bhubaneswar/",
-    "events": []
+    "events": [
+      {
+        "title": "Code for Communities 2.0",
+        "start_date": "2026-09-13T04:00:00Z",
+        "url": "https://gdg.community.dev/e/m9xgr2/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
@@ -492,26 +480,14 @@
     "city": "Dehradun",
     "name": "GDG Dehradun",
     "url": "https://gdg.community.dev/gdg-dehradun/",
-    "events": [
-      {
-        "title": "Build with AI",
-        "start_date": "2026-08-22T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mmjdfp/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
     "city": "Nagpur",
     "name": "GDG Cloud Nagpur",
     "url": "https://gdg.community.dev/gdg-cloud-nagpur/",
-    "events": [
-      {
-        "title": "Build with Gemma: Nagpur",
-        "start_date": "2026-08-22T04:00:00Z",
-        "url": "https://gdg.community.dev/e/mb693c/"
-      }
-    ]
+    "events": []
   },
   {
     "type": "GDG Cloud",
@@ -587,7 +563,13 @@
     "city": "Noida",
     "name": "GDG Cloud Noida",
     "url": "https://gdg.community.dev/gdg-cloud-noida/",
-    "events": []
+    "events": [
+      {
+        "title": "Thinkfluence",
+        "start_date": "2026-09-12T03:30:00Z",
+        "url": "https://gdg.community.dev/e/mbfn56/"
+      }
+    ]
   },
   {
     "type": "GDG Cloud",
